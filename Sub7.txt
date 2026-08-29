@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://53ffd172-de4c-0032-aa77-1a6830a36cf8@135.106.142.209:443?mode=packet-up&path=/assets&security=reality&encryption=none&pbk=fz_xpZfQks3oa9c_d1OSokmTgmJuGbvFMkyK0Qt8w3I&fp=chrome&type=xhttp&sni=alfastat.ru&sid=0066a7326f06d426#@V2raySaman
 vless://53ffd172-de4c-0032-aa77-1a6830a36cf8@135.106.142.209:443?mode=packet-up&path=/assets&security=reality&encryption=none&pbk=fz_xpZfQks3oa9c_d1OSokmTgmJuGbvFMkyK0Qt8w3I&fp=chrome&type=xhttp&sni=alfastat.ru&sid=0066a7326f06d426#@V2rayng_Fast
 vless://53ffd172-de4c-0032-aa77-1a6830a36cf8@135.106.142.209:443?mode=packet-up&path=/assets&security=reality&encryption=none&pbk=fz_xpZfQks3oa9c_d1OSokmTgmJuGbvFMkyK0Qt8w3I&fp=chrome&type=xhttp&sni=alfastat.ru&sid=0066a7326f06d426#@bored_vpn
 vless://53ffd172-de4c-0032-aa77-1a6830a36cf8@135.106.142.209:443?mode=packet-up&path=/assets&security=reality&encryption=none&pbk=fz_xpZfQks3oa9c_d1OSokmTgmJuGbvFMkyK0Qt8w3I&fp=chrome&type=xhttp&sni=alfastat.ru&sid=0066a7326f06d426#@icv2ray
@@ -502,4 +503,3 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&en
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?encryption=none&security=none&type=tcp&headerType=http&host=/---TELEGRAM---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig#کانال تلگرام : Free_VPN_CH@
 vless://6c7f57b3-252d-407d-a9e4-38a39820bbdb@v2.lock1.app:8443?path=/&security=tls&alpn=h2&encryption=none&host=v2.lock1.app&fp=chrome&type=ws&sni=v2.lock1.app#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=maze.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=maze.purplrose.ir#چنل عضو شو @v2ra_config
-vless://6d4cce6a-dbc6-43af-9146-067847483fce@cd3.postshup.ir:8880?path=/?ed=2082&security=none&encryption=none&host=GXfeggx.netherlands1.postshup.ir&type=httpupgrade#@NETMelliAnti

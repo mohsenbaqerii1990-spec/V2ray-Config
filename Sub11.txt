@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.226:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#Bisto4_Service
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=savesafe.co&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.229:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&host=/?BIA_TELEGRAM@TOOTFFARANGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#@IRAN_V2RAY1
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.110:443?encryption=none&security=reality&sni=panel.freesavesafe.com&fp=chrome&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb&type=xhttp&host=panel.freesavesafe.com&path=/#@filembad
@@ -502,4 +503,3 @@ vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reali
 vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 vless://cd71ac77-5fdd-c51d-ac87-e620df987b90@inetchnl-production-9f4e.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/cd71ac77-5fdd-c51d-ac87-e620df987b90&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=inetchnl-production-9f4e.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=inetchnl-production-9f4e.up.railway.app#🇳🇱@iNetChnl
 vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁸⁴
-vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?security=none&encryption=none&headerType=none&type=tcp#@V2ray_Alpha👢 4
