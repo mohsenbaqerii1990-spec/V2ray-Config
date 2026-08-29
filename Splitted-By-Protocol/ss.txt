@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%E2%9A%99%EF%B8%8F8@oneclickvpnkeys
 ss://275d87d1-221a-4e47-96b1-9a6f76a7daba@151.101.2.133:80?mode=auto&path=/?ed=2048--Telegram@V2ray_Alpha&security=none&encryption=none&host=kavianvpsnour.global.ssl.fastly.net&type=xhttp#[027537] - 🇨🇦 Canada | @freenettir
 ss://2b285251-1c04-404e-bea8-e1489920e853@62.152.58.114:443?security=reality&encryption=none&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wl-13-1.nodes.ac&sid=3130197867c23edb#[027538] - 🇷🇺 Russia | @freenettir
