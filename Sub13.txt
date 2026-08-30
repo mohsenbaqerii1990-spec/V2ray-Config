@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dd358774-cd02-42b7-9716-d9f3627cefac@149.112.84.49:54237?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=wqgM2hNgNhv3a0_zLHYiitoFGkN_ubAQMhW48WfW-io&sid=c386acc3c7b89538&type=tcp&headerType=none#کانال ما
 vless://dd358774-cd02-42b7-9716-d9f3627cefac@149.112.84.49:54237?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=wqgM2hNgNhv3a0_zLHYiitoFGkN_ubAQMhW48WfW-io&sid=c386acc3c7b89538&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://dd358774-cd02-42b7-9716-d9f3627cefac@149.112.84.49:54237?security=reality&encryption=none&pbk=wqgM2hNgNhv3a0_zLHYiitoFGkN_ubAQMhW48WfW-io&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=c386acc3c7b89538#@ConfigV2RayNG - ⌚-58
 vless://dd358774-cd02-42b7-9716-d9f3627cefac@149.112.84.49:54237?security=reality&encryption=none&pbk=wqgM2hNgNhv3a0_zLHYiitoFGkN_ubAQMhW48WfW-io&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=c386acc3c7b89538#🇺🇸156840 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://f13639f5-19e2-414a-8b0e-7b712c593b65@download.mehdi-cpp.ir:8443?encrypti
 vless://f13639f5-19e2-414a-8b0e-7b712c593b65@download.mehdi-cpp.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=63&sni=github.com&spx=/6ebca72bfdaa461&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://f13639f5-19e2-414a-8b0e-7b712c593b65@shop.jarorobo.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=82&sni=image.semiconductor.samsung.com&spx=/38cc648bbf59e87&type=tcp#🇩🇪156776 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f13639f5-19e2-414a-8b0e-7b712c593b65@shop.jarorobo.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=82&sni=image.semiconductor.samsung.com&spx=/38cc648bbf59e87&type=tcp#🇩🇪DE-🚀@VPNine1
+vless://f13639f5-19e2-414a-8b0e-7b712c593b65@shop.jarorobo.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=63&sni=github.com&spx=/6ebca72bfdaa461&type=tcp#🇩🇪156765 | ⚡️Telegram = t.me/SOSkeyNET

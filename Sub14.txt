@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f13639f5-19e2-414a-8b0e-7b712c593b65@shop.jarorobo.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=63&sni=github.com&spx=/6ebca72bfdaa461&type=tcp#🇩🇪156765 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f13639f5-19e2-414a-8b0e-7b712c593b65@shop.jarorobo.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=63&sni=github.com&spx=/6ebca72bfdaa461&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://f13639f5-19e2-414a-8b0e-7b712c593b65@store.mehdi-cpp.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=82&sni=image.semiconductor.samsung.com&spx=/38cc648bbf59e87&type=tcp#🇩🇪156779 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f13639f5-19e2-414a-8b0e-7b712c593b65@store.mehdi-cpp.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=82&sni=image.semiconductor.samsung.com&spx=/38cc648bbf59e87&type=tcp#🇩🇪DE-🚀@VPNine1
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#%3E%3E%40v2ray1_ng%3A%3AXX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#%3E%3E%40V2rayNG3%3A%3AXX
 ss://YWVzLTI1Ni1nY206Z29SejhDVEZFNnpQWlhJQQ@94.72.127.58:443#%3E%3E%40configV2rayNG%3A%3AUS
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%3E%3E%40V2rayNG3%3A%3AJP
