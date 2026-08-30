@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ddc84c5c-2aca-4e6b-a3fa-e23a9cd299e9@62.171.178.144:443?security=reality&encryption=none&pbk=Z0i98sm08Xm652vSee4d7RMPfBIcLrHCjPw2qLjlmnU&headerType=none&fp=chrome&spx=/bf1e61279c8d149&type=tcp&sni=google-analytics.com&sid=c6#@v2ray313 کانالمون 💚
 vless://ddc84c5c-2aca-4e6b-a3fa-e23a9cd299e9@62.171.178.144:443?security=reality&encryption=none&pbk=Z0i98sm08Xm652vSee4d7RMPfBIcLrHCjPw2qLjlmnU&headerType=none&fp=chrome&spx=/bf1e61279c8d149&type=tcp&sni=google-analytics.com&sid=c6#[🇫🇷]t.me/ConfigV2RayNG
 vless://ddc84c5c-2aca-4e6b-a3fa-e23a9cd299e9@62.171.178.144:443?security=reality&encryption=none&pbk=Z0i98sm08Xm652vSee4d7RMPfBIcLrHCjPw2qLjlmnU&headerType=none&fp=chrome&spx=/bf1e61279c8d149&type=tcp&sni=google-analytics.com&sid=c6#🔵@chillguy_vpn
 vless://ddc84c5c-2aca-4e6b-a3fa-e23a9cd299e9@62.171.178.144:443?security=reality&encryption=none&pbk=Z0i98sm08Xm652vSee4d7RMPfBIcLrHCjPw2qLjlmnU&headerType=none&fp=chrome&type=tcp&sni=google-analytics.com&sid=c6#[🇫🇷]t.me/ConfigV2RayNG
@@ -503,3 +502,4 @@ vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=/download.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@v2mystery 👈 عضو شو
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#Channel : @Daily_Configs
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#🇫🇷 | 3

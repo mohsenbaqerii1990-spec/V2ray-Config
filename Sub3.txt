@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@104.27.58.136:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#@V2ray_Alpha🏨 8
 vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@172.64.80.125:2096?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#@V2ray_Alpha🏨 7
 vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@172.64.83.118:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#@V2ray_Alpha🏨 5
 vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@173.245.49.225:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#@V2ray_Alpha🏨 4
@@ -503,3 +502,4 @@ vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=realit
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#@mtmvpn
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#MTMVPN
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#Proxy_mtm
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:8444?path=/api/v1/devices/7c05e2fb91/telemetry&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nl3.meshbeat.online&type=ws&allowInsecure=0&sni=nl3.meshbeat.online#@Nexus_Panell چنل تلگرام
