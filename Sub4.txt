@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl3.meshbeat.online:8444/?type=ws&encryption=none&flow=&host=nl3.meshbeat.online&path=/api/v1/devices/7c05e2fb91/telemetry&security=tls&sni=nl3.meshbeat.online&alpn=http/1.1&allowInsecure=1&fp=chrome#德国
+vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#[32472] - Telegram : @V2All
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#canfingV2rayNG-67
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#کانال ما
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#🇨🇦156233 | ⚡️Telegram = t.me/SOSkeyNET
@@ -501,5 +503,3 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=r
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#@outline_ir
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#Bisto4_Service
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#MTMVPN 🇦🇩
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#[🇲🇩]t.me/ConfigV2RayNG
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#kurdconfig
