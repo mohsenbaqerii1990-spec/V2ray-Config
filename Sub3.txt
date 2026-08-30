@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@172.64.80.125:2096?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#@V2ray_Alpha🏨 7
+vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@172.64.83.118:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#@V2ray_Alpha🏨 5
+vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@173.245.49.225:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#@V2ray_Alpha🏨 4
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@singapore.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://04c9681a-277f-4d97-8922-1bc64bc1cc07@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://04cb9c0f-363c-4bf8-a195-2cb8bd43b02a@o.server5peekconfig.workers.dev:443/?type=ws&encryption=none&flow=&host=O.seRVer5peEKCOnFIG.WOrKers.dEV&path=/eyJqdW5rIjoiSU9LdXp3R1p6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=O.seRVer5peEKCOnFIG.WOrKers.dEV&alpn=http/1.1#تو کانال نتورلد نباشید قطع میشن@networld_vpn
@@ -500,6 +503,3 @@ vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=realit
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#MTMVPN
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#Proxy_mtm
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:8444?path=/api/v1/devices/7c05e2fb91/telemetry&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nl3.meshbeat.online&type=ws&allowInsecure=0&sni=nl3.meshbeat.online#@Nexus_Panell چنل تلگرام
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl3.meshbeat.online:8444/?type=ws&encryption=none&flow=&host=nl3.meshbeat.online&path=/api/v1/devices/7c05e2fb91/telemetry&security=tls&sni=nl3.meshbeat.online&alpn=http/1.1&allowInsecure=1&fp=chrome#德国
-vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#[32472] - Telegram : @V2All
-vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#canfingV2rayNG-67

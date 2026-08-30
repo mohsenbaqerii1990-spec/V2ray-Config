@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@appsooner کانال تلگرام 🕊️
+vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@bored_vpn
+vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@configprxy
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@configprxy کانال تلگرام 🕊️
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@i10VPN🌶️
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@icv2ray
@@ -500,6 +503,3 @@ vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@91.107.179.8:15001?encryption=none&
 vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@91.107.179.8:15001?security=none&encryption=none&headerType=none&type=tcp#@hex_proxy ³
 vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@w1.beraghsadevs.ir:15001?security=none&encryption=none&headerType=none&type=tcp#@hex_proxy ³
 vless://6a08e957-908a-4711-8e80-54e21c96c2ad@104.105.3.99:32855?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a&type=tcp&headerType=none#@Ap_Ir6
-vless://6a08e957-908a-4711-8e80-54e21c96c2ad@104.105.3.99:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#@appsooner کانال تلگرام 🕊️
-vless://6a08e957-908a-4711-8e80-54e21c96c2ad@93.114.98.84:32855?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a&type=tcp&headerType=none#@Ap_Ir6
-vless://6a08e957-908a-4711-8e80-54e21c96c2ad@93.114.98.84:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#@appsooner کانال تلگرام 🕊️
