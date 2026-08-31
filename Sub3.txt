@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.158.16:13868?security=reality&encryption=none&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ea.com&sid=e852dc#@NOFiLTERING2🇩🇪
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.158.16:13868?security=reality&encryption=none&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ea.com&sid=e852dc#🇪🇸139888 | ⚡️Telegram = t.me/SOSkeyNET
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.4.20:13868?encryption=none&type=tcp&security=reality&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&sni=www.epicgames.com&fp=chrome&flow=xtls-rprx-vision#🇫🇮139903 | ⚡️Telegram = t.me/SOSkeyNET
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#‌
@@ -503,3 +502,4 @@ vless://22fff84b-dd89-489d-bc4c-794f664b92a2@151.101.56.7:443?path=/&security=tl
 vless://22fff84b-dd89-489d-bc4c-794f664b92a2@188.114.98.44:8080?path=/?ed=2080&security=none&encryption=none&host=1.vexogf.ir&type=httpupgrade#@v2ray313 کانالمون ⛄
 vless://22fff84b-dd89-489d-bc4c-794f664b92a2@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@v2ray313 کانالمون 🔥
 vless://2303c25e-0359-4772-d730-fbf2d34bc9c2@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI
+vless://2303c25e-0359-4772-d730-fbf2d34bc9c2@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖

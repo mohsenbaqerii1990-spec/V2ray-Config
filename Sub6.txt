@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://435fc5e1-f12b-468b-b1d4-802a9ce86ba3@165.231.157.108:443?security=tls&encryption=none&extra={"xmux":{"maxConnections":1,"maxReuseTimes":0}}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=app-6a936c8a.adhil.uk#🇪🇪 V2RayyNGvpn
 vless://436251af-af1b-4f91-9a86-cb9faf2e9d91@go.lumen.com:2052?path=/&security=&encryption=none&host=fin.v2shop.xyz&type=ws#🇫🇮 FIN _ CDN Cloud ایرانسل (Hhfdrtu) [VLESS - ws]
 vless://43948542-5c01-4fc3-bf42-e339e9ca3fbe@2.27.27.33:443?mode=auto&path=/&security=reality&encryption=none&pbk=B4NK8UZflXK2SI7P6wvCbfSw0wspQRO0ElZM30gc_1E&host=pimg.mycdn.me&fp=chrome&type=xhttp&sni=pimg.mycdn.me#@configprxy丨چنل تلگرام 🇩🇪
 vless://43948542-5c01-4fc3-bf42-e339e9ca3fbe@2.27.27.33:443?mode=auto&path=/&security=reality&encryption=none&pbk=B4NK8UZflXK2SI7P6wvCbfSw0wspQRO0ElZM30gc_1E&host=pimg.mycdn.me&fp=chrome&type=xhttp&sni=pimg.mycdn.me#کانال تلگرام-MTMVPN
@@ -503,3 +502,4 @@ vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&e
 vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#تلگرام MTMVPN 6
 vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&host=%&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#@vmesskhodam
 vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&host=/?BIA_TELEGRAM@MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#@MARAMBASHI 🇩🇪
+vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&host=/?BIA_TELEGRAM@MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#@V2rayng_Fast 🇩🇪
