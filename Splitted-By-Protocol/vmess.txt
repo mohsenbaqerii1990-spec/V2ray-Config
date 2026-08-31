@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJlcGdlLm11YXJ1YS5maWxlZ2Vhci1zZy5tZSIsICJ0bHMiOiAiIn0=
 vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?encryption=auto&security=none&type=tcp#5🚘@oneclickvpnkeys
 vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#🚘10@oneclickvpnkeys
 vmess://15247720-17e1-4ea3-9150-b9350099d9fa@116.203.54.241:443?encryption=auto&security=none&type=tcp#🚘1@oneclickvpnkeys
