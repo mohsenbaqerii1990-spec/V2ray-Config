@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cde73ad2-1a4f-4521-8c31-bd498cdacd73@soskeynets-m2a3xv.nlt.deepl-cdn.com:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=auth.deepl.com&fp=chrome&insecure=1&allowInsecure=1&pbk=wKPAR2t-xoUMbBqRHV7SLvGuR9dwrcH6bTSknyBO0T8&sid=a1b2c3d4e5f6789a&flow=xtls-rprx-vision#🇳🇱139868 | ⚡️Telegram = t.me/SOSkeyNET
+vless://cde73ad2-1a4f-4521-8c31-bd498cdacd73@soskeynets-m9r8vv.95.yndx-cdn.com:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=api-maps.yandex.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&flow=xtls-rprx-vision#🇷🇺139870 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cde8e374-bf71-4a1f-9386-db050bc46190@81.27.110.79:8080?encryption=none&security=none&type=tcp#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇫🇮
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=/?ed=2560#😛Tel: @pPal03😛Join Googool😛
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.24.85.213:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=/?ed=2560#😛Tel: @pPal03😛Join Googool😛
@@ -501,5 +503,3 @@ vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?encryption=no
 vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fr2.janusgate.org&sid=6ed1d644822b2951#@Nexus_Panell چنل تلگرام
 vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#🇩🇪139864 | ⚡️Telegram = t.me/SOSkeyNET
 vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#🇩🇪139865 | ⚡️Telegram = t.me/SOSkeyNET
-vless://df9f5aca-eda0-428f-a752-e53866153d12@31.56.189.27:8765?encryption=none&flow=xtls-rprx-vision&security=reality&sni=srv-21bac9.vless.monster&fp=chrome&pbk=M08l5tDmJUYELykZCNYQyFgtR9Zc-A4ZGlUSLcUeS2c&sid=1bcc9177f3124b25&type=tcp&headerType=none#@meliproxyy
-vless://df9f5aca-eda0-428f-a752-e53866153d12@31.56.189.27:8765?security=reality&encryption=none&fm=ahmadv2ray&pbk=M08l5tDmJUYELykZCNYQyFgtR9Zc-A4ZGlUSLcUeS2c&headerType=none&fp=chrome&spx=/ahmadv2ray&type=tcp&flow=xtls-rprx-vision&sni=srv-21bac9.vless.monster&sid=1bcc9177f3124b25#🇮🇩 Join+Telegram:@Farah_VPN 🇮🇩
