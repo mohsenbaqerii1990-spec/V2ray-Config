@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://df207a99-2eab-4383-9082-33cf9a54c7b9@194.146.68.140:500?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=qjKV_OK9_tXqPPN6DGGQP8cjY5XrncnvZ9wuhj6n3yw&fp=chrome&spx=/RAOsbjQcy7J3YEY&type=xhttp&sni=www.nvidia.com&sid=7e40cb5f922609e8#🇮🇷139758 | ⚡️Telegram = t.me/SOSkeyNET
 vless://df2557f7-e6b5-e192-9b0e-d5f902c062d5@69.46.46.123:443?path=/ws/df2557f7-e6b5-e192-9b0e-d5f902c062d5&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-7513.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-7513.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fr2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=6ed1d644822b2951&spx=/#@meliproxyy
@@ -502,4 +503,3 @@ vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?security=reality
 vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@s1.test.anti-zapret.com:8443?encryption=none&security=reality&sni=s1.test.anti-zapret.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icD‌QOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://f8511ce5-5ba2-4139-8421-0abaa62da364@4a-c289-4e15-82d2-bd87a2ef57af.soundmusic77.ir:3345?path=/?ed=2048&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=w.wizardxray.net#🇫🇮FI-🚀@VPNine1
 vless://f8a8b40d-a714-43bf-022a-8b3e3ff2e642@s2.zynetraq.ir:2087?alpn=h2,http/1.1,h3&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=s2.zynetraq.ir&mode=auto&path=/BetForward&pcs=0258c1ff5f1251a516a8ac42c354d3f757e43355dce7ac49e870acf3973ab711&security=tls&sni=s2.zynetraq.ir&type=xhttp&x_padding_bytes=100-1000#🇮🇷139730 | ⚡️Telegram = t.me/SOSkeyNET
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.17.25.173:2052?encryption=none&security=none&fp=chrome&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy&path=/?ed#کانال تلگرام : Free_VPN_CH@

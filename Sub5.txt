@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#@Alpha_V2rayip
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#MTMVPN 24
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#MTMVPN 50
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#MTMVPN 🇦🇩
@@ -502,4 +503,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.245.208:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.87:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://435fc5e1-f12b-468b-b1d4-802a9ce86ba3@165.231.157.108:443?mode=auto&security=tls&encryption=none&extra=&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=app-6a936c8a.adhil.uk#@vmesskhodam
 vless://435fc5e1-f12b-468b-b1d4-802a9ce86ba3@165.231.157.108:443?mode=auto&security=tls&encryption=none&extra={  "xmux" : {    "maxConnections" : 1,    "maxReuseTimes" : 0  }}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=app-6a936c8a.adhil.uk#@𝐕𝟐𝐗𝐍𝐄𝐓
-vless://435fc5e1-f12b-468b-b1d4-802a9ce86ba3@165.231.157.108:443?mode=auto&security=tls&encryption=none&extra={"xmux":{"maxConnections":1,"maxReuseTimes":0}}&fp=chrome&type=xhttp&sni=app-6a936c8a.adhil.uk#@v2ray_phoenix
