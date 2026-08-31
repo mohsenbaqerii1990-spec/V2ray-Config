@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
+vless://42edf47c-7dd2-4207-b061-87935222eec4@91.243.86.89:2058?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?security=none&encryption=none&headerType=none&type=tcp#@leviconfigs🪐-25
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000?security=none&encryption=none&type=tcp&headerType=none#@v2rayng3
 vless://432289de-8dec-46ef-9a3f-001a3af178a7@45.76.87.125:14750?encryption=none&fp=chrome&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=/@Marisa_kristi&security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws#🚘52@oneclickvpnkeys
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#TEL;Father_vpn
@@ -498,8 +503,3 @@ vless://5aafc2be-9348-4dec-b896-f4a91253bbca@202.37.33.80:443?path=/id-tksi?ed=2
 vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ai_duet
 vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@tanhanet
 vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com&note=@FreeOnlineVPN#🇨🇦 - CA - @FreeOnlineVPN
-vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@188.114.99.160:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@TanhaNet 🇮🇷
-vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?encryption=none&security=none&type=ws&path=/5adeccb9#@Ap_Ir6
-vless://5b3a8c7b-e17c-4eaf-bf42-38317548032d@swwwsxc.kipa2.ir:210?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇨🇭 l 𝐒𝐖𝐈𝐓𝐙𝐄𝐑𝐋𝐀𝐍𝐃
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t01.tzteam.online&path=/?ed=2048&security=tls&sni=t01.tzteam.online&fp=chrome#@Vpn_Mafia
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
