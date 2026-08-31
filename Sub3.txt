@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#@KAFING_2
-vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
-vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?security=reality&encryption=none&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=f648da8196bdb32e#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&security=none&sni=mypanel.unixzone.us&type=ws&host=mypanel.unixzone.us&path=/#🇳🇱NL_166_@Surfboardv2ray
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&security=none&type=ws&path=/#🇳🇱 NL
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&type=ws&path=/&security=none#🇳🇱 @V2RAYNG_IP 🔥
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=&encryption=none&host=mypanel.unixzone.us&type=ws&sni=mypanel.unixzone.us#@meliproxyy
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=&encryption=none&host=mypanel.unixzone.us&type=ws&sni=mypanel.unixzone.us#🔵@chillguy_vpn
@@ -503,3 +498,8 @@ vless://21a98c41-ed3e-4fe5-a15c-4f506ec2b284@95.154.221.153:443?encryption=none&
 vless://2209803c-f438-4b37-a60e-cfa213c5edd2@193.233.133.152:44634?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=kLFWkJfLnH5OaU12D2sRotdgRcgOwX7HKljlV6A4jUw&fp=chrome&spx=/&type=xhttp&sni=www.sony.com&sid=82590eda#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.160.158:443?fp=chrome&sni=www.cloudflare.com&encryption=none&sid=29fd3dc0210c&spx=/&security=reality&type=tcp&headerType=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg#@v2rayng3
 vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.160.158:443?sid=29fd3dc0210c&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&sni=www.cloudflare.com&headerType=none&spx=/&type=tcp&security=reality&fp=chrome#@v2rayng3
+vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.161.1:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.45:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#@appsooner کانال تلگرام 🕊️
+vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.45:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.65:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#@appsooner کانال تلگرام 🕊️
+vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.65:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
