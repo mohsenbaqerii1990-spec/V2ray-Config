@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.40:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@mehrosaboran
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.40:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@tootffarangi🍓-8
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.40:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@v2ray_phoenix
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.40:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#[🇫🇷]t.me/ConfigV2RayNG
@@ -503,3 +502,4 @@ vless://d0ee468a-084b-411d-b2be-b886a61065d1@k2.cloud--vpn.site:443?path=/&secur
 vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.95:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=58fbcddfaae3ade9#kurdconfig
 vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.95:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=58fbcddfaae3ade9#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.95:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=58fbcddfaae3ade9#🇳🇱@FreakConfig
+vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.97:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=58fbcddfaae3ade9#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
