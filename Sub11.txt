@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.100:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@irdusti⁵🍷
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.10:443?encryption=none&fp=&host=panel.freesavesafe.com&mode=auto&path=/&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=panel.freesavesafe.com&type=xhttp#🚘73@oneclickvpnkeys
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.10:443?encryption=none&security=reality&sni=panel.freesavesafe.com&fp=chrome&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb&allowinsecure=0&type=xhttp&mode=auto&host=panel.freesavesafe.com&path=/#@meliproxyy
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.10:443?encryption=none&security=reality&sni=panel.freesavesafe.com&fp=chrome&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb&allowinsecure=0&type=xhttp&mode=auto&host=panel.freesavesafe.com&path=/#🇩🇪All¹⁰ | @BigSmoke_Config
@@ -503,3 +502,4 @@ vless://ce99a4f9-02a4-4476-d31d-8152b0d999ea@151.101.56.6:443?path=/?TELEGRAM-Bi
 vless://ce99a4f9-02a4-4476-d31d-8152b0d999ea@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 💫❤️
 vless://cef12ad2-fb16-4ace-ab26-2a026d40a7d2@144.31.74.41:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=LB2i67ErtJPlIIDeDHlGvSip6-qPJLH9HzYju5fZ32c&sid=2916&type=grpc#کانال تلگرام : Free_VPN_CH@
 vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?path=/arvan-tuel&security=none&encryption=none&host=connect.nyxserver.ir&type=ws#@tanhanet @ai_duet
+vless://cf0248f7-afaa-49fd-821e-6adc951df1a5@www.speedtest.net:443?path=/eyJqdW5rIjoibzdETUxDZXk3RjNkY1BBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==&security=tls&alpn=http/1.1&encryption=none&host=bpb-c4afefbb.djfvbkjdfv.workers.dev&fp=chrome&type=ws&sni=BPb-C4AfEfbB.djFvbKjDfV.woRKeRs.dev#@appsooner کانال تلگرام 🕊️
