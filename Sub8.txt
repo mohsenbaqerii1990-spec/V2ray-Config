@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6ccb83ae-b765-4c43-9c48-fd4886056a69@217.11.164.92:37430?type=tcp&encryption=none&security=reality&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#@vpn_kurdnet-منبع کانفیگ‌ های رایگان
 vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=maze.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=maze.purplrose.ir#چنل عضو شو @v2ra_config
 vless://6d1a314b-1b4f-4791-a4aa-941fc61c9256@tr5.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#🇹🇷158361 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6d1a314b-1b4f-4791-a4aa-941fc61c9256@tr5.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#🇹🇷TR-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&encryption=none&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.oncloudnineservicestreang.com&sid=28415a7918168947#@fastkanfig واسه کانفیگای جدید عضو باشین
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?encryption=none&type=tcp&security=reality&headerType=none&sni=4.oncloudnineservicestreang.com&insecure=1&allowInsecure=1&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&sid=04bc695105689674&flow=xtls-rprx-vision#@SylphNet | 2026-07-12 21:31
 vless://85b27fbd-33d6-4a3a-bf5b-c3cf97772893@tr.privatevip.ir:2502?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=tr.privatevip.ir#🇫🇷⇝ @GpConnectSho کانکت شو! 💠
-vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/TvPAJHXEXlFdLMqF?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (8)
