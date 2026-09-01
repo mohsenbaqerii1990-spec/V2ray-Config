@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.googletagmanager.com&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@v2rayng3
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@appsooner کانال تلگرام 🕊️
 vless://dc7be1e6-ba1c-4ed3-b9e9-b60c895ea83d@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇦🇺157783 | ⚡️Telegram = t.me/SOSkeyNET
 vless://dc7be1e6-ba1c-4ed3-b9e9-b60c895ea83d@Fanl1.mechanicir.ir:10694?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#🇫🇮157782 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ vless://f25a8d2f-764c-a9bf-bc6d-8d65a358b07d@inetchnl-production-0060.up.railway
 vless://f25ee01c-7901-4fec-a582-699132749f14@soskeynets-production.up.railway.app:443?path=/ws/f25ee01c-7901-4fec-a582-699132749f14?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=grovestreetpanellll2-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=grovestreetpanellll2-production.up.railway.app#🇺🇸139737 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.15:2083?type=grpc&security=none&serviceName=chat.deepseek.com&encryption=none#[34220] - Telegram : @V2All
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&serviceName=chat.deepseek.com&type=grpc#🔒22@oneclickvpnkeys
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?security=&encryption=none&type=grpc&serviceName=chat.deepseek.com#@meliproxyy
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?type=grpc&serviceName=chat.deepseek.com&encryption=none&security=none&mode=gun#[34208] - Telegram : @V2All
