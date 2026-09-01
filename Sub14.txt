@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://eff4b847-75bf-4c89-b469-814a2cab2d9b@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
+vless://f04828df-7021-44b3-8019-9db3a5a20cd6@176.120.17.126:27725?security=none&encryption=mlkem768x25519plus.native.0rtt.uyfy3Yls6V2mQ17yfxk_j_Bn8vTCNTOn2acMlBG1H3g&headerType=none&type=tcp#@filembad
 vless://f04828df-7021-44b3-8019-9db3a5a20cd6@176.120.17.126:27725?security=none&encryption=mlkem768x25519plus.native.0rtt.uyfy3Yls6V2mQ17yfxk_j_Bn8vTCNTOn2acMlBG1H3g&headerType=none&type=tcp#[34786] - Telegram : @V2All
 vless://f04828df-7021-44b3-8019-9db3a5a20cd6@176.120.17.126:54752?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.ciIqYbsDqemExhmjet_ooBkQDcYbV9QCn_PtUCk8XBU&type=ws#@filembad
 vless://f04828df-7021-44b3-8019-9db3a5a20cd6@bddjeieieooeoeoeir.viramiq.ir:22985?security=reality&encryption=mlkem768x25519plus.native.0rtt.Medk4J9od0INkD7xa1XU5aCBwd6Rv5lwKKfCqVGB8VQ&pbk=iGyAuYm07oaUtjbJRdCESf-JdZ_lgn3TUxmAh1neQV0&headerType=none&fp=chrome&type=tcp&sni=adl.windows.com&sid=795b17e00b01ed7c#@filembad
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw%3D@188.116.23.244:8388#%3E%3E%40V2rayNG3%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%3E%3E%40outline_vpn%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.152.189:50099#%3E%3E%40shadowproxy66%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#%3E%3E%40shadowproxy66%3A%3AXX
