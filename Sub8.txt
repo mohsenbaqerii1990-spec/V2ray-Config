@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6c7f57b3-252d-407d-a9e4-38a39820bbdb@v2.lock1.app:8443?path=/&security=tls&alpn=h2&encryption=none&host=v2.lock1.app&fp=chrome&type=ws&sni=v2.lock1.app#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://6ccb83ae-b765-4c43-9c48-fd4886056a69@217.11.164.92:37430?encryption=none&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&security=reality&fp=chrome&sni=amp-api-edge.apps.apple.com&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&spx=/#@V2RAYNG_IP 🌩️🫟
 vless://6ccb83ae-b765-4c43-9c48-fd4886056a69@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=chrome&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com# telegram @mtmvpn 28
 vless://6ccb83ae-b765-4c43-9c48-fd4886056a69@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=chrome&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com#@meliproxyy
@@ -502,4 +503,3 @@ vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?path=/api/v2/cam
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?path=/api/v2/camera/events/8f4c2d&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=azs.benz.ink#🇷🇺139881 | ⚡️Telegram = t.me/SOSkeyNET
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#🇷🇺 RU
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&security=none#🇷🇺 @V2RAYNG_IP ✅
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@188.114.97.6:8080?path=/&security=none&encryption=none&host=bitter-shadow-4fc5.alvlirm852.workers.dev&type=ws#@hex_proxy ⁷
