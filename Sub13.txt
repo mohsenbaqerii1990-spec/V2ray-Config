@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@alban.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alban.freeinternat.com&sid=ff776ff77be48b88#@hex_proxy ⁷
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@duchland1.vodniki.monster:443?security=reality&encryption=none&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=duchland1.vodniki.monster&sid=0c13e8822e7f58aa#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@fin4.freeinternat.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin4.freeinternat.com&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#channel_@networld_vpn
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=gr.freeinternat.com&sid=ff776ff77be48b88#@v2ray313 کانالمون 💌
@@ -503,3 +502,4 @@ vless://f2dbb505-c695-4543-9b2f-ceb426b63b48@172.67.222.117:2095?encryption=none
 vless://f32a99e8-05dd-478a-82c0-7688848121bd@8.218.188.129:8080?type=ws&host=mkhy.daozhang.link#@Hope_Net-join-us-on-Telegram
 vless://f32a99e8-05dd-478a-82c0-7688848121bd@8.218.2.181:8080?type=ws&host=mkhy.daozhang.link#@Hope_Net-join-us-on-Telegram
 vless://f32b9470-4c85-4185-817a-b524ed94ffd9@vip.linux-panel.com:2044?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
+vless://f36fe26e-79a4-4125-b28e-9a9ddb62c377@tsa-production-9222.up.railway.app:443?encryption=none&type=ws&security=tls&path=/vl-ws&host=tsa-production-9222.up.railway.app&sni=tsa-production-9222.up.railway.app&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#configprxy
