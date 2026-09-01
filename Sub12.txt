@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cb183c14-e094-40d5-8519-72933fc74cc9@38.128.251.24:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=mangaarabics.com&headerType=http&type=tcp#@VEGAAS_VPN🇺🇲
 vless://cba8674f-c167-4672-a6c8-97bdb7b52717@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://cbc50781-cfa5-4747-91a4-bc8f3f9de1fd@webshecan.webredirect.org:2083?type=tcp&security=reality&fp=chrome&pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&sni=www.theverge.com&flow=xtls-rprx-vision&sid=7f321171&spx=/#@Webshecan-test
 vless://cbc5b8c8-69a3-4c09-bd8a-6b19592877d6@www.speedtest.net:443?mode=stream-up&path=/&security=tls&alpn=h2&encryption=none&extra={  "noGRPCHeader" : false,  "xmux" : {    "hMaxReusableSecs" : "1800-3000",    "maxConcurrency" : "16-32",    "cMaxReuseTimes" : 0,    "maxConnections" : 0,    "hMaxRequestTimes" : "600-900",    "hKeepAlivePeriod" : 0  },  "scStreamUpServerSecs" : "20-80",  "scMaxEachPostBytes" : 1000000,  "headers" : {  },  "xPaddingBytes" : "100-1000",  "scMinPostsIntervalMs" : 30}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de-3.85858569.xyz#@KAFING_2
@@ -503,3 +502,4 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@irdusti⁶⏳
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@104.18.26.90:2087?security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@172.64.152.23:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
+vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
