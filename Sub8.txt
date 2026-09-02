@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER
 vless://68b369cb-ee77-41e4-b514-cbaa6bbe7c19@192.204.45.220:47991?security=reality&encryption=none&pbk=RqYNfh-KZgzEYEeNE-Qpu4dscJMGfanILFdQomJu8DY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=76b663f249db51ac#@B2Hub
 vless://68b369cb-ee77-41e4-b514-cbaa6bbe7c19@192.204.45.220:47991?security=reality&encryption=none&pbk=RqYNfh-KZgzEYEeNE-Qpu4dscJMGfanILFdQomJu8DY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=76b663f249db51ac#@bored_vpn
 vless://68b369cb-ee77-41e4-b514-cbaa6bbe7c19@192.204.45.220:47991?security=reality&encryption=none&pbk=RqYNfh-KZgzEYEeNE-Qpu4dscJMGfanILFdQomJu8DY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=76b663f249db51ac#@mehrosaboran
@@ -502,4 +503,3 @@ vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?path=/api/v2/cam
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#🇷🇺 RU
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&security=none#🇷🇺 @V2RAYNG_IP ✅
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@188.114.97.6:8080?path=/&security=none&encryption=none&host=bitter-shadow-4fc5.alvlirm852.workers.dev&type=ws#@hex_proxy ⁷
-vless://852d8e9f-fba2-c400-8777-5f968fe910c6@prisonvpnc-production-8e1b.up.railway.app:443?encryption=none&security=tls&type=ws&host=prisonvpnc-production-8e1b.up.railway.app&path=/ws/852d8e9f-fba2-c400-8777-5f968fe910c6&sni=prisonvpnc-production-8e1b.up.railway.app&fp=chrome&alpn=http/1.1#RVG-@PRISONVPNc
