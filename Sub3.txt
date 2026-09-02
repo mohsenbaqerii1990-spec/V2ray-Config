@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://06a70256-5acc-4a79-bd73-cc8e3c4c204b@144.31.183.177:443?security=reality&encryption=none&pbk=_VeT5AgFK65VebuF3KC-yYJtFw_fnJCLYGK1Ap2NfWI&headerType=none&fp=chrome&spx=/567a77547d99226&type=tcp&flow=xtls-rprx-vision&sni=yt.be&sid=e9a7#@meliproxyy
-vless://06a70256-5acc-4a79-bd73-cc8e3c4c204b@144.31.183.177:443?security=reality&encryption=none&pbk=_VeT5AgFK65VebuF3KC-yYJtFw_fnJCLYGK1Ap2NfWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.be&sid=e9a7#@FarazV2ray
-vless://06a70256-5acc-4a79-bd73-cc8e3c4c204b@144.31.183.177:443?security=reality&encryption=none&pbk=_VeT5AgFK65VebuF3KC-yYJtFw_fnJCLYGK1Ap2NfWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.be&sid=e9a7#@V2raySaman
-vless://06a70256-5acc-4a79-bd73-cc8e3c4c204b@144.31.183.177:443?security=reality&encryption=none&pbk=_VeT5AgFK65VebuF3KC-yYJtFw_fnJCLYGK1Ap2NfWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.be&sid=e9a7#@V2rayng_Fast
 vless://06a70256-5acc-4a79-bd73-cc8e3c4c204b@144.31.183.177:443?security=reality&encryption=none&pbk=_VeT5AgFK65VebuF3KC-yYJtFw_fnJCLYGK1Ap2NfWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.be&sid=e9a7#[🇫🇮]t.me/ConfigV2RayNG
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/proxyip=ProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#@free_conf_iran 👈 کانفیگ رایگان
 vless://06bfb14e-66cc-48ca-a429-b9301dba2f81@104.17.123.204:8880/?type=ws&encryption=none&flow=&host=long-firefly-a226.216-ce0.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#香港
@@ -503,3 +499,7 @@ vless://2072d835-f8f2-c8e4-c2be-905ab3b936c3@soskeynets-vpn-production-98dc.up.r
 vless://20bcb7a8-c51b-4771-9686-6b4509dc9cd2@159.69.28.178:20995/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=itunes.apple.com&fp=chrome&security=reality&pbk=GqIZ3PiZBcvHMfXhk7BDZMWhF2Q4FrGVW9sgkllXkA4&sid=6ba85179e30d4fc2#德国
 vless://20bcb7a8-c51b-4771-9686-6b4509dc9cd2@159.69.28.178:20995?encryption=none&type=tcp&security=reality&headerType=none&sni=itunes.apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=GqIZ3PiZBcvHMfXhk7BDZMWhF2Q4FrGVW9sgkllXkA4&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🦉@FreeConfigForYou
 vless://20bcb7a8-c51b-4771-9686-6b4509dc9cd2@159.69.28.178:20995?security=reality&encryption=none&pbk=GqIZ3PiZBcvHMfXhk7BDZMWhF2Q4FrGVW9sgkllXkA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#@B2Hub
+vless://20bcb7a8-c51b-4771-9686-6b4509dc9cd2@159.69.28.178:20995?security=reality&encryption=none&pbk=GqIZ3PiZBcvHMfXhk7BDZMWhF2Q4FrGVW9sgkllXkA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#@FarazV2ray
+vless://20bcb7a8-c51b-4771-9686-6b4509dc9cd2@159.69.28.178:20995?security=reality&encryption=none&pbk=GqIZ3PiZBcvHMfXhk7BDZMWhF2Q4FrGVW9sgkllXkA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#@Iran_v2ray1
+vless://20bcb7a8-c51b-4771-9686-6b4509dc9cd2@159.69.28.178:20995?security=reality&encryption=none&pbk=GqIZ3PiZBcvHMfXhk7BDZMWhF2Q4FrGVW9sgkllXkA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#@V2raySaman
+vless://20bcb7a8-c51b-4771-9686-6b4509dc9cd2@159.69.28.178:20995?security=reality&encryption=none&pbk=GqIZ3PiZBcvHMfXhk7BDZMWhF2Q4FrGVW9sgkllXkA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#@V2rayng_Fast
