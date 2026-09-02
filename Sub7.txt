@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@vmess_ir
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#Bisto4_Service
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@95.143.188.10:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=chrome&type=xhttp&sni=git.medrocket.ru&sid=3b5b38669a1a51c0#@Selinc
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@95.143.188.10:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=chrome&type=xhttp&sni=git.medrocket.ru&sid=3b5b38669a1a51c0#@bored_vpn
@@ -502,4 +503,3 @@ vless://65b93122-1e6c-8167-687d-c516c921b148@prisonvpnc-production-8e1b.up.railw
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.777791.xyz:2053?encryption=none&security=tls&sni=us.105794.xyz&fp=chrome&type=ws&host=us.105794.xyz&path=/download/v3/installer-x64.bin#کانال ما
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.777791.xyz:2053?encryption=none&security=tls&sni=us.105794.xyz&fp=chrome&type=ws&host=us.105794.xyz&path=/download/v3/installer-x64.bin#🇨🇦158857 | ⚡️Telegram = t.me/SOSkeyNET
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.777791.xyz:2053?encryption=none&security=tls&sni=us.105794.xyz&fp=chrome&type=ws&host=us.105794.xyz&path=/download/v3/installer-x64.bin#🚀@VPNine1
-vless://65e0db75-3135-413a-a126-bbb97a0b6e4e@mhzedir.qzz.io:53355?security=none&encryption=none&headerType=http&type=tcp#کانال تلگرام ما ange1Vpn@
