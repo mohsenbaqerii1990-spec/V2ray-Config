@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.googletagmanager.com&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@v2rayng3
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@appsooner کانال تلگرام 🕊️
 vless://dc8d6d5d-0696-480b-8676-ef76e025f7ed@104.21.94.168:8080?security=none&type=ws&host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@31.77.170.110:443?security=reality&
 vless://eff4b847-75bf-4c89-b469-814a2cab2d9b@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://f04828df-7021-44b3-8019-9db3a5a20cd6@176.120.17.126:27725?security=none&encryption=mlkem768x25519plus.native.0rtt.uyfy3Yls6V2mQ17yfxk_j_Bn8vTCNTOn2acMlBG1H3g&headerType=none&type=tcp#@filembad
 vless://f04828df-7021-44b3-8019-9db3a5a20cd6@176.120.17.126:54752?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.ciIqYbsDqemExhmjet_ooBkQDcYbV9QCn_PtUCk8XBU&type=ws#@filembad
-vless://f04828df-7021-44b3-8019-9db3a5a20cd6@bddjeieieooeoeoeir.viramiq.ir:22985?security=reality&encryption=mlkem768x25519plus.native.0rtt.Medk4J9od0INkD7xa1XU5aCBwd6Rv5lwKKfCqVGB8VQ&pbk=iGyAuYm07oaUtjbJRdCESf-JdZ_lgn3TUxmAh1neQV0&headerType=none&fp=chrome&type=tcp&sni=adl.windows.com&sid=795b17e00b01ed7c#@filembad

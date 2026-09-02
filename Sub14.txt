@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f04828df-7021-44b3-8019-9db3a5a20cd6@bddjeieieooeoeoeir.viramiq.ir:22985?security=reality&encryption=mlkem768x25519plus.native.0rtt.Medk4J9od0INkD7xa1XU5aCBwd6Rv5lwKKfCqVGB8VQ&pbk=iGyAuYm07oaUtjbJRdCESf-JdZ_lgn3TUxmAh1neQV0&headerType=none&fp=chrome&type=tcp&sni=adl.windows.com&sid=795b17e00b01ed7c#@filembad
 vless://f04828df-7021-44b3-8019-9db3a5a20cd6@bddjeieieooeoeoeir.viramiq.ir:22985?security=reality&encryption=mlkem768x25519plus.native.0rtt.Medk4J9od0INkD7xa1XU5aCBwd6Rv5lwKKfCqVGB8VQ&pbk=iGyAuYm07oaUtjbJRdCESf-JdZ_lgn3TUxmAh1neQV0&headerType=none&fp=chrome&type=tcp&sni=adl.windows.com&sid=795b17e00b01ed7c#🔵@chillguy_vpn
 vless://f04828df-7021-44b3-8019-9db3a5a20cd6@bddjeieieooeoeoeir.viramiq.ir:54752?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.ciIqYbsDqemExhmjet_ooBkQDcYbV9QCn_PtUCk8XBU&type=ws#@filembad
 vless://f04828df-7021-44b3-8019-9db3a5a20cd6@bddjeieieooeoeoeir.viramiq.ir:54752?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.ciIqYbsDqemExhmjet_ooBkQDcYbV9QCn_PtUCk8XBU&type=ws#🔵@chillguy_vpn
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:443#%3E%3E%40VmessProtocol%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#%3E%3E%40V2rayNG3%3A%3AXX
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#%3E%3E%40V2rayNG3%3A%3AXX
