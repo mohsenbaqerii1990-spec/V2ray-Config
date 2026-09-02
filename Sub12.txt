@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.168:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=agile-raptor.cdn.cachefleet.com#🇧🇪139755 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#@NOFiLTERING2🇩🇪
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#💫@ATOVPN گیگی ۳۵۰۰
@@ -502,4 +503,3 @@ vless://d8760638-587c-e47a-20fa-56c956a5f55b@69.46.46.123:443?path=/ws/d8760638-
 vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=/vless&security=tls&encryption=none&host=adminv2.jikecloud.cc&fp=chrome&type=ws&sni=adminv2.jikecloud.cc#@v2ray_phoenix
 vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=/vless&security=tls&encryption=none&insecure=0&host=adminv2.jikecloud.cc&fp=chrome&type=ws&allowInsecure=0&sni=adminv2.jikecloud.cc#@V2ray_Alpha🏛️ 1
 vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=/vless&security=tls&encryption=none&insecure=0&host=adminv2.jikecloud.cc&fp=chrome&type=ws&allowInsecure=0&sni=adminv2.jikecloud.cc#@V2ray_Alpha🏛️ 7
-vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=/vless&security=tls&encryption=none&insecure=0&host=adminv2.jikecloud.cc&fp=chrome&type=ws&allowInsecure=0&sni=adminv2.jikecloud.cc#@bored_vpn
