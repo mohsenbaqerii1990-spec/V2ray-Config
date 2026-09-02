@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=/&security=none&encryption=none&type=ws#🇱🇺@Lent_Gc
 vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@172.67.201.133:8443?path=/api/voip/updates/static/x9i2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=france.io-com-de-dev.org&fp=chrome&type=ws&allowInsecure=0&sni=france.io-com-de-dev.org#@i10VPN🚀
 vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#test france
 vless://05f1007e-9ed8-4808-b081-65163a196959@de.poco.mobileahmadreza.ir:2091?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@V2ray_Alpha😏 1
@@ -503,3 +502,4 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=n
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=nlbv2.pabloping.pro&path=pabloping#کانال تلگرام : Free_VPN_CH@
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s1.nakosgol.com&path=/pabloping&security=none&note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s1.nakosgol.com&type=xhttp#@KAFING_2
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s2.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
