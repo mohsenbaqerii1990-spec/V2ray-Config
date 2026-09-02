@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c87e551b-3999-4b76-b3bf-bdfd6ef176fd@153.76.208.232:443?security=reality&encryption=none&pbk=kCKXYcvEQ2cz4d0jBmBjyzbesUZ3AHQBukhqXWPiRlA&headerType=none&fp=chrome&spx=/c1762d24c4fc297&type=tcp&sni=yandex.com.am&sid=f3deb2#@Begoo_VPN ²⁹¹
 vless://c8bc9e80-b5f3-4794-9b52-7be14118cbd8@rezeroooo3-hollowcon2.hf.space:443?encryption=none&security=tls&sni=rezeroooo3-hollowcon2.hf.space&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rezeroooo3-hollowcon2.hf.space&path=/ws/c8bc9e80-b5f3-4794-9b52-7be14118cbd8#@hollowcon
 vless://c8c06f90-c267-47a6-a91a-967e58e61db0@204.44.127.222:37262?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁸⁷
 vless://c8c06f90-c267-47a6-a91a-967e58e61db0@204.44.127.222:37262?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
@@ -503,3 +502,4 @@ vless://dbdf1950-b40e-4533-88bb-05ebca375781@www.speedtest.net:8443?path=/&secur
 vless://dc1656d2-8603-4c76-abc5-74e89c10bc2d@153.75.88.69:110?security=none&encryption=none&headerType=none&type=tcp#🇬🇧GB-🚀@VPNine1
 vless://dc1656d2-8603-4c76-abc5-74e89c10bc2d@153.75.88.69:443?security=none&encryption=none&headerType=none&type=tcp#🇬🇧GB-🚀@VPNine1
 vless://dc1656d2-8603-4c76-abc5-74e89c10bc2d@153.75.88.69:8080?security=none&encryption=none&headerType=none&type=tcp#🇬🇧GB-🚀@VPNine1
+vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.googletagmanager.com&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
