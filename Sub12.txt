@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c45460b9-3224-446e-b823-587fe215bf5d@tunel.blueheartz.ir:27195?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=h2IZ2DHQ-ibHC8NzuO7TVo3wS7G8DBV1hoCCR5cbRko&sid=a9dc264d7346&spx=/df709e3b0a500ff&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
 vless://c46c1fa3-194f-4c19-a9ba-690475acb717@tr1p.soundfiy.ir:61169?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#🇩🇪All⁵ | @BigSmoke_Config
 vless://c4745383-5e50-4482-8980-8a57a098f58f@web-production-6ffd7.up.railway.app:443?encryption=none&security=tls&sni=web-production-6ffd7.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-6ffd7.up.railway.app&path=/ws/c4745383-5e50-4482-8980-8a57a098f58f#@hollowcon
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?&security=tls&fp=chrome&sni=a.cwvps.eu.org&type=ws&headerType=none&host=a.cwvps.eu.org&path=/ws#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
@@ -502,4 +503,3 @@ vless://d7c7c33d-9986-4d59-a2d9-94db22d61665@31.56.229.41:443?encryption=none&se
 vless://d7e34f7f-0545-5a18-6901-0603cfde8614@69.46.46.103:443?path=/ws/d7e34f7f-0545-5a18-6901-0603cfde8614&security=tls&alpn=http/1.1&encryption=none&host=kar-production-4a48-hfgd.up.railway.app&fp=chrome&type=ws&sni=kar-production-4a48-hfgd.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://d8485a10-8f37-44ae-b9a7-00f53a51e392@me.movieseryalirani.ir:443?encryption=none&fp=chrome&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&security=reality&sid=fb4a7886e1a46370&sni=matrix-client.matrix.org&spx=/M8cpW1akBeEHlCz&type=tcp#🇫🇮FI-🚀@VPNine1
 vless://d8485a10-8f37-44ae-b9a7-00f53a51e392@me1.movieseryalirani.ir:443?encryption=none&fp=chrome&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&security=reality&sid=fb4a7886e1a46370&sni=matrix-client.matrix.org&spx=/M8cpW1akBeEHlCz&type=tcp#🇫🇮FI-🚀@VPNine1
-vless://d8485a10-8f37-44ae-b9a7-00f53a51e392@me10.movieseryalirani.ir:443?encryption=none&fp=chrome&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&security=reality&sid=fb4a7886e1a46370&sni=matrix-client.matrix.org&spx=/M8cpW1akBeEHlCz&type=tcp#🇫🇮FI-🚀@VPNine1

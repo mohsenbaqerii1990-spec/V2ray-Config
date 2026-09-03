@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d8485a10-8f37-44ae-b9a7-00f53a51e392@me10.movieseryalirani.ir:443?encryption=none&fp=chrome&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&security=reality&sid=fb4a7886e1a46370&sni=matrix-client.matrix.org&spx=/M8cpW1akBeEHlCz&type=tcp#🇫🇮FI-🚀@VPNine1
 vless://d8485a10-8f37-44ae-b9a7-00f53a51e392@me2.movieseryalirani.ir:443?encryption=none&fp=chrome&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&security=reality&sid=fb4a7886e1a46370&sni=matrix-client.matrix.org&spx=/M8cpW1akBeEHlCz&type=tcp#🇫🇮FI-🚀@VPNine1
 vless://d8485a10-8f37-44ae-b9a7-00f53a51e392@me3.movieseryalirani.ir:443?encryption=none&fp=chrome&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&security=reality&sid=fb4a7886e1a46370&sni=matrix-client.matrix.org&spx=/M8cpW1akBeEHlCz&type=tcp#🇫🇮FI-🚀@VPNine1
 vless://d8485a10-8f37-44ae-b9a7-00f53a51e392@me8.movieseryalirani.ir:443?encryption=none&fp=chrome&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&security=reality&sid=fb4a7886e1a46370&sni=matrix-client.matrix.org&spx=/M8cpW1akBeEHlCz&type=tcp#🇫🇮FI-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?Telegram=Cfox
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0# telegram @mtmvpn 1
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@FreeConfigForYou
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@IRan_v2ray1
-vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@V2ray_Alpha🥎 9
