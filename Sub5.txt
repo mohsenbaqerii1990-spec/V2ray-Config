@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#@V2raySaman
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#@V2rayng_Fast
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#@tootffarangi🍓-7
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#@vmesskhodam
@@ -502,4 +503,3 @@ vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=/&security=no
 vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=/&security=none&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#@outline_ir
 vless://38df5518-26c5-449b-98d9-a4f456f5f689@tun.temas-bor.ir:443?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=chrome&spx=/&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#@v2rayng3
 vless://39036971-c66f-423d-b304-caf61016c1df@185.212.49.141:443?encryption=none&security=reality&type=xhttp&headerType=none&path=/NXRFqdfT74wvTrhjneowm8H2oeGhcq?ed=2560&mode=stream-up&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000","uplinkChunkSize":"0"}&sni=www.aparat.com&fp=chrome&pbk=LeoX--ZpuXko-hvIYwsWm-fKHAkxpw4qe_jKJjQbB18&sid=dbdfe84828a608#🇮🇷139880 | ⚡️Telegram = t.me/SOSkeyNET
-vless://391c3f25-b29e-46df-aea3-5246f1c59162@185.146.173.95:2095?type=ws&host=all5.savagev2ray.site&path=/Telegram - @XvProxy - Telegram - @XvProxy#@Hope_Net-join-us-on-Telegram
