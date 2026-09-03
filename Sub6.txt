@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://391c3f25-b29e-46df-aea3-5246f1c59162@185.146.173.95:2095?type=ws&host=all5.savagev2ray.site&path=/Telegram - @XvProxy - Telegram - @XvProxy#@Hope_Net-join-us-on-Telegram
 vless://392058de-bb7e-44f5-b5bf-9184109cb42b@45.133.210.83:443?security=reality&encryption=none&pbk=cttKOS1BlF-u-mvX63PWNPJK6W_RXfx1wo8yjBEt1hI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a2eb8d694a5480ff#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://3923100b-fc39-4568-b589-55c4f2bec09b@sparkconfig.parsclad.ir:56408?encryption=none&fp=chrome&pbk=igieZCZLRmmQL7kS4JAz3jz0k97PpgjU86RLy5B95Tw&security=reality&sid=2924&sni=blog.api.www.cloudflare.com&spx=/a1a8b7296e4c45c&type=tcp#w5vflkamol-🇳🇱_sparkconfig1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#TEL;Father_vpn
@@ -503,3 +502,4 @@ vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?encryption=none&ty
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#@MARAMBASHI 🇩🇪
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#@V2rayng_Fast 🇩🇪
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&authority=/?BIA_TELEGRAM@mtmvpn&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad# telegram @mtmvpn 25
+vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#AZARBAYJAB1🇯🇵

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=/vless&security=tls&encryption=none&host=adminv2.jikecloud.cc&fp=chrome&type=ws&sni=adminv2.jikecloud.cc#@v2ray_phoenix
 vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=/vless&security=tls&encryption=none&insecure=0&host=adminv2.jikecloud.cc&fp=chrome&type=ws&allowInsecure=0&sni=adminv2.jikecloud.cc#@V2ray_Alpha🏛️ 1
 vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=/vless&security=tls&encryption=none&insecure=0&host=adminv2.jikecloud.cc&fp=chrome&type=ws&allowInsecure=0&sni=adminv2.jikecloud.cc#@V2ray_Alpha🏛️ 7
 vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=/vless&security=tls&encryption=none&insecure=0&host=adminv2.jikecloud.cc&fp=chrome&type=ws&allowInsecure=0&sni=adminv2.jikecloud.cc#@bored_vpn
@@ -503,3 +502,4 @@ vless://ed6efa6e-4159-485f-b465-de2d7c9d2e84@aml.plasdomain.ir:32855?security=re
 vless://ed6efa6e-4159-485f-b465-de2d7c9d2e84@frkks.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a# telegram @mtmvpn 10
 vless://ed6efa6e-4159-485f-b465-de2d7c9d2e84@frkks.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#@configprxy
 vless://ed6efa6e-4159-485f-b465-de2d7c9d2e84@ita1.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#@configprxy
+vless://ed713345-61f4-4eca-8708-b3a1e9bfbb40@38.180.104.152:21077?path=/&security=none&encryption=none&host=www.google.com&type=ws#🇹🇷 @GozargahVPN
