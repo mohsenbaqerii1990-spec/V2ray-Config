@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2048&security=tls&encryption=none&host=josni.hoyes.cloudns.ch&type=ws&sni=josni.hoyes.cloudns.ch#@appsooner کانال تلگرام 🕊️
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
@@ -503,3 +502,4 @@ vless://9d440601-dafc-40fc-a844-f7328b303604@soskeynets.lockdwn.com:8443?securit
 vless://9d48abaf-f694-40b1-a71a-9e4740b8af7f@tsaj-production-9b39.up.railway.app:443?path=/vl-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tsaj-production-9b39.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tsaj-production-9b39.up.railway.app#https://t.me/mtmvpn
 vless://9d8a55de-70df-44a9-973e-4ffa02d05f32@67.159.43.203:443?path=/api/connect&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cli-q.bosx.net#@bored_vpn
 vless://9d8a55de-70df-44a9-973e-4ffa02d05f32@67.159.43.203:443?path=/api/connect&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cli-q.bosx.net#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://9e09f1ce-45d4-0920-b077-81b0dae00db2@31.76.109.7:80?security=reality&encryption=none&pbk=4iWZChsH0rnqtn89xiB1evDLkFjmgh-3WYjx8cknZC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=console.cloud.yandex.ru&sid=a8b9c0d1e2f34567#@appsooner کانال تلگرام 🕊️
