@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c2b0f077-5ef5-462f-b70c-cefb718b1155@165.245.241.161:440?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#@ehsawn8-نامحدود
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#@hopev2ray🤍
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@soskeynets.ns.cloudflare.com:443?encryption=none&security=tls&sni=octopusss5.info&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=/udfyfws@soskeynets#🇨🇦139773 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=/movie&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#canfingV2rayNG-381
@@ -502,4 +503,3 @@ vless://d8505be4-4465-3a65-c35b-d6d9959cfe8b@147.182.156.111:8039?flow=xtls-rprx
 vless://d85ea913-7dfa-44b0-bd66-33414e897991@104.26.14.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#کانال تلگرام : Free_VPN_CH@
 vless://d8760638-587c-e47a-20fa-56c956a5f55b@69.46.46.123:443?path=/ws/d8760638-587c-e47a-20fa-56c956a5f55b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sr-production-cb35.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-cb35.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=/vless&security=tls&encryption=none&host=adminv2.jikecloud.cc&fp=chrome&type=ws&sni=adminv2.jikecloud.cc#@v2ray_phoenix
-vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=/vless&security=tls&encryption=none&insecure=0&host=adminv2.jikecloud.cc&fp=chrome&type=ws&allowInsecure=0&sni=adminv2.jikecloud.cc#@V2ray_Alpha🏛️ 1
