@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://52b7a871-1455-4a6e-9e9c-78a0a1e43f86@meli-netbot-join.team-pluss.com:8080?security=reality&encryption=none&pbk=a31ZnQOsnWUJq5bSLVWIeuGJZFPE52NidulBT5CV_z4&headerType=none&fp=chrome&spx=/276a63766749207&type=tcp&sni=the.world.of.the.champions.retrovip.net&sid=f40ef36067#@meliproxyy
 vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality&encryption=none&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=52a6#کانال ما
 vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality&encryption=none&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=52a6#🇳🇱160676 | ⚡️Telegram = t.me/SOSkeyNET
 vless://535ce13c-134b-4cfd-8c77-0d006b67d318@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#@V2ray_Alpha🫚 3
@@ -502,4 +503,3 @@ vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&pa
 vless://66c38516-8d85-45b7-afcd-4b1b0352e38c@188.213.198.238:7080?security=none&encryption=none&headerType=none&type=tcp#🇩🇪گیگی ۵۵۰۰ @ATOVPN
 vless://670decfe-68cc-499e-8cb1-22b39c20acbb@nl8.helper-internet.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl8.helper-internet.com&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://675ee872-adb2-4c66-8358-bd360259311f@178.239.148.12:80?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.Kr-To-SdPFLSTQ1Ku0S6YIrfpS1FZ18y3N8t5I1xLX0&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=german3.navigatoer.ir#کانال ما
-vless://675ee872-adb2-4c66-8358-bd360259311f@178.239.148.12:80?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.Kr-To-SdPFLSTQ1Ku0S6YIrfpS1FZ18y3N8t5I1xLX0&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=german3.navigatoer.ir#🇮🇷160591 | ⚡️Telegram = t.me/SOSkeyNET

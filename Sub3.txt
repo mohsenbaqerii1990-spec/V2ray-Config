@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://01c2b190-58df-4fa7-96e8-0e7a3a2148f1@91.99.81.222:443?security=reality&encryption=none&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&headerType=none&fp=chrome&spx=/gJQ6bFfNCQ136pW&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=16d9cabe#@v2ray_phoenix
 vless://01d1dc02-26aa-4c83-e4a6-51f12b16d6f1@69.46.46.104:443?path=/ws/01d1dc02-26aa-4c83-e4a6-51f12b16d6f1&security=tls&alpn=http/1.1&encryption=none&host=ivory-ridge-479b-production.up.railway.app&fp=chrome&type=ws&sni=ivory-ridge-479b-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#@KAFING_2
 vless://01e4f6b0-acfa-4cac-a39d-6779d85eba65@tr.s.hardvezoo.ir:2052?path=/&security=none&encryption=none&host=www.speedtest.net&type=httpupgrade#@FarazV2ray
@@ -502,4 +503,3 @@ vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryp
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#CxrolVPN Free (1)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/16K876L0W1BeJ0u0?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (5)
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
