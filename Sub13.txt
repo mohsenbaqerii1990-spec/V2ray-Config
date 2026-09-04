@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com# telegram @mtmvpn 2
-vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@B2Hub
-vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@FarazV2ray
-vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2raySaman
 vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_confiig
 vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter ❤️‍🔥💯
 vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@meliproxyy
@@ -503,3 +499,7 @@ vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?security=tls&en
 vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@beast.locallynet.org:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=beast.locallynet.org#@irdusti(1)🇪🇪²
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?encryption=none&security=none&type=ws&path=/5021201ef53f#🇺🇿 UZ
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=&encryption=none&type=ws#@B2Hub
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=&encryption=none&type=ws#@V2ray_confiig
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=&encryption=none&type=ws#@meliproxyy
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=none&encryption=none&type=ws#@Iran_v2ray1
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=none&encryption=none&type=ws#@V2ray_Alpha🌋 5
