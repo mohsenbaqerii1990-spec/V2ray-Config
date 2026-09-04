@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@85.192.56.3:443?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://960fbb72-2cc3-4f14-9567-8177304e68b0@82.40.62.197:51572?type=tcp&encryption=none&security=reality&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#کانال ما
 vless://960fbb72-2cc3-4f14-9567-8177304e68b0@82.40.62.197:51572?type=tcp&encryption=none&security=reality&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#⚡️ KURDNET | کرد نت
 vless://960fbb72-2cc3-4f14-9567-8177304e68b0@82.40.62.197:51572?type=tcp&encryption=none&security=reality&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#🇵🇱161599 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://ab5a2531-acc1-4a54-b16c-e14665dc88a5@direct.freelauner.ir:443?security=n
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#@configprxy
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#@meliproxyy
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#🇩🇪All⁸ | @BigSmoke_Config
-vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@FreeConfigForYou
