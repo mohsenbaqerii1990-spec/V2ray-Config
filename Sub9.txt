@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@109.73.205.68:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=zFDe87uVx7hBDdzTJoN1288knyqN7qneaJzYXJq8yA0&sid=82abd8c5c61a2c07&type=tcp&headerType=none#@Daily_Configs
 vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@109.73.205.68:18443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&security=reality&fp=chrome&sni=www.cloudflare.com&pbk=iw5KmjMc7yR6MBkrWdIQurFruKboxQeBKOq0DHFgtyM&sid=cbed1537701114e4#🇳🇱@V2RAYNG_IP ⚡️
 vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@109.73.205.68:18443?security=reality&encryption=none&pbk=iw5KmjMc7yR6MBkrWdIQurFruKboxQeBKOq0DHFgtyM&host=/?BIA_TELEGRAM-mtmvpn &headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=cbed1537701114e4# mtmvpn 35
 vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@144.31.40.96:8443?mode=gun&security=reality&encryption=none&pbk=HWI8KI1Xad87HFiZ7uJkl9GWNgdRuqlS2F6YfxIdhzQ&fp=chrome&type=grpc&serviceName=a2e3c24ab3&sni=www.max.ru&sid=37bd480ac3fdbc36#@i10VPN🧧
@@ -503,3 +502,4 @@ vless://8fe8c95f-1840-42b8-bdf2-35c858eca4e9@91.92.43.177:443?security=reality&e
 vless://8fe8c95f-1840-42b8-bdf2-35c858eca4e9@91.92.43.177:443?security=reality&encryption=none&pbk=NUszayjBaw2LyjJtctsGRPzLltoafwwxO7xgEcDXWGk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=expire.selfsteal.vip&sid=6ba85179e30d4fc2#@icv2ray
 vless://8fe8c95f-1840-42b8-bdf2-35c858eca4e9@91.92.43.177:443?security=reality&encryption=none&pbk=NUszayjBaw2LyjJtctsGRPzLltoafwwxO7xgEcDXWGk&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=expire.selfsteal.vip&sid=6ba85179e30d4fc2#@meliproxyy
 vless://8fe8c95f-1840-42b8-bdf2-35c858eca4e9@91.92.43.177:443?security=reality&encryption=none&pbk=NUszayjBaw2LyjJtctsGRPzLltoafwwxO7xgEcDXWGk&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=expire.selfsteal.vip&sid=6ba85179e30d4fc2#[MIGAVPNPRO] 🇩🇪 DE-8fe
+vless://8ff24c63-a8ab-443b-98c4-cf2ea1741382@38.148.253.32:9443?security=reality&encryption=none&pbk=z5ey3dBNwJciLD1_V2P_rKYGEd2Lk_V1IOl2uRDZwhQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=blog.jetbrains.com&sid=f5b880a0529326c1#@Begoo_VPN ²⁸⁸
