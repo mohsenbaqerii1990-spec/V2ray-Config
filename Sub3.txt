@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@31.76.88.10:443?path=/cdn/v3/live&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cf5.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf5.rumedia-cdn.com#@B2Hub
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443/?type=ws&encryption=none&flow=&host=cf6.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf6.rumedia-cdn.com&fp=chrome#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?alpn=http/1.1&encryption=none&fp=chrome&host=cf6.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf6.rumedia-cdn.com&type=ws#🩳60@oneclickvpnkeys
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?encryption=none&type=ws&host=cf6.rumedia-cdn.com&path=/cdn/v3/live&security=tls&fp=chrome&sni=cf6.rumedia-cdn.com&alpn=http/1.1#@V2RAYNG_IP
@@ -503,3 +502,4 @@ vless://16d65374-b0ed-4344-b73e-f3f1c9fe27b1@31.77.145.230:443?mode=auto&path=/J
 vless://1706df43-55c1-4a03-ae37-d447bf3817c8@87.199.193.132:443/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=qvl7eap6oyf9.bosfiles.net&alpn=h2&fp=chrome#荷兰
 vless://170e1be8-e51b-4a82-a779-3ad27b78607c@us6.lunariai.ru:443?&type=ws&headerType=none&host=us6.lunariai.ru&path=/#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/ebmJ4UcdPxKGcPdT?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (6)
