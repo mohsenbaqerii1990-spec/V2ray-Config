@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4e25f371-acc5-4eb6-afb3-b763ee75537d@72.56.115.125:443?encryption=none&security=tls&sni=rotterdam.korgivps.ru&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/api/user#🇳🇱 NL
 vless://4e25f371-acc5-4eb6-afb3-b763ee75537d@72.56.115.125:443?encryption=none&type=ws&path=/api/user&security=tls&fp=chrome&sni=rotterdam.korgivps.ru&alpn=http/1.1#@V2RAYNG_IP
 vless://4e25f371-acc5-4eb6-afb3-b763ee75537d@72.56.115.125:443?path=/api/user&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rotterdam.korgivps.ru#@FarazV2ray
 vless://4e25f371-acc5-4eb6-afb3-b763ee75537d@72.56.115.125:443?path=/api/user&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rotterdam.korgivps.ru#@V2rayng_Fast
@@ -503,3 +502,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?path=/&security=tl
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.0.79.109:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?telegram🇮🇷+@shadowproxy66=#کانال تلگرام : Free_VPN_CH@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.79.104.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram🇨🇳+@wangcai2#کانال تلگرام : Free_VPN_CH@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?encryption=none&security=tls&sni=sni.111000.indevs.in&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#کانال تلگرام : Free_VPN_CH@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#کانال تلگرام : Free_VPN_CH@

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.16.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/3BzRkDnEVV1LI56p?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (4)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.80.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/BJMz0Rpb9gejBzKP?ed=2560#CxrolVPN - Free (2)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/VeJJ5MwyXaAbhkV8?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (3)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/83JWdcC2XXJrBR5m?ed=2560#CxrolVPN - Free (1)
@@ -503,3 +502,4 @@ vless://960fbb72-2cc3-4f14-9567-8177304e68b0@82.40.62.197:51572?type=tcp&encrypt
 vless://96172b09-2ec8-418d-a539-7e9fb118caf8@91.228.227.172:443?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All³ | @BigSmoke_Config
 vless://96172b09-2ec8-418d-a539-7e9fb118caf8@91.228.227.172:443?encryption=none&security=none&type=tcp&headerType=none#🇹🇷 TR
 vless://96172b09-2ec8-418d-a539-7e9fb118caf8@91.228.227.172:443?encryption=none&type=tcp&headerType=none&security=none#🇹🇷 @V2RAYNG_IP 🔥
+vless://96172b09-2ec8-418d-a539-7e9fb118caf8@91.228.227.172:443?security=none&encryption=none&headerType=none&type=tcp#• 🇹🇷 | Turkey - @HesarWeb

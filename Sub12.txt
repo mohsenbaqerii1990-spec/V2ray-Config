@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://be66a17d-686a-4f2f-a455-0b69caa97f66@82.40.62.118:38496?security=reality&encryption=none&pbk=PdhwDSuR6UMy7z5PFk_vnd2kPZcbRJF0d-TN7oWPt0w&headerType=none&fp=chrome&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com#@filembad
 vless://be66a17d-686a-4f2f-a455-0b69caa97f66@82.40.62.118:38496?security=reality&encryption=none&pbk=PdhwDSuR6UMy7z5PFk_vnd2kPZcbRJF0d-TN7oWPt0w&headerType=none&fp=chrome&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com#@v2ray_phoenix
 vless://be66a17d-686a-4f2f-a455-0b69caa97f66@82.40.62.118:38496?type=tcp&encryption=none&security=reality&pbk=PdhwDSuR6UMy7z5PFk_vnd2kPZcbRJF0d-TN7oWPt0w&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#@vpn_kurdnetمنبع کانفیگ های رایگان-2
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087/?type=ws&encryption=none&flow=&path=/4bc027a44532#تو کانال نتورلد نباشید قطع میشن@networld_vpn
@@ -503,3 +502,4 @@ vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&securi
 vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@meliproxyy
 vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
 vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn
+vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@k2.cloud--vpn.site:443?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[ 🇺🇸 ] | @Cfox_SerVer
