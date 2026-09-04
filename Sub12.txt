@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:110?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:443?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:8080?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
@@ -503,3 +502,4 @@ vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=/&securi
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Alpha🌎 1
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 💥😘
 vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@icv2ray
+vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb

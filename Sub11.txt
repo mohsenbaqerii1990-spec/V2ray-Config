@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.wikihow.com&fp=chrome&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&type=tcp&headerType=none#@Daily_Configs
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.wikihow.com&fp=chrome&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI#@Daily_Configs
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#@v2ray313 کانالمون 😍
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#@MARAMBASHI 🇹🇷
@@ -503,3 +502,4 @@ vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?security=reality&
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:110?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:443?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:8080?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
+vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:110?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?security=reality&encryption=none&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&host=/?JOIN_BEDE_TELEGRAM@MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dhlparcel.nl&sid=3dad96f8693ea653#@V2rayng_Fast 🇮🇹
 vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?security=reality&encryption=none&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&host=/?JOIN_BEDE_TELEGRAM@MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dhlparcel.nl&sid=3dad96f8693ea653#@meliproxyy
 vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?security=reality&encryption=none&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&host=/?JOIN_BEDE_TELEGRAM@MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dhlparcel.nl&sid=3dad96f8693ea653#[🏁]t.me/ConfigV2RayNG
 vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?security=reality&encryption=none&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&host=/?TELEGRAM---MUSICLOVERS85&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dhlparcel.nl&sid=3dad96f8693ea653#@musiclovers85
@@ -503,3 +502,4 @@ vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tl
 vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?path=/&security=tls&alpn=h2&encryption=none&host=uwu.meowpew.de5.net&fp=chrome&type=ws&sni=uwu.meowpew.de5.net#@appsooner کانال تلگرام 🕊️
 vless://7a2e8d77-fef6-77a9-5b70-b233dff53db4@inetchnl-production-5246.up.railway.app:443?path=/ws/7a2e8d77-fef6-77a9-5b70-b233dff53db4&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=inetchnl-production-5246.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=inetchnl-production-5246.up.railway.app#🇺🇸@iNetChnl
 vless://7a31d541-e885-43d4-81f2-62ac29ecd387@151.242.88.47:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&pbk=xl3D_xayL74d7uzlV_1EpEWw0BJ52kzEMF8tUGd7vBM&sid=1f6dffff8a&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
+vless://7aa508f3-176f-0024-add3-646af94d6288@185.137.232.194:443?mode=packet-up&path=/assets&security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&fp=chrome&type=xhttp&sni=aispir.ru&sid=8ba6e72ee60667f6#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
