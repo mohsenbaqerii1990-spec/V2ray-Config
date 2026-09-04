@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://805c6485-a1f2-4e95-bc6f-3fa2350ce36c@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://80acd2cf-7a37-4145-ada8-7a27c46b12fe@spt2.milkabebar.ir:10694?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&type=tcp&headerType=none#🇪🇸 ES
 vless://80b13b16-b8ec-4dc9-b9aa-2813fbb3707d@spdnet.team-pluss.com:8080?security=reality&encryption=none&pbk=o9ccqpVGPiXhLWNCGoBJAXkwChudzp8bMvHCztsoyCk&headerType=none&fp=chrome&spx=/2df51fff5918a80&type=tcp&flow=xtls-rprx-vision&sni=the.world.of.the.champions.retrovip.net&sid=cfb0#Free Spdnet 🇳🇱
 vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&headerType=none&type=tcp#@KAFING_2
@@ -503,3 +502,4 @@ vless://9561784b-acba-a9b3-e071-e3431e5b97a0@69.46.46.32:443?path=/ws/9561784b-a
 vless://95cdd499-1490-2235-af47-e93cf02277b1@69.46.46.32:443?path=/ws/95cdd499-1490-2235-af47-e93cf02277b1&security=tls&alpn=http/1.1&encryption=none&host=tasm-production-jbvvh.up.railway.app&fp=chrome&type=ws&sni=tasm-production-jbvvh.up.railway.app#2 🇳🇱 @V2ngNet
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&sid=2da4299da566b7&type=grpc&authority=&serviceName=your-custom-path&mode=gun#🇷🇺139742 | ⚡️Telegram = t.me/SOSkeyNET
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@85.192.56.3:443?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://960fbb72-2cc3-4f14-9567-8177304e68b0@82.40.62.197:51572?type=tcp&encryption=none&security=reality&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#⚡️ KURDNET | کرد نت

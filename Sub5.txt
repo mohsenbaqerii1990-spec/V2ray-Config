@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=chrome&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#@Alpha_V2rayip
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=chrome&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#@B2Hub
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=chrome&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#@ConfigV2RayNG
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=chrome&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#@FarazV2ray
@@ -503,3 +502,4 @@ vless://33659f3a-e55c-4276-8900-f656e9c4075a@xbm016bm.selqora.ir:31663?security=
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@w.smarteracloud.com:2096?encryption=none&security=tls&sni=otthnu73.indosoxr.info&type=xhttp&host=otthnu73.indosoxr.info&path=/&mode=stream-one#کانال تلگرام : Free_VPN_CH@
 vless://337e83cf-e9f9-4237-b27c-5649ec7ee293@francehongkong.spacexiphone.cyou:50062?encryption=mlkem768x25519plus.native.0rtt.ueLBy2I95GmBPT-vDFnSGHZu0TtoXYvSK1_wXFJ65Gg&security=none&type=tcp&headerType=none#filembad-154
 vless://337e83cf-e9f9-4237-b27c-5649ec7ee293@francehongkong.spacexiphone.cyou:50062?encryption=mlkem768x25519plus.native.0rtt.ueLBy2I95GmBPT-vDFnSGHZu0TtoXYvSK1_wXFJ65Gg&security=none&type=tcp&headerType=none#🇫🇷161891 | ⚡️Telegram = t.me/SOSkeyNET
+vless://338dfec6-68bb-d132-9fa4-e679786c5a62@69.46.46.32:443?path=/ws/338dfec6-68bb-d132-9fa4-e679786c5a62&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-2199.up.railway.app&fp=chrome&type=ws&sni=rvg-production-2199.up.railway.app#🇳🇱 @V2ngNet

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://338dfec6-68bb-d132-9fa4-e679786c5a62@69.46.46.32:443?path=/ws/338dfec6-68bb-d132-9fa4-e679786c5a62&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-2199.up.railway.app&fp=chrome&type=ws&sni=rvg-production-2199.up.railway.app#🇳🇱 @V2ngNet
 vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?encryption=none&security=tls&sni=gaaga.korgivps.ru&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/api/user#🇺🇳 UN
 vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?encryption=none&type=ws&path=/api/user&security=tls&fp=chrome&sni=gaaga.korgivps.ru&alpn=http/1.1#@V2RAYNG_IP
 vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?encryption=none&type=ws&security=tls&path=/api/user&sni=gaaga.korgivps.ru&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🦉@FreeConfigForYou
@@ -503,3 +502,4 @@ vless://493da04d-dca2-4306-acaf-f3005ea69392@fbi.gov:80?path=/&security=none&alp
 vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.206.227:2566?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=cs2uxkfzvnJXO3dyLiC1ihoFPwQQlbJknOhNPF0OGyY&sid=b220cebe89a795&spx=/spdnet&type=tcp&headerType=none#SPDNET 🇳🇱
 vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 DE
 vless://49e15e17-5635-4e7a-b601-8c700bff14bc@217.16.27.113:443?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=max.ru&type=tcp#🇷🇺RU-🚀@VPNine1
+vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&security=tls&encryption=none&insecure=0&host=loctc.goldcitynode-tobi.sbs&fp=chrome&type=ws&allowInsecure=0&sni=loctc.goldcitynode-tobi.sbs#@NOFiLTERING2🇩🇪

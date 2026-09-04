@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&security=tls&encryption=none&insecure=0&host=loctc.goldcitynode-tobi.sbs&fp=chrome&type=ws&allowInsecure=0&sni=loctc.goldcitynode-tobi.sbs#@NOFiLTERING2🇩🇪
 vless://4a039ef9-894e-4a22-a20f-56c23a931a37@176.65.140.210:46498?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.io3RTZhXSF5fJ9-5K5Wo2Lq96guUQnPUVRxADrSnDWc&host=bobo.badrangteb.ir&type=ws#@V2ray_confiig
 vless://4a039ef9-894e-4a22-a20f-56c23a931a37@176.65.140.210:46498?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.io3RTZhXSF5fJ9-5K5Wo2Lq96guUQnPUVRxADrSnDWc&host=bobo.badrangteb.ir&type=ws#@meliproxyy
 vless://4a039ef9-894e-4a22-a20f-56c23a931a37@176.65.140.210:46498?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.io3RTZhXSF5fJ9-5K5Wo2Lq96guUQnPUVRxADrSnDWc&host=bobo.badrangteb.ir&type=ws#Channel : @Daily_Configs
@@ -503,3 +502,4 @@ vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2053?encryption=none&ty
 vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2053?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM@ATLAS_V2VPN&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&fp=chrome&type=grpc&serviceName=remnagrpc&sni=finanzfluss.de&sid=8b71da690c3d5d03#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️533🌐🆕️
 vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2053?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM@V2ray_confiig&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&fp=chrome&type=grpc&serviceName=remnagrpc&sni=finanzfluss.de&sid=8b71da690c3d5d03#@V2ray_confiig
 vless://60e2a548-96aa-4850-a279-1edab743c39b@de1.cnyvpn.com:2053?encryption=none&security=reality&sni=finanzfluss.de&fp=chrome&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&sid=8b71da690c3d5d03&type=grpc&authority=&serviceName=remnagrpc&mode=gun#@Daily_Configs
+vless://60e2a548-96aa-4850-a279-1edab743c39b@de1.cnyvpn.com:2053?encryption=none&type=grpc&mode=gun&serviceName=remnagrpc&security=reality&fp=chrome&sni=finanzfluss.de&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&sid=8b71da690c3d5d03#👉@V2RAYNG_IP 🚀
