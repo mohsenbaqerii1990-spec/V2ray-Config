@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1667f049-f3c4-4c42-85f0-0f243467736e@69.46.46.123:443?path=/ws/1667f049-f3c4-4c42-85f0-0f243467736e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=spiderpanel-production-d448.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=spiderpanel-production-d448.up.railway.app#𝐕𝟐𝐗𝐍𝐄𝐓
 vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443/?type=grpc&encryption=none&flow=&security=tls&sni=torr.wlrus.cfd&allowInsecure=1&fp=chrome#荷兰
 vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=torr.wlrus.cfd#@Iran_v2ray1
 vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=torr.wlrus.cfd#@V2ray_Alpha😏 2
@@ -502,4 +503,3 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#@icv2ray
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#@tootffarangi🍓-1
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#@vmesskhodam
