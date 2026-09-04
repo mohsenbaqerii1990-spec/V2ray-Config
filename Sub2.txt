@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446?note=@FreeOnlineVPN#🇮🇷 - IR - @FreeOnlineVPN
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Z0tMMjAzQ3NKcmdndHg5M2NERnc2V1Zsd1hIS2c3eU9PcXBtTkZEM0RGZz0=@Istanbul.morteza1388m1122.ir:54985?type=tcp#👉@V2RAYNG_IP 🚀(2)
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Z0tMMjAzQ3NKcmdndHg5M2NERnc2V1Zsd1hIS2c3eU9PcXBtTkZEM0RGZz0@Istanbul.morteza1388m1122.ir:54985#@IRAN_V2RAY1
 ss://YWVzLTEyOC1nY206MDdjNzk1NDYtMmJmNS00NDZiLWI4MTctMGMwMDg0ZmZiNzcw@q5h8zr.5tencent.asia:40022#SG
@@ -502,4 +503,3 @@ vless://052f290d-0939-3046-b6d7-6ca39ddc458f@69.46.46.31:443?path=/ws/052f290d-0
 vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl7.wba-pn.ru#@hex_proxy ³
 vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl7.wba-pn.ru#@hex_proxy ¹
 vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl7.wba-pn.ru#@v2ray313 کانالمون 😄
-vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl7.wba-pn.ru#@v2ray313 کانالمون 🪽
