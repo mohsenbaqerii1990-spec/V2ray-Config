@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://60e2a548-96aa-4850-a279-1edab743c39b@de2.cnyvpn.com:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#@FarazV2ray
 vless://60e2a548-96aa-4850-a279-1edab743c39b@de2.cnyvpn.com:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#@V2raySaman
 vless://60e2a548-96aa-4850-a279-1edab743c39b@de2.cnyvpn.com:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#🇩🇪@FreakConfig
 vless://60e2a548-96aa-4850-a279-1edab743c39b@nl1.cnyvpn.com:2096?security=reality&encryption=none&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dhlparcel.nl&sid=3dad96f8693ea653#@
@@ -503,3 +502,4 @@ vless://805c6485-a1f2-4e95-bc6f-3fa2350ce36c@am255.amin5646.ir:2082?type=xhttp&e
 vless://80acd2cf-7a37-4145-ada8-7a27c46b12fe@spt2.milkabebar.ir:10694?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&type=tcp&headerType=none#🇪🇸 ES
 vless://80b13b16-b8ec-4dc9-b9aa-2813fbb3707d@spdnet.team-pluss.com:8080?security=reality&encryption=none&pbk=o9ccqpVGPiXhLWNCGoBJAXkwChudzp8bMvHCztsoyCk&headerType=none&fp=chrome&spx=/2df51fff5918a80&type=tcp&flow=xtls-rprx-vision&sni=the.world.of.the.champions.retrovip.net&sid=cfb0#Free Spdnet 🇳🇱
 vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&headerType=none&type=tcp#@KAFING_2
+vless://80e71f96-ca7b-ae89-3397-931af975e574@pencell-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=pencell-production.up.railway.app&path=/xhttp-siz10/stream-up/80e71f96-ca7b-ae89-3397-931af975e574&sni=pencell-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#کانال ما

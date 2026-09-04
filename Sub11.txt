@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://aa79a37c-7b18-4184-b64f-1826c4b16e38@91.99.81.222:443?security=reality&encryption=none&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&headerType=none&fp=chrome&spx=/2xyhZKY7A5P9zDc&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=43e72f85c3#kurdconfig
 vless://aa79a37c-7b18-4184-b64f-1826c4b16e38@91.99.81.222:443?security=reality&encryption=none&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&headerType=none&fp=chrome&spx=/2xyhZKY7A5P9zDc&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=43e72f85c3#🇩🇪161672 | ⚡️Telegram = t.me/SOSkeyNET
 vless://aa79a37c-7b18-4184-b64f-1826c4b16e38@91.99.81.222:443?security=reality&encryption=none&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&headerType=none&fp=chrome&spx=/2xyhZKY7A5P9zDc&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=43e72f85c3#🇩🇪@FreakConfig
 vless://aa817985-4a53-47c0-bbaf-0c121f117685@69.46.46.123:443?path=/ws/aa817985-4a53-47c0-bbaf-0c121f117685&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=spiderpanel-production-b008.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=spiderpanel-production-b008.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
@@ -503,3 +502,4 @@ vless://c22af545-e43b-4786-9b51-cd06b267776d@176.65.140.210:46498?encryption=mlk
 vless://c22af545-e43b-4786-9b51-cd06b267776d@176.65.140.210:55889?encryption=mlkem768x25519plus.native.0rtt.L_A3SF1eDuiZR6PS7qhbYz82QaGqBbUDNqSnTTzbh0Q&security=none&type=ws&headerType=none&path=/&host=bobo.badrangteb.ir#🇩🇪161715 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c22af545-e43b-4786-9b51-cd06b267776d@176.65.140.210:55889?encryption=mlkem768x25519plus.native.0rtt.L_A3SF1eDuiZR6PS7qhbYz82QaGqBbUDNqSnTTzbh0Q&security=none&type=ws&headerType=none&path=/&host=bobo.badrangteb.ir#🇩🇪DE-🚀@VPNine1
 vless://c22af545-e43b-4786-9b51-cd06b267776d@176.65.140.210:58761?encryption=mlkem768x25519plus.native.0rtt.1tRra7JiahYSDxX_pIp2PyFQFnzFKhKfTesX6cbEnRY&security=none&type=tcp&headerType=none&path=bobo.badrangteb.ir#🇩🇪161717 | ⚡️Telegram = t.me/SOSkeyNET
+vless://c22af545-e43b-4786-9b51-cd06b267776d@176.65.140.210:58761?encryption=mlkem768x25519plus.native.0rtt.1tRra7JiahYSDxX_pIp2PyFQFnzFKhKfTesX6cbEnRY&security=none&type=tcp&headerType=none&path=bobo.badrangteb.ir#🇩🇪DE-🚀@VPNine1

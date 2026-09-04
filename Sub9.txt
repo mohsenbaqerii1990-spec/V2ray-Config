@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://80e71f96-ca7b-ae89-3397-931af975e574@pencell-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=pencell-production.up.railway.app&path=/xhttp-siz10/stream-up/80e71f96-ca7b-ae89-3397-931af975e574&sni=pencell-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#کانال ما
 vless://80e71f96-ca7b-ae89-3397-931af975e574@pencell-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=pencell-production.up.railway.app&path=/xhttp-siz10/stream-up/80e71f96-ca7b-ae89-3397-931af975e574&sni=pencell-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇺🇸161754 | ⚡️Telegram = t.me/SOSkeyNET
 vless://80e71f96-ca7b-ae89-3397-931af975e574@pencell-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=pencell-production.up.railway.app&path=/xhttp-siz10/stream-up/80e71f96-ca7b-ae89-3397-931af975e574&sni=pencell-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇺🇸US-🚀@VPNine1
 vless://8137e9a6-22e6-4707-a120-a6dea17c7e00@www.speedtest.net:2086?path=/eyJqdW5rIjoic1VBWDhGMXJsREg5WUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4My4xNDcuMjU0LjI0NSJdfQ==?ed=2560&security=none&encryption=none&host=dry-snow-2e6f.fastip25478.workers.dev&type=ws#🇨🇦139895 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://93fb79d5-b84f-44de-9588-ee4fd5e8bd1c@mci-iTV2RAY.ddns.net:2087?mode=gun&
 vless://93fb79d5-b84f-44de-9588-ee4fd5e8bd1c@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
 vless://942bdcfc-e522-44f1-b899-3bd8db7c5ae2@188.114.97.6:8080?path=/pyip=ProxyIP.SG.CMLiussss.net+&security=none&encryption=none&host=winter-leaf-b4da.122-6c9.workers.dev&type=ws#@V2ray_Alpha🥣 2
 vless://942bdcfc-e522-44f1-b899-3bd8db7c5ae2@188.114.97.6:8080?path=/pyip=ProxyIP.SG.CMLiussss.net+&security=none&encryption=none&host=winter-leaf-b4da.122-6c9.workers.dev&type=ws#@V2ray_confiig
+vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=amiiiin.yas-nowin.ir#@Alfred_Config
