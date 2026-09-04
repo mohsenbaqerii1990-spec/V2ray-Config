@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl7.wba-pn.ru#@v2ray313 کانالمون 😄
 vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl7.wba-pn.ru#@v2ray313 کانالمون 🪽
 vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl7.wba-pn.ru#🇸🇮AZARBAYJAB1
 vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?path=/?TELEGRAM--TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl7.wba-pn.ru#@Nexus_Panell چنل تلگرام
@@ -503,3 +502,4 @@ vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.230.216:24215?security=real
 vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#🇭🇺@AZARBAYJAB1
 vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269/?type=ws&path=/@VPNlime&security=none#Channel: @VPNLime
 vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269/?type=ws&path=/@VPNlime&security=none#Channel: @VPNLime  ری اکشن بالا باشه انرژی بگیریم ❤️❤️ 🍋@vpnlime
+vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn

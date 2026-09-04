@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
 vless://id_telegram_MimiTdL@31.57.250.65:443?mode=multi&security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&fp=chrome&spx=/b5a575e9894787a&type=grpc&sni=play.google.com&sid=5b409d9a2b5b8dbf#VPN @MimiTdl 🔥⚡
 vless://leo@82.40.58.246:4444?security=reality&encryption=none&pbk=xNEYoYnr1_VNUEDAxn0Dkfs50jAnnAa2AUlHLsbqFww&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=fbb8#@Net2ray FI🇫🇮
 vless://mahanvpn-mahanvpn@172.67.217.240:443?path=/?ed&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#@V2ray_confiig
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiJub2RlLXVrLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6Imgy
 vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiI+PkB2MnJheU5HX01hdHN1cmk6OlhYIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%3E%3E%40oneclickvpnkeys%3A%3ATW
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%3E%3E%40oneclickvpnkeys%3A%3AHK
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#%3E%3E%40oneclickvpnkeys%3A%3ATW
