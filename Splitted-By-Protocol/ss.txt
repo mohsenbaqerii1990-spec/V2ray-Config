@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%E2%9A%99%EF%B8%8F8@oneclickvpnkeys
 ss://000f1ace-a4d6-44ea-93b0-d5d384fc9cd7@llc.v2sub.ir:2082?mode=auto&path=/?ed=1024&security=none&encryption=none&host=chat.learningaii.ir&type=xhttp#[037989] - 🌍 Unknown | @freenettir
 ss://013b3e93-5b91-4146-b41d-4e517d68466f@31.76.68.53:443?security=reality&encryption=none&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr1.hat.onl&sid=b2ba734eff38baa9#[037990] - 🇫🇷 France | @freenettir
 ss://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=&encryption=none&host=vghavi32.ip-ddns.com&type=ws#[037991] - 🇨🇦 Canada | @freenettir
