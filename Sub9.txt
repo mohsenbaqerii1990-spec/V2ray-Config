@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@mfa.gov.ua:2087?path=/&security=tls&encryption=none&insecure=0&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc#@meliproxyy
 vless://77984ae0-58cb-4bf3-9fe4-346043bf71b2@5.75.201.211:56539?encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&type=tcp&headerType=http&host=www.unscramblerer.com&security=none#@V2RAYNG_IP 🌟
 vless://77d68177-7331-4816-b5e9-23ec39a2ae3b@divine-rice-3224.464.workers.dev:8880?encryption=none&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#🩳89@oneclickvpnkeys
 vless://785923c4-0b40-43b4-8506-523e31578d21@87.58.153.39:8443?security=reality&encryption=none&pbk=v5gYvnzEnIBByr3VdAeEYMNgQ3XoUKYpHKRl09spFWU&headerType=none&fp=chrome&spx=/naranv2ray&type=tcp&sni=amp-api-edge.apps.apple.com&sid=5dea88# telegram @mtmvpn 26
@@ -503,3 +501,5 @@ vless://8fe8c95f-1840-42b8-bdf2-35c858eca4e9@91.92.43.177:443?security=reality&e
 vless://8ff24c63-a8ab-443b-98c4-cf2ea1741382@38.148.253.32:9443?security=reality&encryption=none&pbk=z5ey3dBNwJciLD1_V2P_rKYGEd2Lk_V1IOl2uRDZwhQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=blog.jetbrains.com&sid=f5b880a0529326c1#@Begoo_VPN ²⁸⁸
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://8ff538e4-330c-43c1-97c8-0c90bf989331@81.12.56.132:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shoping2.gfdcty.ir#@appsooner کانال تلگرام 🕊️
+vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-01.sfproxy.fuck-rkn.dev:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jobinvest.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#法国
+vless://8ff8fe86-569e-4072-abf6-6d27eb5a1470@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray
