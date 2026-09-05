@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5ff8e256-cb7e-41fc-8ed2-14a46fd46e4e@djdjsj-production.up.railway.app:443?path=/ws/vless/5ff8e256-cb7e-41fc-8ed2-14a46fd46e4e?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=djdjsj-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=djdjsj-production.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://601fe32b-0c1a-403d-bbb1-2560fa2057ec@89.19.216.74:443?path=/api/user&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chat.taksavps.ru#@irdusti(2)🇳🇱²
 vless://6025f8f4-1cb9-4665-a1b8-466328d7bad2@f.morexa.ir:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=6ea3daaac3d6bede#@VEGAAS_VPN
 vless://603819a3-dd65-408a-abab-15d8dc49887f@167.71.7.72:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇳🇱@FreakConfig
@@ -503,3 +502,4 @@ vless://78eb4455-0d07-28a0-93e3-7c8654f11d74@45.151.182.234:443?security=reality
 vless://78eb4455-0d07-28a0-93e3-7c8654f11d74@80.66.65.51:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.geodema.network&type=tcp#🇷🇺161993 | ⚡️Telegram = t.me/SOSkeyNET
 vless://78eb4455-0d07-28a0-93e3-7c8654f11d74@80.66.65.51:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.geodema.network&type=tcp#🇷🇺RU-🚀@VPNine1
 vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#@B2Hub
+vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#@FarazV2ray

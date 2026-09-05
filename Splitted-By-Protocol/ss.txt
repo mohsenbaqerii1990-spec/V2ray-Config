@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%40v2raybaaz%20%C2%B9
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%E2%9A%99%EF%B8%8F8@oneclickvpnkeys
 ss://059fbe5b-21dc-413f-8f5c-dac39201914c@13.114.89.187:16611?security=reality&encryption=none&pbk=cDzA5Efsd52LehcCFXh9bS3eCuj7HQZwau-yjPqLPgQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=701b0c5c9dee514d#[037664] - 🇯🇵 Japan | @freenettir
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.42.89.157:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#[037665] - 🇳🇱 The Netherlands | @freenettir
