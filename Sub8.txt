@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 😘❤️‍🔥
+vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&type=ws&host=c12.com&path=/#@Daily_Configs
+vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=/&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
+vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=/&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#🇩🇪All¹⁷ | @BigSmoke_Config
+vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@B2Hub
 vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Nexus_Panell چنل تلگرام
 vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Alpha🍧 6
 vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@configprxy
@@ -498,8 +503,3 @@ vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@109.73.205.68:18443?encryption=none
 vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@109.73.205.68:18443?security=reality&encryption=none&pbk=iw5KmjMc7yR6MBkrWdIQurFruKboxQeBKOq0DHFgtyM&host=/?BIA_TELEGRAM-mtmvpn &headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=cbed1537701114e4# mtmvpn 35
 vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@144.31.40.96:8443?mode=gun&security=reality&encryption=none&pbk=HWI8KI1Xad87HFiZ7uJkl9GWNgdRuqlS2F6YfxIdhzQ&fp=chrome&type=grpc&serviceName=a2e3c24ab3&sni=www.max.ru&sid=37bd480ac3fdbc36#@i10VPN🧧
 vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@195.133.27.72:22443?security=reality&encryption=none&pbk=V8llhEcbGI7Zqf52Ec0kryrdRv7lvLcKCjHe1Di23yw&fp=chrome&type=grpc&serviceName=f234981844&sni=www.cloudflare.com&sid=fdf9d63fcdd6be6a#🇵🇱 V2RayyNGvpn
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@195.133.27.72:23443?security=reality&encryption=none&pbk=WGIBJ3eoHqBYgaklDehHUZYSAREh5HtFtcUs7MjUfxg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=a432f464e0d4f65a#🇪🇪 V2RayyNGvpn
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.210:2083?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@V2ray_confiig&pbk=GYGRmooJbciRJqgRyAhyuY4taALwvAGNN721zIKA4g0&fp=chrome&type=grpc&serviceName=a8a08a507c&sni=www.cloudflare.com&sid=d2f6787eda1b6fa0#@V2ray_confiig
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.210:2083?mode=gun&security=reality&encryption=none&pbk=GYGRmooJbciRJqgRyAhyuY4taALwvAGNN721zIKA4g0&fp=chrome&type=grpc&serviceName=a8a08a507c&sni=www.cloudflare.com&sid=d2f6787eda1b6fa0#@bored_vpn
-vless://7ac34a93-0890-4eff-fc12-08b44d831e90@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
-vless://7ad19e54-79b3-4f02-b69b-b60b4faa0c6e@104.25.60.77:443?path=/dn3&security=tls&encryption=none&insecure=0&host=cdns.darklink.ir&type=ws&allowInsecure=0&sni=cdns.darklink.ir#Tel-@ProxyMtAlpha🌰 8
