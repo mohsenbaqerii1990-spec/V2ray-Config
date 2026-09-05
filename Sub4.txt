@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?encryption=none&type=xhttp&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#@ICV2RAY
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Join @mtmvpn
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Proxy_mtm-34
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#TELEGRAM @mtmvpn-13
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#[🇩🇪]t.me/ConfigV2RayNG
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&type=xhttp&allowInsecure=0&sni=static.lotussec.com#[🇩🇪]t.me/ConfigV2RayNG
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&fp=chrome&alpn=h2&type=xhttp&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#@Daily_Configs
@@ -498,8 +503,3 @@ vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=none&
 vless://2bfe6e7e-1128-47f6-9746-e3021907208d@dedirr.shoppiz.ir:1257?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none#🇩🇪 @V2rayng_Fast
 vless://2bfe6e7e-1128-47f6-9746-e3021907208d@dedirr.shoppiz.ir:1257?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@Napsternetvirani
 vless://2bfe6e7e-1128-47f6-9746-e3021907208d@dedirr.shoppiz.ir:1257?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@V2ray_Alpha🧳 7
-vless://2bfe6e7e-1128-47f6-9746-e3021907208d@dedirr.shoppiz.ir:1257?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@meliproxyy
-vless://2c082e78-bd9d-4960-b9f3-cde0040cb4f3@173.230.155.55:50900?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.amd.com&pbk=vdE4t2bYhYun6fZ9Weu_f6MXtsmq8iJ7XQBUj62scR0&sid=12fa394e28d52011&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?authority=&encryption=none&security=none&serviceName=&type=grpc#🇸🇪139747 | ⚡️Telegram = t.me/SOSkeyNET
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬 سنگاپور | https://t.me/FREECONFIGSPLUS ✨
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#Telegram:@v2rayng3
