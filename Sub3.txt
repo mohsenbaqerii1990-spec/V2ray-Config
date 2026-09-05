@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#@configforVPN
 vless://012f5e18-d018-4eaa-a84b-339798ee322b@fr1.free-imi.ir:443?encryption=none&security=none&type=tcp&headerType=none&host=fr2.free-imi.ir#@filembad
 vless://012f5e18-d018-4eaa-a84b-339798ee322b@fr1.free-imi.ir:443?encryption=none&security=none&type=tcp&headerType=none&host=fr2.free-imi.ir#🔵@chillguy_vpn
 vless://013b3e93-5b91-4146-b41d-4e517d68466f@31.76.68.53:443?security=reality&encryption=none&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr1.hat.onl&sid=b2ba734eff38baa9#@v2mystery 👈 عضو شو
@@ -502,4 +503,3 @@ vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?TELEGRAM-MA
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@MARAMBASHI 🇫🇮
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@MARAMBASHI 🇮🇹
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@MARAMBASHI 🇳🇱
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@V2rayng_Fast 🇩🇪
