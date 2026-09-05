@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5ff288a8-4d82-4ff6-9be1-f2bfc4f96b1e@104.16.22.21:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=/&headerType=none#کانال ما
 vless://5ff288a8-4d82-4ff6-9be1-f2bfc4f96b1e@104.16.22.21:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=/&headerType=none#🇨🇦162934 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5ff288a8-4d82-4ff6-9be1-f2bfc4f96b1e@104.16.22.21:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=/&headerType=none#🚀@VPNine1
 vless://5ff288a8-4d82-4ff6-9be1-f2bfc4f96b1e@chatgpt.com:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=/&headerType=none#🇨🇦162876 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://78685e90-c5fd-4c01-9ff4-a63ea1cdc998@87.58.155.25:443?encryption=none&se
 vless://78685e90-c5fd-4c01-9ff4-a63ea1cdc998@87.58.155.25:443?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://78685e90-c5fd-4c01-9ff4-a63ea1cdc998@87.58.155.25:443?security=&encryption=none&headerType=none&type=tcp#@B2Hub
 vless://78685e90-c5fd-4c01-9ff4-a63ea1cdc998@87.58.155.25:443?security=none&encryption=none&headerType=none&type=tcp#@configprxy
+vless://788c24fa-af91-4b0d-a589-48381b07101a@168.119.107.162:35448/?type=tcp&security=none#-Channel: @VPNLime

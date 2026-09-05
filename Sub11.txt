@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a30a3f37-1ab2-46bd-8c6b-a26d7c775f2a@www.allianz.com:443?&security=tls&fp=chrome&sni=grc.ccwu.cc&type=ws&headerType=none&host=grc.ccwu.cc&path=/?ed=2560#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://a31ec3a8-49aa-aa35-9f03-f1ca294dbc02@69.46.46.108:443?path=/ws/a31ec3a8-49aa-aa35-9f03-f1ca294dbc02&security=tls&alpn=h2,http/1.1&encryption=none&host=gentle-glacier-77ac-production.up.railway.app&fp=chrome&type=ws&sni=gentle-glacier-77ac-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://a341c649-ff95-49d5-8d2b-6d5cebf09dfb@five.nothingnewtodo.online:36096?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@KAFING_2
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.52:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#@Napsternetvirani
@@ -503,3 +502,4 @@ vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=realit
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&host=/?BIA_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@leviconfigs🪐-29
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&host=/?JOIN_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@leviconfigs🪐-3
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&host=/?JOIN_TELEGRAM@leviconfigs_leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#@leviconfigs🪐-5
+vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de57.tranzit-net.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
