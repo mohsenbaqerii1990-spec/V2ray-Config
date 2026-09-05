@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8997dde9-498b-48f2-ae64-89cdad2cfcdf@31.58.144.31:18149?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=LBlScaTInFivNfOiYzDW8ExpwR2O3p4j-vJ8f-4JGWw&sid=a4f78af8c177c10a&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁶ | @BigSmoke_Config
 vless://89a862c0-27b5-4004-ae44-af9c8af0896f@swiss.internetazad.com:2044?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@v2ray313 کانالمون 😾
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.238.48:2087?security=tls&sni=Crt-31-BGp-73c-221-E2-o-ncW02-DIN-293-pKIw-nHYW-AuEB-CUeW.PaGes.DeV&type=ws&host=crt-31-Bgp-73c-221-E2-o-NcW02-DiN-293-pKiw-NhYw-AuEb-CUeW.PAgES.DEV&path=/Telegram-@Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2560&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.153.44:443?security=tls&sni=PPal03.bRayDon-kHIyAN.wOrkers.DEV&type=ws&host=PpAL03.BrAYdoN-KhIYAN.woRKERs.DeV&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
@@ -503,3 +502,4 @@ vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reali
 vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality&encryption=none&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&headerType=none&fp=chrome&spx=/26efcddfd88f6bc&type=tcp&sni=amp-api-edge.apps.apple.com&sid=bd2e4421#FarazV2ray@
 vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality&encryption=none&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&headerType=none&fp=chrome&spx=/26efcddfd88f6bc&type=tcp&sni=amp-api-edge.apps.apple.com&sid=bd2e4421#Proxy_mtm-37
 vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality&encryption=none&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&headerType=none&fp=chrome&spx=/26efcddfd88f6bc&type=tcp&sni=amp-api-edge.apps.apple.com&sid=bd2e4421#Proxy_mtm-46
+vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality&encryption=none&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&headerType=none&fp=chrome&spx=/26efcddfd88f6bc&type=tcp&sni=amp-api-edge.apps.apple.com&sid=bd2e4421#Tel-@ProxyMtAlpha🍤 2

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#@Capoit
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#@ICV2RAY
@@ -503,3 +502,4 @@ vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443/?type=tcp&encryp
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=kamaz4.api3-max.ru#برای اتصال دائمی جوین شو🥎 TelegramID ⌲Express_freevpn 🪩
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.206:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz03.api3-max.ru&alpn=h2,http/1.1&fp=chrome#@Vpn_Mafia 🇫🇷
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@parta1.api3-max.ru:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=parta1.api3-max.ru#@ICV2RAY
+vless://59acb90b-fb9d-433b-a2f0-c039cf23dfc7@136.244.103.25:80?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar&fp=chrome&pbk=5VdWpwWeApKlGJoi50efzxiPjBruG4Rqi6ku0IDxwgc&sid=3bbf56e2#@Hope_Net-join-us-on-Telegram

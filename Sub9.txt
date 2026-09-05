@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://71f732cb-9add-45ac-af24-2356bde1c3dc@5.75.196.117:25911?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.v-84GBf4LhrosHUCCvExxD5GrulSe45AAKpW3HGjHWY&host=amp-api-edge.apps.apple.com&type=ws#MTMVPN 4
 vless://73094d19-ace3-4b3f-95f7-224f9feaeaaf@gr.edge-cache.onevanet.ir:8876?security=reality&encryption=none&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=9262c6710896560f#[38380] - Telegram : @V2All
 vless://73094d19-ace3-4b3f-95f7-224f9feaeaaf@gr.edge-cache.onevanet.ir:8876?security=reality&encryption=none&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=9262c6710896560f#[38382] - Telegram : @V2All
 vless://73094d19-ace3-4b3f-95f7-224f9feaeaaf@gr.edge-cache.onevanet.ir:8876?security=reality&encryption=none&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=9262c6710896560f#کانال ما
@@ -503,3 +502,4 @@ vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&en
 vless://897dc3a7-b6db-4b48-a379-bb2d5cc44f4d@5.75.193.170:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=adg.sws.applespeed.ir&headerType=http&type=tcp#@V2ray_Alpha🍿 5
 vless://897dc3a7-b6db-4b48-a379-bb2d5cc44f4d@5.75.193.170:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=adg.sws.applespeed.ir&headerType=http&type=tcp#@meliproxyy
 vless://897dc3a7-b6db-4b48-a379-bb2d5cc44f4d@5.75.193.170:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=adg.sws.applespeed.ir&headerType=http&type=tcp#@vasl_bashim
+vless://8997dde9-498b-48f2-ae64-89cdad2cfcdf@31.58.144.31:18149?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=LBlScaTInFivNfOiYzDW8ExpwR2O3p4j-vJ8f-4JGWw&sid=a4f78af8c177c10a&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁶ | @BigSmoke_Config
