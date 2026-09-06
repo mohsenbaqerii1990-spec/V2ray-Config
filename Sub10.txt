@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://903bb12e-ac86-414c-adf1-b9c41e213da8@208.103.161.1:443?mode=0&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=viju.allomroll.org#@FarazV2ray
 vless://903bb12e-ac86-414c-adf1-b9c41e213da8@208.103.161.1:443?mode=0&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=viju.allomroll.org#Channel : @Daily_Configs
 vless://903bb12e-ac86-414c-adf1-b9c41e213da8@208.103.161.1:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=viju.allomroll.org#@meliproxyy
 vless://903daa6f-534c-4f4a-bbc8-024993f5cb01@www.speedtest.net:443?path=/CMlsadnCISdss#TELEGRAM-leviconfigs?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ptr.cyberbear.io&fp=chrome&type=ws&allowInsecure=0&sni=ptr.cyberbear.io#@leviconfigs🪐-19
@@ -503,3 +502,4 @@ vless://a11610b3-9ec4-4497-95f3-2f3cd9124c04@lanl3.mechanicir.ir:10694?security=
 vless://a11d5668-63f7-4fe2-9b77-7f8336ae883d@94.237.4.82:443?mode=auto&path=/&security=reality&encryption=none&pbk=S2V0SCkn720uXFS2bC5iH-vyt3GBA22nXoypHyDWQzE&fp=chrome&spx=/&type=xhttp&sni=gitlab.io&sid=ed#[🏁]t.me/ConfigV2RayNG
 vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:80?encryption=none&security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=/?ed=2560#👁Ch: @pPal03👁جوین بدید گوگولیا👁
 vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.24.247.189:80?encryption=none&security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=/?ed=2560#👁Ch: @pPal03👁جوین بدید گوگولیا👁
+vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?security=reality&encryption=none&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d15c17cef9b2e456#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
