@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://13177436-dd6b-344d-711c-c7d456e69b92@69.46.46.20:443?path=/ws/13177436-dd6b-344d-711c-c7d456e69b92&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ekhraj-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ekhraj-production.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://1356b8a2-25f1-43be-1640-566c9ad4154d@inetchnl-production-c818.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-c818.up.railway.app&path=/ws/1356b8a2-25f1-43be-1640-566c9ad4154d&sni=inetchnl-production-c818.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#🇺🇸@iNetChnl
 vless://137539a1-15a1-442d-b0d1-7a9ec3e1f1a6@digia.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digia.riziro.ir&mode=auto&path=/&pbk=Ve-mF0aFGxV4deOSEA8jDe3FdjxLddF7n4IchNKvcDc&security=reality&sid=f349e91517ab8da7&sni=stg-mena-images.shop.samsung.com&spx=/PwzJMkwejzU2eGy&type=xhttp&x_padding_bytes=100-1000#🇳🇱hollowcon-T2@Hollowcon
 vless://137539a1-15a1-442d-b0d1-7a9ec3e1f1a6@digin.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digin.rizrio.ir&mode=auto&path=/&pbk=zKeOuPoCS_FA1bsfFr-A8MmdYIS-DhcHwxmhDC1WaSA&security=reality&sid=662bcfb6&sni=ru-images.shop.samsung.com&spx=/RLJneKD2LQg1T1x&type=xhttp&x_padding_bytes=100-1000#🇺🇸hollowocn-T2@Hollowcon
@@ -503,3 +502,4 @@ vless://2864de98-c04e-443a-b2d1-e7176cbcca22@am255.amin5646.ir:2082?type=xhttp&e
 vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=/#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?security=none&encryption=none&host=/&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://29189069-dde3-475b-8cc8-c9bcd30d5c12@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸@FreakConfig
+vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#🇮🇷139837 | ⚡️Telegram = t.me/SOSkeyNET
