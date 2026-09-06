@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388?#@V2ray_confiig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388?#🇺🇳 UN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjB1Uk4ycjhDQUNpMXRxT3NaTjNuNWpfSWN5cWNFbQ@Irj.jobwebs.ir:25341#kurdconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@194.87.71.223:2222#[040460] - 🇩🇪 Germany | @freenettir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS0U1T2NoSHFUcmthbXp4@94.245.92.85:443#@confiig_hub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS0U1T2NoSHFUcmthbXp4@94.245.92.85:443#@ghand_sheken
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#@v2rayng3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVzIyeTlxMk01NVBjb1VMMWFfSGdR@109.230.196.66:1080#Channel : @Daily_Configs
@@ -503,3 +497,9 @@ trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0
 trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@meliproxyy
 trojan://k2se1acbwb2t1o0e@199.232.78.160:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={"xPaddingBytes":"0"}&insecure=0&host=uonshop.global.ssl.fastly.neT&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@outline_ir
 trojan://k2se1acbwb2t1o0e@199.232.78.160:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={"xPaddingBytes":"0"}&insecure=0&host=uonshop.global.ssl.fastly.neT&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@uonvpn اختصاصی
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&fp=chrome&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&fp=chrome#2☺️@oneclickvpnkeys
+trojan://l6R5znJSPJ@179.237.75.190:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 1
+trojan://l6R5znJSPJ@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
+trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#TEL;Father_vpn
