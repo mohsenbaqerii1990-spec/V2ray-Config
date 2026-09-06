@@ -9,7 +9,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://%58pnTeam-64@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
-vless://95b5d1d0-a878-4a52-bf2a-c8e323457b02@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40ansooyefilter%20%F0%9F%98%98%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
 vless://903bb12e-ac86-414c-adf1-b9c41e213da8@104.17.108.59:443?mode=0&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=sire.allomroll.org#Server%20106
 vless://903bb12e-ac86-414c-adf1-b9c41e213da8@208.103.161.1:443?mode=0&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=viju.allomroll.org#Server%20287
 trojan://MiTiVPN@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@213.183.59.211:9006#[039274] - �
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.68:9006#[039275] - 🇵🇱 Poland | @freenettir
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@217.30.10.18:9006#[039276] - 🇵🇱 Poland | @freenettir
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@217.30.10.70:9006#[039277] - 🇵🇱 Poland | @freenettir
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@80.92.204.106:9006#[039278] - 🇷🇺 Russia | @freenettir

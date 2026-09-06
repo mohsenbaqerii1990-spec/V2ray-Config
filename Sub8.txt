@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?path=/5adeccb9&security=none&encryption=none&type=ws#@V2raySaman
 vless://5b374761-e26c-4117-8af8-5c637992fcbf@cf.090227.xyz:443?&security=tls&fp=chrome&sni=vls.baiyi.cloudns.org&type=ws&headerType=none&host=vls.baiyi.cloudns.org&path=/?ed=2560#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://5b3a8c7b-e17c-4eaf-bf42-38317548032d@swwwsxc.kipa2.ir:210?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇨🇭 l 𝐒𝐖𝐈𝐓𝐙𝐄𝐑𝐋𝐀𝐍𝐃
 vless://5b3c87d2-9df6-40d4-bbfc-7014c99e1508@fin.goodname.com.tr:8450?security=reality&encryption=none&pbk=GHH3KnDmEWWfo71LQxPV9mtGvzB-lIx1P78QXOQroxk&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#@Shh_Proxy-New⁴
@@ -503,3 +502,4 @@ vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@217.60.24.23:8443?encryption=none&t
 vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none&security=reality&fp=chrome&type=tcp&headerType=none&sni=play.google.com#@v2rayng3
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#🇩🇪 DE
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#🇺🇳 UN
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&type=grpc&mode=multi&serviceName=grpc-tunnel&security=reality&fp=chrome&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#🇺🇳 @V2RAYNG_IP 🔥
