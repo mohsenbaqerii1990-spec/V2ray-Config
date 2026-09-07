@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Nexus_Panell چنل تلگرام
 vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Alpha🍧 6
 vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@configprxy
 vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️547🌐🆕️
@@ -503,3 +502,4 @@ vless://7dedf505-609f-43df-b31a-1e4f3ef87102@104.16.47.58:443?path=/api/ws&secur
 vless://7dedf505-609f-43df-b31a-1e4f3ef87102@104.16.47.58:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev#@V2rayng_Fast
 vless://7dedf505-609f-43df-b31a-1e4f3ef87102@104.19.4.221:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev#@FarazV2ray
 vless://7dedf505-609f-43df-b31a-1e4f3ef87102@104.19.4.221:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev#@V2raySaman
+vless://7dedf505-609f-43df-b31a-1e4f3ef87102@104.19.4.221:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev#@V2rayng_Fast

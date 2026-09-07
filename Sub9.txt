@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7dedf505-609f-43df-b31a-1e4f3ef87102@104.19.4.221:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev#@V2rayng_Fast
 vless://7dedf505-609f-43df-b31a-1e4f3ef87102@104.25.161.228:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev#@FarazV2ray
 vless://7dedf505-609f-43df-b31a-1e4f3ef87102@104.25.161.228:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev#@V2raySaman
 vless://7dedf505-609f-43df-b31a-1e4f3ef87102@104.25.161.228:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-tmlrh.app-0x3q10.workers.dev#@V2rayng_Fast
@@ -503,3 +502,4 @@ vless://935ed92d-68c3-42c7-8c32-2db2595737e6@axial.medic-ml.ru:443?mode=auto&pat
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@axial.medic-ml.ru:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=axial.medic-ml.ru&sid=e1ac2faf5e5f309e#@irdusti(4)🏳️⁹
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@axial.medic-ml.ru:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=axial.medic-ml.ru&sid=e1ac2faf5e5f309e#برای اتصال دائمی جوین شو🥎 TelegramID ⌲Express_freevpn 🪩
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@kl18.x5specially.online:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=kl18.x5specially.online&sid=e1ac2faf5e5f309e#@Nexus_Panell چنل تلگرام
+vless://935ed92d-68c3-42c7-8c32-2db2595737e6@kl18.x5specially.online:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=kl18.x5specially.online&sid=e1ac2faf5e5f309e#Tel-@ProxyMtAlpha🥥 4
