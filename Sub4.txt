@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=chrome&type=xhttp&sni=static.lotussec.com#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#@FarazV2ray
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#@V2rayng_Fast
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#@confiig_hub
@@ -502,4 +503,3 @@ vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&secu
 vless://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@219.77.167.19:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com#@meliproxyy
 vless://2e622f08-444a-46d0-8dac-6f9709f4d172@check-host.net:8880?path=/&security=none&encryption=none&host=sni.abilim.info&type=httpupgrade#@V2rayng3
 vless://2e8077d9-7bd9-444b-b2e3-de940d2eb35e@45.90.58.216:443?security=reality&encryption=none&pbk=PMYLdOtnvW-ca8Zf6u7CFgGXoGXCvmCMPerPjGY3AAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=77d7abe2c55892f1#@bored_vpn
-vless://2e8077d9-7bd9-444b-b2e3-de940d2eb35e@45.90.58.216:443?security=reality&encryption=none&pbk=PMYLdOtnvW-ca8Zf6u7CFgGXoGXCvmCMPerPjGY3AAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=77d7abe2c55892f1#@mehrosaboran
