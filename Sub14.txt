@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e166a48f-f50c-473a-938a-edb5155f4a3c@5.75.192.206:37655?encryption=mlkem768x25519plus.native.0rtt.viLL61ERHjbx1sOZwTTYWSCx0LhOGLh7G86X8-yIkj4&security=none&type=tcp&headerType=none&path=5.75.192.206#کانال ما
 vless://e166a48f-f50c-473a-938a-edb5155f4a3c@5.75.192.206:37655?encryption=mlkem768x25519plus.native.0rtt.viLL61ERHjbx1sOZwTTYWSCx0LhOGLh7G86X8-yIkj4&security=none&type=tcp&headerType=none&path=5.75.192.206#🇩🇪164698 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e166a48f-f50c-473a-938a-edb5155f4a3c@5.75.192.206:37655?encryption=mlkem768x25519plus.native.0rtt.viLL61ERHjbx1sOZwTTYWSCx0LhOGLh7G86X8-yIkj4&security=none&type=tcp&headerType=none&path=5.75.192.206#🇩🇪DE-🚀@VPNine1
 vless://e166a48f-f50c-473a-938a-edb5155f4a3c@5.75.192.206:37655?encryption=mlkem768x25519plus.native.0rtt.viLL61ERHjbx1sOZwTTYWSCx0LhOGLh7G86X8-yIkj4&security=none&type=tcp&headerType=none&path=5.75.192.206#🔵@chillguy_vpn
@@ -503,3 +502,4 @@ vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.15:2083?encryption=none&s
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&serviceName=chat.deepseek.com&type=grpc#⭐️32@oneclickvpnkeys
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#@V2ray_confiig
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4188_@Surfboardv2ray
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4213_@Surfboardv2ray
