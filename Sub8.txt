@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdg-1.fromblancwithlove.com#🔥 @free_conf_iran 🔥 13
 vless://560c46be-d15d-4083-8fb5-c7ad5f4f24fd@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?security=none&encryption=none&headerType=none&type=tcp#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://5627052f-7d3a-49c1-94fc-61257b01ec21@djjxd-production.up.railway.app:443?path=/ws/5627052f-7d3a-49c1-94fc-61257b01ec21&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=djjxd-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=djjxd-production.up.railway.app#Proxy_mtm-27
@@ -500,6 +503,3 @@ vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@220.130.75.248:10000/?type=tcp&encr
 vless://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@185.121.234.47:3701?security=reality&encryption=none&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&headerType=none&fp=chrome&spx=/y1gWdaecnKIKUd2&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7b1a#SPDNET-1 🇳🇱
 vless://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@91.84.113.126:3701?security=reality&encryption=none&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&headerType=none&fp=chrome&spx=/y1gWdaecnKIKUd2&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7b1a#SPDNET-3 🇳🇱
 vless://6fc302a0-3944-4eb9-8a10-676693e10ca3@Fr.one.hello.mobileahmadreza.ir:2091?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none#⚡︎ 🇫🇷 @V2rayng_Fast
-vless://6fc302a0-3944-4eb9-8a10-676693e10ca3@Tr.gameover.mobileahmadreza.ir:2091?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none#⚡︎ 🇹🇷 @V2rayng_Fast
-vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.100:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
-vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
