@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&fp=chrome&alpn=h2#@V2RAYNG_IP 🍉
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&fp=chrome&alpn=h2#@V2RAYNG_IP 🍫
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&sni=static.lotussec.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#@Capoit
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&sni=static.lotussec.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#@vmessorg
@@ -503,3 +502,4 @@ vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality
 vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&host=/?BIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8#@MARAMBASHI 🇫🇷
 vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&host=/?BIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8#@V2rayng_Fast 🇫🇷
 vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?mode=auto&path=/api/v1/&security=tls&alpn=h2&encryption=none&insecure=0&host=deu683.lackerdeu.org&fp=chrome&type=xhttp&allowInsecure=0&sni=deu683.lackerdeu.org#@hopev2ray💓
+vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@31.58.182.33:443?mode=auto&path=/api/v1/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=deu683.lackerdeu.org#@i10VPN🥈

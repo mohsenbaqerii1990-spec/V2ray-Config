@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@31.58.182.33:443?mode=auto&path=/api/v1/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=deu683.lackerdeu.org#@i10VPN🥈
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.243:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#@Hope_Net-join-us-on-Telegram
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.230:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@VPNine1#🇦🇺AU-🚀@VPNine1
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.230:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#@Hope_Net-join-us-on-Telegram
@@ -503,3 +502,4 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&se
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#@ConfigV2RayNG
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#@FarazV2ray
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#@V2raySamanbot
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#@V2ray_confiig

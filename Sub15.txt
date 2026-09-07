@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f510adea-091b-4563-a54b-dc04e73fd952@46.8.64.147:41617?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانال تلگرام : Free_VPN_CH@
 vless://f5197f13-930e-4ce4-925e-973d703dd4e6@138.124.86.127:444?security=reality&encryption=none&pbk=acR3z7kRfCQEnfuCO1U3MFzTUXWQz9YqSe5RwbxafyE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=a1b2c3d4a1b2c3d4#@v2raybaaz
 vless://f5293312-411f-4b80-9f55-b2eccb7ae683@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://f532a6ec-5c73-a79e-7cd4-cfc1659e8ede@inetchnl-production-7933.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-7933.up.railway.app&path=/ws/f532a6ec-5c73-a79e-7cd4-cfc1659e8ede&sni=inetchnl-production-7933.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#🇺🇸@iNetChnl
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%3E%3E%40FreakConfig%3A%3A
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#%3E%3E%40shadowproxy66%3A%3AXX
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%3E%3E%40freeland8%3A%3AUS
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%3E%3E%40configV2rayNG%3A%3AUS
