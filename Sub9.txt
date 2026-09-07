@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7c3fcbab-324a-4c06-840a-f32c9ece4f2a@tp.paydar.site:2090?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪@v2ryNG01 جدید ترین  🏳ضربه بزن
 vless://7c3fcbab-324a-4c06-840a-f32c9ece4f2a@tp.paydar.site:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪@
 vless://7c3fcbab-324a-4c06-840a-f32c9ece4f2a@tp.paydar.site:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪@v2ryNG01
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#@Net2ray Germany 🇩🇪
@@ -502,4 +503,3 @@ vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&e
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@93.123.101.174:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=models.medic-ml.ru&sid=e1ac2faf5e5f309e#@VConfing
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@95.85.247.98:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=axial.medic-ml.ru&sid=e1ac2faf5e5f309e#@V2ray_confiig
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@95.85.247.98:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=axial.medic-ml.ru&sid=e1ac2faf5e5f309e#@VConfing
-vless://935ed92d-68c3-42c7-8c32-2db2595737e6@95.85.247.98:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=axial.medic-ml.ru&sid=e1ac2faf5e5f309e#Channel : @Daily_Configs
