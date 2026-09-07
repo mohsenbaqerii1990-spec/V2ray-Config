@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.151.21:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.151.21:2096?encryption=none&type=ws&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇨🇦164552 | ⚡️Telegram = t.me/SOSkeyNET
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.151.21:2096?encryption=none&type=ws&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🚀@VPNine1
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.146:443?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇨🇦164558 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://8f809492-a908-4c1d-bb5f-b8905b19c5be@173.245.58.145:443?path=/api/ws&sec
 vless://8f809492-a908-4c1d-bb5f-b8905b19c5be@173.245.58.145:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-du63a.app-gwckeh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-du63a.app-gwckeh.workers.dev&fragment=tlshello,5,94,1,0&fragment2=1-1,109,1,1,355#🚀@VPNine1
 vless://8f809492-a908-4c1d-bb5f-b8905b19c5be@173.245.58.145:80?path=/api/ws&security=none&encryption=none&insecure=0&host=webapp-trexbridge-du63a.app-gwckeh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-du63a.app-gwckeh.workers.dev&fragment=tlshello,5,94,1,0&fragment2=1-1,109,1,1,355#🇨🇦164589 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8f809492-a908-4c1d-bb5f-b8905b19c5be@173.245.58.145:80?path=/api/ws&security=none&encryption=none&insecure=0&host=webapp-trexbridge-du63a.app-gwckeh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-du63a.app-gwckeh.workers.dev&fragment=tlshello,5,94,1,0&fragment2=1-1,109,1,1,355#🚀@VPNine1
-vless://8f809492-a908-4c1d-bb5f-b8905b19c5be@webapp-trexbridge-du63a.app-gwckeh.workers.dev:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=webapp-trexbridge-du63a.app-gwckeh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=webapp-trexbridge-du63a.app-gwckeh.workers.dev&fragment=tlshello,5,94,1,0&fragment2=1-1,109,1,1,355#🇨🇦164584 | ⚡️Telegram = t.me/SOSkeyNET
