@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk2-r.link-t7.com:10127/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#香港
 vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk5-r.link-t7.com:10130/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&allowInsecure=1&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#香港
 vless://Channel-ITV2RAY@iTV2RAY.ddns.net:969?path=/iTV2RAY&security=reality&encryption=none&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&host=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&fp=chrome&spx=/iTV2RAY&type=http&sni=www.speedtest.net&sid=d05b9020#@iTV2RAY+/+All+oprator+/+iOS
 vless://Channel-iTV2RAY@iTV2RAY.ddns.net:696?mode=gun&security=reality&encryption=none&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c&fp=chrome&spx=/iTV2RAY&type=grpc&serviceName=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&sni=www.speedtest.net&sid=04158025#@iTV2RAY+/+All+oprator+/+Android
@@ -503,3 +502,4 @@ vless://b3fe34a9-cda1-4ef3-b822-ddccc507a22d@212.34.147.118:5483?encryption=none
 vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mold.speedload.online&sid=a20d3ed244c76426#🇲🇩139838 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b4352229-7bb9-49a1-866a-7d747fda1b1e@maple-valley-5542.coral-pine-bdf4.workers.dev:443?path=/61e3842943b4?u=user3&security=tls&encryption=none&insecure=0&host=maple-valley-5542.coral-pine-bdf4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=maple-valley-5542.coral-pine-bdf4.workers.dev#Proxy_mtm-29
 vless://b477bc51-1f68-41b1-9216-6f8350d7c5b7@153.52.117.170:2096?encryption=none&type=xhttp&mode=auto&path=/xh&security=reality&fp=chrome&sni=udemy.com&pbk=e0fJ7c7cOw0IHd6YdCUoQFkjJQwjzL_H0__QfsDLhkE&sid=b6e471856cd7dd20#🇫🇮 SiNAVM · XHTTP
+vless://b477bc51-1f68-41b1-9216-6f8350d7c5b7@195.133.35.63:2096?encryption=none&type=xhttp&mode=auto&path=/xh&security=reality&fp=chrome&sni=udemy.com&pbk=e0fJ7c7cOw0IHd6YdCUoQFkjJQwjzL_H0__QfsDLhkE&sid=b6e471856cd7dd20#🇨🇿 SiNAVM · XHTTP
