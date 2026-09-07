@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=1&host=s-mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&allowInsecure=1&sni=sadszdx.global.ssl.fastly.net.b5r.ir#🔥 @free_conf_iran 🔥 1
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
 trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#🇪🇪 Join+Telegram:@Farah_VPN 🇪🇪
@@ -502,4 +503,3 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&allowinsecure=0&type=xhttp&mode=stream-one&path=/Join-JavidnamanIran-on-Telegram#🇩🇪All⁴ | @BigSmoke_Config
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&mode=stream-one&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&security=tls&fp=chrome&sni=static.lotussec.com&alpn=h2#@V2RAYNG_IP 🍫
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&extra={"noGRPCHeader":true,"headers":{"User-Agent":"Mozilla\/5.0(WindowsNT10.0;Win64;x64)AppleWebKit\/537.36(KHTML,likeGecko)Chrome\/101.0.4951.67Safari\/537.36"},"xmux":{"hKeepAlivePeriod":12,"maxConcurrency":"6"}}&security=tls&fp=chrome&alpn=h2#@V2RAYNG_IP 🍉
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&fp=chrome&alpn=h2#@V2RAYNG_IP 🍉
