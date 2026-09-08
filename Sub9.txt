@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#Telegram:@v2rayng3
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&host=/?BIA_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#@leviconfigs🪐-12
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&host=/?BIA_TELEGRAM@leviconfigs_leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#@leviconfigs🪐-6
+vless://7700ff6d-cefb-4768-a806-ec4f63fe3b38@172.67.136.43:443?encryption=none&security=tls&sni=6-M13.176F877b-9958-456A-9b39-9DE3e9aD2d9D.KdNs.fR&type=ws&host=6-m13.176f877B-9958-456A-9b39-9De3e9AD2D9d.kDnS.Fr&path=/ED3ZQPu7lqyeDGD58KabZ#@Daily_Configs : کانال
+vless://7700ff6d-cefb-4768-a806-ec4f63fe3b38@172.67.136.43:443?encryption=none&security=tls&sni=6-M13.176F877b-9958-456A-9b39-9DE3e9aD2d9D.KdNs.fR&type=ws&host=6-m13.176f877B-9958-456A-9b39-9De3e9AD2D9d.kDnS.Fr&path=/ED3ZQPu7lqyeDGD58KabZ#@proxy_kafee : کانال
 vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardmmmmkeje.vahidzhv.ir:5057?security=none&encryption=none&headerType=http&type=tcp#@leviconfigs🪐-4
 vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd.vipneninet.ir:5059?security=none&encryption=none&headerType=http&type=tcp#@leviconfigs🪐-3
 vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd1.sobu.ir:5060?security=none&encryption=none&headerType=http&type=tcp#@leviconfigs🪐-18
@@ -498,8 +503,3 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.160:62145?encryption=no
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.12.191:62145?encryption=none&security=none&type=tcp#✅5@oneclickvpnkeys
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.225.187:62145?encryption=none&security=none&type=tcp#✅16@oneclickvpnkeys
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.228.124:62145?encryption=none&security=none&type=tcp#✅2@oneclickvpnkeys
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.231.30:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp#荷兰
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.14:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#💫@ATOVPN گیگی ۳۵۰۰
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.23:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇷🇺139906 | ⚡️Telegram = t.me/SOSkeyNET
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#💫@ATOVPN گیگی ۳۵۰۰
-vless://8ff24c63-a8ab-443b-98c4-cf2ea1741382@38.148.253.32:9443?security=reality&encryption=none&pbk=z5ey3dBNwJciLD1_V2P_rKYGEd2Lk_V1IOl2uRDZwhQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=blog.jetbrains.com&sid=f5b880a0529326c1#@Begoo_VPN ²⁸⁸
