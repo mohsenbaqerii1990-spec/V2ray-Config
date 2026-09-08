@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.74.87:22222?encryption=none&security=none&type=tcp#✅17@oneclickvpnkeys
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.74.87:22223?encryption=none&security=none&type=tcp#✅12@oneclickvpnkeys
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.74.87:22224?encryption=none&security=none&type=tcp#✅15@oneclickvpnkeys
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.191.103:22223?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.191.103:22224?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -503,3 +501,5 @@ vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security
 vless://f3e8d964-0671-4cd3-a660-29dc72aa3214@91.196.32.151:64175?mode=auto&path=/?Telegram--@CONFIG7X---@CONFIG7X&security=reality&encryption=none&pbk=LjdEIR5zU-VTzfvO3jtRXfaPx5RZDrUEbiNH4tJ9OgA&host=forum.linuxconfig.org&fp=chrome&type=xhttp&sni=forum.linuxconfig.org&sid=4da193f2#𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢:@𝗖𝗢𝗡𝗙𝗜𝗚𝟳𝗫 | US
 vless://f40ef9e3-ce9d-438f-a421-2b3f3361c86a@hollowcon6.onrender.com:443?encryption=none&security=tls&sni=hollowcon6.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon6.onrender.com&path=/ws/f40ef9e3-ce9d-438f-a421-2b3f3361c86a#@hollowcon
 vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://f485492b-2c69-4334-b193-403b1e4ec1a4@13.193.9.59:31497?encryption=none&type=tcp&security=reality&sni=www.sony.com&fp=chrome&insecure=1&allowInsecure=1&pbk=UsFXvqh6G4IrPRVWtUUFvZUYHbV8facFnRyAl1vrbUY&sid=5b63c338f69077&flow=xtls-rprx-vision#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
+vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#TEL;Father_vpn
