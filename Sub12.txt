@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?encryption=none&security=none&type=tcp&headerType=none#@configprxy
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All³ | BigSmoke_Config
 vless://b6621c85-2b69-42e0-8067-8823659bdcb5@darsadgir.ir:443?mode=auto&path=/GoOgLe&security=tls&encryption=none&extra={"xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish"}&insecure=0&host=map.imisstheoldye.com&type=xhttp&allowInsecure=0&sni=map.imisstheoldye.com#@tootffarangi🍓-7
 vless://b6621c85-2b69-42e0-8067-8823659bdcb5@darsadgir.ir:443?mode=auto&path=/GoOgLe&security=tls&encryption=none&extra={"xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish"}&insecure=0&host=map.imisstheoldye.com&type=xhttp&allowInsecure=0&sni=map.imisstheoldye.com#[🇨🇦]t.me/ConfigV2RayNG
@@ -503,3 +502,4 @@ vless://cf1d2ded-2472-483a-f2f2-12c83d1826dd@cl.nigali.ir:2087?encryption=none&t
 vless://cf1d2ded-2472-483a-f2f2-12c83d1826dd@cl.nigali.ir:2087?mode=auto&path=/@v2_line&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn-edge-static-assets-delivery-node-a7f2c9e4b1d8.esmahdi9.com#☑➜چنلمون: Express_freevpn@
 vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech
 vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech   ⚠️ * آموزش اتصال به کانفیگ
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=/GOrbEh#TELEGRAM-Cnetvpn?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#Telegram 🆔@cnetvpn
