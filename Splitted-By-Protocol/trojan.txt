@@ -417,8 +417,7 @@ trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.
 trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios&host=waysi.waysi6688.workers.dev&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://MiTiVPN@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40freeland8%3A%3AFR
-trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-4984
-trojan://origin@176.31.83.90:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-176.31.83.90-1202
+trojan://CF68213490@smooth-lark.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.211.246-4993
 trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@transfer01.kaochangonline.online:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-37.1.220.158-0103
 trojan://ded86ba8-2e5d-4794-8b35-b967e59497bf@36.138.100.57:11001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0101
 trojan://ded86ba8-2e5d-4794-8b35-b967e59497bf@117.164.185.222:21002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0089
@@ -429,6 +428,6 @@ trojan://UhCF2JxsDxStDp5NTQ@ty1-3.crabyakiniku.com:443?security=tls#%F0%9F%87%A9
 trojan://ded86ba8-2e5d-4794-8b35-b967e59497bf@36.138.100.57:21002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0038
 trojan://ded86ba8-2e5d-4794-8b35-b967e59497bf@117.164.185.222:21003?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0034
 trojan://ded86ba8-2e5d-4794-8b35-b967e59497bf@117.164.185.222:21001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0029
-trojan://NQ26071394@guided-pelican.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.112.57-0217
-trojan://ded86ba8-2e5d-4794-8b35-b967e59497bf@36.138.100.57:61002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0016
-trojan://b3845d95-c82e-47f8-b626-0f27d861e8f7@los.ydnode.us:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.214-0228
+trojan://NQ26071394@guided-pelican.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.112.57-0223
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@85.90.246.11:28443?security=tls&sni=download.windowsupdate1.com#%F0%9F%87%A9%F0%9F%87%AADE-85.90.246.11-0224
+trojan://b3845d95-c82e-47f8-b626-0f27d861e8f7@los.ydnode.us:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.214-0230
