@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b644728c-b82f-4507-91b3-e64789eb10be@5.75.193.253:25911?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.v-84GBf4LhrosHUCCvExxD5GrulSe45AAKpW3HGjHWY&host=amp-api-edge.apps.apple.com&type=ws#vpnsal
 vless://b644728c-b82f-4507-91b3-e64789eb10be@5.75.196.117:25911?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.v-84GBf4LhrosHUCCvExxD5GrulSe45AAKpW3HGjHWY&host=amp-api-edge.apps.apple.com&type=ws#vpnsal
 vless://b644728c-b82f-4507-91b3-e64789eb10be@91.107.144.206:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#vpnsal
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?encryption=none&security=none&type=tcp&headerType=none#@configprxy
@@ -503,3 +502,4 @@ vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?path=/arvan
 vless://cf0248f7-afaa-49fd-821e-6adc951df1a5@www.speedtest.net:443?path=/eyJqdW5rIjoibzdETUxDZXk3RjNkY1BBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==&security=tls&alpn=http/1.1&encryption=none&host=bpb-c4afefbb.djfvbkjdfv.workers.dev&fp=chrome&type=ws&sni=BPb-C4AfEfbB.djFvbKjDfV.woRKeRs.dev#@appsooner کانال تلگرام 🕊️
 vless://cf1d2ded-2472-483a-f2f2-12c83d1826dd@cl.econeko.ir:2087?encryption=none&type=xhttp&mode=auto&path=/@v2_line&fm={"tcp":[{"settings":{"length":"40-60","delay":"2-5","packets":"tlshello"},"type":"fragment"}]}&security=tls&fp=chrome&sni=cdn-edge-static-assets-delivery-node-a7f2c9e4b1d8.esmahdi9.com&alpn=h2,http/1.1&fragment=40-60,2-5,tlshello#@v2_line xhttpnew10🇫🇷
 vless://cf1d2ded-2472-483a-f2f2-12c83d1826dd@cl.nigali.ir:2087?encryption=none&type=xhttp&mode=auto&path=/@v2_line&fm={"tcp":[{"settings":{"packets":"tlshello","length":"40-60","delay":"2-5"},"type":"fragment"}]}&security=tls&fp=chrome&sni=cdn-edge-static-assets-delivery-node-a7f2c9e4b1d8.esmahdi9.com&alpn=h2,http/1.1&fragment=40-60,2-5,tlshello#@v2_line xhttpnew10🇫🇷
+vless://cf1d2ded-2472-483a-f2f2-12c83d1826dd@cl.nigali.ir:2087?mode=auto&path=/@v2_line&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn-edge-static-assets-delivery-node-a7f2c9e4b1d8.esmahdi9.com#☑➜چنلمون: Express_freevpn@
