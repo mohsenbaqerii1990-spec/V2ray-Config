@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b8356cb0-d2cb-4839-94e3-726a18a1a3eb@13.143.132.189:443?security=reality&encryption=none&pbk=_qD8d3yv48E-OUSXsLX6LFFYc_wE1vj6VxZvwnbIagM&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fin-02.file-rkat.online&sid=daad1529828cd271#vpnsal
 vless://b8356cb0-d2cb-4839-94e3-726a18a1a3eb@147.45.61.81:443?security=reality&encryption=none&pbk=1KdHB8WjI4E_Qt43QdY0OByHv9CkLjK_cAtVOcnt1Ug&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-02.file-rkat.online&sid=c8eebab189078461#vpnsal
 vless://b857d532-430d-44d9-b8f2-000c8edf0573@frl3.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@Nexus_Panell چنل تلگرام
 vless://b877fa69-2d1c-48da-a1e8-2ac8a40f1227@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#@V2ray_Alpha🫚 4
@@ -503,3 +502,4 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?encryption=none&s
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#@Iran_v2ray1
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#@V2ray_Alpha🎗️ 3
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🇭🇺🇩🇪@AZARBAYJAB1
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@V2ray_confiig
