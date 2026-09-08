@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:443#🇩🇪 | 4
 ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:80#🇩🇪 | 5
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#configprxy
@@ -502,4 +503,3 @@ vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=no
 vless://0183ea01-1071-4b3b-97fa-67dd115fe8f8@176.120.17.90:2083?encryption=none&type=http&path=/
 vless://018a9e2e-9bfd-4a9e-a20d-c07eb53fa439@91.234.39.183:8080?path=/&security=none&encryption=none&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&sid=f713561d&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
-vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&host=JOIN_BEDE_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#@leviconfigs🪐-27
