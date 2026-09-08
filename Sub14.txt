@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22222?security=none&encryption=none&headerType=none&type=tcp#@Napsternetvirani
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22222?security=none&encryption=none&headerType=none&type=tcp#@leviconfigs🪐-12
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22222?security=none&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-12
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22223?security=none&encryption=none&headerType=none&type=tcp#@leviconfigs🪐-13
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22223?security=none&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-13
@@ -501,5 +503,3 @@ vless://f5197f13-930e-4ce4-925e-973d703dd4e6@138.124.86.127:444?security=reality
 vless://f5293312-411f-4b80-9f55-b2eccb7ae683@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://f532a6ec-5c73-a79e-7cd4-cfc1659e8ede@inetchnl-production-7933.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-7933.up.railway.app&path=/ws/f532a6ec-5c73-a79e-7cd4-cfc1659e8ede&sni=inetchnl-production-7933.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#🇺🇸@iNetChnl
 vless://f58a9d78-d4cc-c8bc-03d0-2810846a33d1@104.21.7.43:2053?&security=tls&fp=chrome&sni=hossein.shhrsbzhsyn.workers.dev&type=ws&headerType=none&host=hossein.shhrsbzhsyn.workers.dev&path=/sync#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rm2.magazinnarubeva.ru&sid=8718c58d3d51db59#@V2ray_confiig
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?encryption=none&type=ws&path=/&host=chatgpt.com#@Maznet - SOS521
