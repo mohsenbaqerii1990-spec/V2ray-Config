@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f485492b-2c69-4334-b193-403b1e4ec1a4@13.193.9.59:31497?encryption=none&type=tcp&security=reality&sni=www.sony.com&fp=chrome&insecure=1&allowInsecure=1&pbk=UsFXvqh6G4IrPRVWtUUFvZUYHbV8facFnRyAl1vrbUY&sid=5b63c338f69077&flow=xtls-rprx-vision#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#TEL;Father_vpn
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@94.249.225.83:443?security=reality&encryption=none&pbk=X6zcH8pCUXrauNQvbNkm8e_oTdB0wOr8eCMCzs3b1Tc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plucky-kestrel.cdn.cachefleet.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=1Z6i1nhm.85858569.Xyz#@KAFING_2
@@ -503,3 +502,4 @@ vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&p
 vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@159.195.137.29:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#%3E%3E%40configV2rayNG%3A%3ADE
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@finite-node.rtxconfigz.com:443?encryption=none&host=telegram.us&path=%2F&security=tls&sni=finite-node.rtxconfigz.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@45.128.78.6:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ASG
