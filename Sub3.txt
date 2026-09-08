@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+tuic://9a198016-fdb7-4510-acca-e2c68c1083e5:9a198016-fdb7-4510-acca-e2c68c1083e5@singapore.ruixing.fun:58441/?congestion_control=bbr&udp_relay_mode=native&sni=singapore.ruixing.fun&alpn=h3#新加坡
 vless://---DIGIV2RAY---@www.Speedtest.Net:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://--DIGIV2RAY--@185.146.173.68:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://-DIGIV2RAY--@185.146.173.68:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&fp=chrome&alpn=h2#@V2RAYNG_IP 🍫
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&sni=static.lotussec.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#@Capoit
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&sni=static.lotussec.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#@vmessorg
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra={  "headers" : {    "User-Agent" : "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"  },  "noGRPCHeader" : true,  "xmux" : {    "hKeepAlivePeriod" : 12,    "maxConcurrency" : "6"  }}&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#@V2ray_confiig
