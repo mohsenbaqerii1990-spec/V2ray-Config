@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.60.245:22224?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 😁
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?security=none&encryption=none&headerType=none&type=tcp#@Azaranv2ray
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.99.148:22222?security=none&encryption=none&headerType=none&type=tcp#@Shh_Proxy-New⁸
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.99.148:22222?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.99.148:22223?security=none&encryption=none&headerType=none&type=tcp#@Shh_Proxy-New⁴
@@ -503,3 +501,5 @@ vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@50.7.193.132:443/?type=tcp&encrypti
 vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@84.32.189.22:443?security=reality&encryption=none&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app23.jarvestip.ru&sid=2aef5875#@appsooner کانال تلگرام 🕊️
 vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@app23.jarvestip.ru:443?security=reality&encryption=none&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app23.jarvestip.ru&sid=2aef5875#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#🇫🇷139863 | ⚡️Telegram = t.me/SOSkeyNET
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#🇫🇷139756 | ⚡️Telegram = t.me/SOSkeyNET
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.12.75.140:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/#@Hope_Net-join-us-on-Telegram

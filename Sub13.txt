@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d201dcf4-b98c-4343-bbdb-ca7e8cb8b66a@81.12.56.168:2083?path=/&security=tls&alpn=h2,http/1.1,h3&encryption=mlkem768x25519plus.native.0rtt.cp_DKw6HPlxmbRWpuzvX-0WFNq1Y61bgsbMvkTmxFV4&insecure=0&host=irde404.e404ng.fun&fp=chrome&type=ws&allowInsecure=0&sni=irde404.e404ng.fun#[🇮🇷]t.me/ConfigV2RayNG
-vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸139848 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d2339910-85d7-42b2-ad3a-919ed5829d08@207.241.172.254:4777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&sid=01115788253bc845&type=tcp&headerType=none#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://d2339910-85d7-42b2-ad3a-919ed5829d08@207.241.172.254:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#🇩🇪@FreakConfig
 vless://d2351240-3ef6-4ec3-a82c-0e71742895dc@144.31.17.66:443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=Kit4AiOzaBN_zhhwe8eU9SHexYW4fwAo20MnDbjPEWc&sid=c7514dbbd2af28b5&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
@@ -503,3 +501,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22224?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22224?encryption=none&security=none&type=tcp&headerType=none#Telegram:@v2rayng3
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22224?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.60.245:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.60.245:22224?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 😁
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?security=none&encryption=none&headerType=none&type=tcp#@Azaranv2ray
