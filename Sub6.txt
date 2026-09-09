@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#@erfanandroid
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#@tootffarangi🍓-4
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#Telegram @mtmvpn
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#[🇧🇬]t.me/ConfigV2RayNG
@@ -503,3 +502,4 @@ vless://41a9711b-5b34-4fd8-a877-85c6f4d0e418@213.156.152.110:443?security=none&e
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t07.tzteam.online&path=/?ed=2048&security=tls&sni=t07.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://41cb89fa-75cb-456a-cdda-836e1bad4125@91.107.184.112:10102?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=dynu.com&pbk=SdaTsVD61hkX8eC4OXA7OX_UlubWRp98BDdXmowtBBA#@v2_line rl new 🇩🇪 2
+vless://41db9eef-eeef-1c7c-d1af-57d03da5370c@69.46.46.33:443?path=/ws/41db9eef-eeef-1c7c-d1af-57d03da5370c&security=tls&alpn=http/1.1&encryption=none&host=sunny-horizon-9745-production.up.railway.app&fp=chrome&type=ws&sni=sunny-horizon-9745-production.up.railway.app#3 🇳🇱 @V2ngNet

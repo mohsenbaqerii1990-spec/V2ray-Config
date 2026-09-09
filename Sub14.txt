@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e3fcc645-cec2-9b16-3946-06174d59b7fa@69.46.46.104:443?path=/ws/e3fcc645-cec2-9b16-3946-06174d59b7fa&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=polar-falcon-aaa4-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=polar-falcon-aaa4-production.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://e3fdbd22-8c17-11ee-ace4-f23c913c8d2b@beda7e37-tl4g00-tphxte-1h5u7.hk3.hyhuawei.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4#[044141] - 🌍 Unknown | ⚡️ 228.41ms | @freenettir
 vless://e41603b5-3315-4cbc-acae-dfeeaddc2a4d@217.11.164.92:37430?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&spx=/&type=tcp&headerType=none#🇹🇷 TR
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.157.77:22222?encryption=none&security=none&type=tcp#V2ray_confiig
@@ -503,3 +502,4 @@ vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@5.75.196.199:56539?security=none&en
 vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@5.75.196.199:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🇧🇷
 vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@5.75.196.199:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=http&type=tcp#@V2rayng_Fast 🇧🇷
 vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@5.75.196.199:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com/?TELEGRAM--TOOTFFARANGI&headerType=http&type=tcp#@tootffarangi🍓-11
+vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@cdn.devmixa.ir:2086?mode=auto&path=/&security=&encryption=none&host=rubika.ir.play.google.com.www.speedtest.net.chatgpt.com.openai.com.icloud.com.as.sw.irankrmanshah.ir.cdn.en.k8k8110.com&type=xhttp#@meliproxyy

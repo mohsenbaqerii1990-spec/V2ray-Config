@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?path=/&security=none&encryption=none&type=httpupgrade#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
 vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@150.251.138.142:8443?encryption=none&type=tcp&security=none#🇳🇱 SiNAVM
 vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@150.251.138.142:8443?encryption=none&type=tcp&security=none#🇳🇱 SiNAVMBOT
 vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@195.133.84.198:8443?encryption=none&type=tcp&security=none#🇩🇪 SiNAVM کانال تلگرامی
@@ -503,3 +502,4 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?encryption=
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#@FarazV2ray
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#@V2raySaman
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#@V2rayng_Fast
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#@erfanandroid
