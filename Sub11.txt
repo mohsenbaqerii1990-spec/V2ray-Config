@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://My-chanel-Telegram-ATOVPN@185.71.219.80:15260?security=&encryption=none&headerType=none&type=tcp#@Napsternetvirani
 vless://My-chanel-Telegram-ATOVPN@185.71.219.80:15260?security=&encryption=none&headerType=none&type=tcp#@filembad
 vless://My-chanel-Telegram-ATOVPN@185.71.219.80:15260?security=&encryption=none&headerType=none&type=tcp#کانال ما
 vless://My-chanel-Telegram-ATOVPN@185.71.219.80:15260?security=&encryption=none&headerType=none&type=tcp#🇹🇷TR-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?security=realit
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#@ICV2RAY
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#Channel id: @ShadowProxy66 🇵🇱
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#Channel id: @ShadowProxy66 🇸🇪
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743?mode=gun&security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#@vasl_bashim
