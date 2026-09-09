@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#🇹🇷165935 | ⚡️Telegram = t.me/SOSkeyNET
 vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#🇹🇷TR-🚀@VPNine1
 vless://1205caca-020f-4b79-a002-e344cc81fb2c@plt.starferi.ir:8460?security=none&encryption=none&headerType=none&type=tcp#حجم ۲۵۰ گیگ
 vless://120ac4b3-4bfe-4081-b552-0754af32136e@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=Swedenman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#Proxy_mtm-42
@@ -502,4 +503,3 @@ vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?encryption=none&s
 vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?path=/&security=&encryption=none&type=httpupgrade#@v2ray313 کانالمون 👻
 vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?path=/&security=none&encryption=none&type=httpupgrade#@meliproxyy
 vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?path=/&security=none&encryption=none&type=httpupgrade#@vmesskhodam
-vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?path=/&security=none&encryption=none&type=httpupgrade#🇮🇹⇝ @GpConnectSho کانکت شو! 💠

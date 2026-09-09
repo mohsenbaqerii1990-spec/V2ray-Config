@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🫚 3
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_confiig
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@configprxy 🌵
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@meliproxyy
@@ -502,4 +503,3 @@ vless://11ea3071-5dec-41a8-bef7-938abacefebe@104.17.231.69:443?path=/@Qv2raychan
 vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#[044127] - 🇹🇷 Türkiye | ⚡️ 114.61ms | @freenettir
 vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#[41168] - Telegram : @V2All
 vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#کانال ما
-vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#🇹🇷165935 | ⚡️Telegram = t.me/SOSkeyNET
