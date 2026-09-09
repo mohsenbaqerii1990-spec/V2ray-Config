@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#🇩🇪 DE
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#🇺🇳 UN
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🌐سرور 50 | @ELiV2Ray
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#@v2ray313 کانالمون 🫪
@@ -502,4 +503,3 @@ vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.181:2087?encryption=none
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.224:2087?path=/8f2690e2d016&security=none&encryption=none&type=ws#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087/?type=ws&encryption=none&flow=&path=/8f2690e2d016&packetEncoding=xudp#德国
 vless://90eacce7-8baa-49a4-be0e-eb056e0f7a01@channelhollowcon.onrender.com:443?encryption=none&security=tls&sni=channelhollowcon.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=channelhollowcon.onrender.com&path=/ws/90eacce7-8baa-49a4-be0e-eb056e0f7a01#@hollowcon
-vless://913ee679-bc44-46cf-96d7-4a80caecdc41@82.40.62.11:25418?type=tcp&encryption=none&security=reality&pbk=39JaPRRNVgIevtmeJsQhumvIVLMq11FHQoR5oseirFg&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#⚡️ KURDNET | کرد نت

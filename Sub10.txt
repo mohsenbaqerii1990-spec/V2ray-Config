@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://913ee679-bc44-46cf-96d7-4a80caecdc41@82.40.62.11:25418?type=tcp&encryption=none&security=reality&pbk=39JaPRRNVgIevtmeJsQhumvIVLMq11FHQoR5oseirFg&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#⚡️ KURDNET | کرد نت
 vless://914e1bad-ccd0-4f92-972d-3d12ccd99246@gsv1.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=cbe2503ffd040d#@appsooner کانال تلگرام 🕊️
 vless://914e1bad-ccd0-4f92-972d-3d12ccd99246@poi.mobileemdad.top:42542?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://915773aa-b54f-43b7-8206-456bb4dff914@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-27Mordad-Night
@@ -502,4 +503,3 @@ vless://a03d6aa3-6dc4-495a-88c9-301f7dcd29c7@snapp.ir:2095?encryption=none&secur
 vless://a03d6aa3-6dc4-495a-88c9-301f7dcd29c7@snapp.ir:2095?encryption=none&security=none&type=ws&headerType=none&path=/pgcfws-r4&host=mrs.hamrahconff.ir#🇮🇷IR-🚀@VPNine1
 vless://a04814d9-d006-4e7b-ae20-8ab304b3b429@151.242.17.99:8443?encryption=none&fp=&pbk=6Yskxg5U0WxPGtuCAAGH9uD57T4U8LeGrErTBNvIrwM&security=reality&sid=bc&sni=de.emvservice.com&type=grpc#🇩🇪166462 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a04814d9-d006-4e7b-ae20-8ab304b3b429@151.242.17.99:8443?encryption=none&fp=&pbk=6Yskxg5U0WxPGtuCAAGH9uD57T4U8LeGrErTBNvIrwM&security=reality&sid=bc&sni=de.emvservice.com&type=grpc#🇩🇪DE-🚀@VPNine1
-vless://a04814d9-d006-4e7b-ae20-8ab304b3b429@151.242.17.99:8443?encryption=none&fp=&pbk=6Yskxg5U0WxPGtuCAAGH9uD57T4U8LeGrErTBNvIrwM&security=reality&sid=bc&sni=de.emvservice.com&type=grpc#🎡49@oneclickvpnkeys
