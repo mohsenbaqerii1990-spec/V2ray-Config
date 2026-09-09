@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.146.211:2087?&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.175:2087?&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.30:443?encryption=none&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#کانال ما
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.30:443?encryption=none&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#🇨🇦166729 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443/?type=tcp&encryp
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.76.31.98:3443?security=reality&encryption=none&pbk=fKf7EIjZdqNxLi0XCfevI-LOtOxW_D-48Nh9N_gd0hw&host=/?BIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.aeternavpn.space&sid=a1b2c3d4#@MARAMBASHI 🇫🇷
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.76.31.98:3443?security=reality&encryption=none&pbk=fKf7EIjZdqNxLi0XCfevI-LOtOxW_D-48Nh9N_gd0hw&host=/?BIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.aeternavpn.space&sid=a1b2c3d4#@V2rayng_Fast 🇫🇷
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.76.31.98:3443?security=reality&encryption=none&pbk=fKf7EIjZdqNxLi0XCfevI-LOtOxW_D-48Nh9N_gd0hw&host=/?BIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.aeternavpn.space&sid=a1b2c3d4#@meliproxyy
-vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.76.31.98:3443?security=reality&encryption=none&pbk=fKf7EIjZdqNxLi0XCfevI-LOtOxW_D-48Nh9N_gd0hw&host=/?TELEGRAM----TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.aeternavpn.space&sid=a1b2c3d4#@tootffarangi🍓-12
