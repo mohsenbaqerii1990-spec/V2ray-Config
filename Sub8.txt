@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://58984fe1-5f01-486b-bb68-c2f8352d7a92@132.243.212.205:41503?security=reality&encryption=none&pbk=RIGmegmuEpwjJWkWnJF_woRYpLH5h8d_3uZQrcqgeRs&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=acabab18bfcf51f4#@leviconfigs🪐-21
-vless://58a98463-e6b7-47ff-b3df-4f335ee9202f@66.33.22.238:39171?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=aelE3AQ0i8osyvH_XbLUm2o7uu2uHO21gEQ3lwRZfCA&fp=chrome&spx=/30c8aee0c848567&type=xhttp&sni=a1.marugotoweb.jp&sid=c083c270ef8e095e#@B2Hub
 vless://58c14e54-6db0-46fb-a1fb-8f3184197d94@hkhl1f6.87544899.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travelinluxe.discoverhongkong.com&fp=chrome&security=reality&pbk=UXuPOHhPEL-Fd7wcNYSqEhKG-7d7LKEZr2QqTYy1rFc&sid=e7988d&packetEncoding=xudp#HK
 vless://58c14e54-6db0-46fb-a1fb-8f3184197d94@lgkr.87544899.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maps.apple.com&fp=chrome&security=reality&pbk=lQmGSphKsWB-pO-xKkjj_dE3fPAIeSHSsFqsAJvq-lA&sid=e1696a6e2520fdb1#韩国
 vless://58c14e54-6db0-46fb-a1fb-8f3184197d94@lgkr.87544899.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maps.apple.com&fp=chrome&security=reality&pbk=lQmGSphKsWB-pO-xKkjj_dE3fPAIeSHSsFqsAJvq-lA&sid=e1696a6e2520fdb1&packetEncoding=xudp#KR
@@ -503,3 +501,5 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&path=/&security=none&type=ws#✅86@oneclickvpnkeys
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=none&type=ws&path=/#🇱🇻LV_2254_@Surfboardv2ray
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?path=/&security=none&encryption=none&type=ws#@v2ray_phoenix
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?path=/&security=none&encryption=none&type=ws#Tel-@ProxyMtAlpha🎫 10
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2096?path=/&security=none&encryption=none&host=derman.neobo-tooth.ru&type=ws#@Iran_v2ray1
