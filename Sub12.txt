@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#Channel id: @ShadowProxy66 🇸🇪
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743?mode=gun&security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#@vasl_bashim
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#@ICV2RAY
 vless://b3be45af-c907-4320-9532-614c8cef5953@adambarfi.up.railway.app:443?encryption=none&security=tls&sni=adambarfi.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=adambarfi.up.railway.app&path=/adambarfi2#AdamBarfi-httpupgrade
@@ -503,3 +502,4 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&host=/?BIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#@MARAMBASHI 🇧🇷
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#@MARAMBASHI 🇳🇱
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#@V2rayng_Fast 🇳🇱
