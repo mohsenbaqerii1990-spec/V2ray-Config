@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn6.qemitra.ir:30504?path=/happy-2026-winter&security=tls&encryption=none&type=ws#@v2ray_phoenix
 vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn7.qemitra.ir:443?path=/happy-2026-winter&security=tls&encryption=none&type=ws#@v2ray_phoenix
 vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn9.qemitra.ir:443?path=/happy-2026-winter&security=tls&encryption=none&type=ws#@v2ray_phoenix
 vless://59691413-4c83-4232-8a79-ff6dc376dd53@gr.edge-cache.onevanet.ir:8876?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&sid=9262c6710896560f&type=tcp&headerType=none#@Daily_Configs : کانال
@@ -503,3 +502,4 @@ vless://7247b284-c40d-47c7-af4e-c4738f827a3d@5.75.201.137:56539?security=none&en
 vless://7247b284-c40d-47c7-af4e-c4738f827a3d@89.116.250.135:8880?path=/?ed=2082&security=none&encryption=mlkem768x25519plus.random.0rtt.iZJwXenO31gj30xJyjEnDZ_qxA-iUdzbT1zdrr8Mbmo&host=Petcup.cdn.caroptionzz.ir.cdn.tr1.k8k8110.com&type=httpupgrade#Free x203 @Outline_Vpn
 vless://7247b284-c40d-47c7-af4e-c4738f827a3d@cdn.devmixa.ir:2086?mode=auto&path=/&security=none&encryption=none&host=rubika.ir.play.google.com.www.speedtest.net.chatgpt.com.openai.com.icloud.com.as.sw.irankrmanshah.ir.cdn.en.k8k8110.com&type=xhttp#@Lent_Gc🇩🇪
 vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&security=reality&sid=c85d029f5e8eb393&sni=gateway.icloud.com&type=tcp#@V2ray_confiig
+vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&security=reality&sid=c85d029f5e8eb393&sni=gateway.icloud.com&type=tcp#📀69@oneclickvpnkeys
