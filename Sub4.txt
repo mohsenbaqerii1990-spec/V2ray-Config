@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1104fcb1-5462-4c3a-a4ed-580ba87e615e@66.33.22.238:19763?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=nKXPrMcHnQkDJ3GqXcEkL_cuFM7sNuhLNRSDJ-Esz0E&fp=chrome&spx=/352ea96991855c4&type=xhttp&sni=japantimes.co.jp&sid=0554c48eb11771#@V2ray_confiig
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.205.0.116:2096?security=tls&sni=GeR3.SimAnSaNat.iR.&type=ws&host=GeR3.SimAnSaNat.iR.&fp=chrome&alpn=h2,http/1.1#kurdconfig
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@91.107.166.41:1234?security=reality&sni=www.icloud.com&type=tcp&fp=chrome&pbk=L2b7MW4F9bT8ALwebQtCbXGTaH5sl9o97BxmynrlxHo&sid=8f90c18dc7b2652b#kurdconfig
 vless://11855461-c611-44f4-8f1d-53ff6fc667fd@panel.berzulo.ir:8443?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@v2ray_phoenix
 vless://11855461-c611-44f4-8f1d-53ff6fc667fd@panel.berzulo.ir:8443?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇹🇷166274 | ⚡️Telegram = t.me/SOSkeyNET
 vless://11855461-c611-44f4-8f1d-53ff6fc667fd@panel.berzulo.ir:8443?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇹🇷TR-🚀@VPNine1
@@ -500,6 +503,3 @@ vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@193.160.71.247:443?security=reality
 vless://25322a43-4ef3-45cc-9e96-db44bcccd7be@172.67.190.141:8880?path=/pyip&security=none&encryption=none&host=purple-disk-f68d.14-360.workers.dev&type=ws#Tel-@ProxyMtAlpha🎫 4
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@144.225.65.111:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#@confiig_hub
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?encryption=none&type=tcp&headerType=none&host=/?BIA--TELEGRAM--MARAMBASHI--MARAMBASHI&security=reality&fp=chrome&sni=play.google.com&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&sid=c87bfa39a28a95b9#@V2RAYNG_IP 🇫🇷
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?security=reality&encryption=none&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c87bfa39a28a95b9#@Nexus_Panell چنل تلگرام
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?security=reality&encryption=none&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c87bfa39a28a95b9#@confiig_hub
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?security=reality&encryption=none&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c87bfa39a28a95b9#Telegram:@v2rayng3
