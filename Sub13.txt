@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d318cdac-0033-4b6e-98bf-35116e79c93f@54.251.224.5:26017?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cy4ePzAdSz4pqRmAXXchMIgSoSKo8qjq2qLk5805LRA&security=reality&sid=af1c2e33b0c7dad7&sni=www.amd.com&type=tcp#🎡89@oneclickvpnkeys
 vless://d31aefb3-775b-4e87-a093-a4677addf10a@144.31.140.127:443?security=reality&encryption=none&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c010293d0bafac#@Bisto4_Service
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:2096?security=tls&sni=aryoovpn.commen-esoteric-0q.workers.dev&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:2096?security=tls&sni=aryoovpn.commen-esoteric-0q.workers.dev&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#[41761] - Telegram : @V2All
@@ -503,3 +502,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22222?security=none&enc
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22222?security=none&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-12
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22223?security=none&encryption=none&headerType=none&type=tcp#@leviconfigs🪐-13
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22223?security=none&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-13
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22223?security=none&encryption=none&headerType=none&type=tcp#🇮🇹⇝ @GpConnectSho کانکت شو! 💠

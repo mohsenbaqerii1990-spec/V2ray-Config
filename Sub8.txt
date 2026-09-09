@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t04.tzteam.online&path=/?ed=2048&security=tls&sni=t04.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://5bd820f0-69cb-4d6a-b42d-c0dfe2edffcd@5.152.223.192:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#@appsooner کانال تلگرام 🕊️
 vless://5bd820f0-69cb-4d6a-b42d-c0dfe2edffcd@5.152.223.192:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#@v2ray313 کانالمون 😪
 vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -503,3 +502,4 @@ vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.151.21:2087?host=faxf32gkfzo
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.151.21:2087?host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/fp=chrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#کانال ما
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.151.21:2087?host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/fp=chrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#🇨🇦166726 | ⚡️Telegram = t.me/SOSkeyNET
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.98:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.202:8443?encryption=none&type=ws&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#[41777] - Telegram : @V2All
