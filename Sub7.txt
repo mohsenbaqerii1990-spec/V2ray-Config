@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.100:443?security=reality&encryption=none&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=17d334ad29b2ff40#Tel-@ProxyMtAlpha🚙 10
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#@tanhanet
+vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@193.142.59.97:10829?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=u643766ueb8953b4s861.gogocs.xyz&type=tcp#@v2mystery 👈 عضو شو
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@193.142.59.97:10829?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=u643766ueb8953b4s861.gogocs.xyz&type=tcp#📀17@oneclickvpnkeys
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@92.112.124.174:59424?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=u643766u7f29d405s220.gogocs.xyz&type=tcp#@v2mystery 👈 عضو شو
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@92.112.124.174:59424?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=u643766u7f29d405s220.gogocs.xyz&type=tcp#📀27@oneclickvpnkeys
@@ -500,6 +503,3 @@ vless://59273321-5dd9-b462-688d-3050f9ef3261@45.12.31.120:2096?path=/sync&securi
 vless://59273321-5dd9-b462-688d-3050f9ef3261@45.12.31.120:2096?path=/sync&security=tls&encryption=none&insecure=0&host=ez-f9d60b.ezaccess118dacd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-f9d60b.ezaccess118dacd.workers.dev#@meliproxyy
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.16.203.166:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
-vless://592bb1a1-cd28-75a0-6d23-80291339f77e@prisonvpnc-production-2f95.up.railway.app:443?encryption=none&security=tls&type=ws&host=prisonvpnc-production-2f95.up.railway.app&path=/ws/592bb1a1-cd28-75a0-6d23-80291339f77e&sni=prisonvpnc-production-2f95.up.railway.app&fp=chrome&alpn=http/1.1#RVG-@PRISONVPNc
-vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn6.qemitra.ir:30501?path=/happy-2026-winter&security=tls&encryption=none&type=ws#@v2ray_phoenix
-vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn6.qemitra.ir:30504?path=/happy-2026-winter&security=tls&encryption=none&type=ws#@v2ray_phoenix

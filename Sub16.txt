@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vmess://eyJwb3J0IjoiMzM3MzYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcy13cyIsInBzIjoiJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUFFJTIwJTQwVjJSQVlOR19JUCIsImFkZCI6Ijc4LjE3LjcxLjIzNiIsImhvc3QiOiJUZWxlZ3JhbS1MZXZpa29fdjJyYXkiLCJpZCI6ImIzYTExMDY4LTFhN2UtNDY0My04NWRlLTdjODJjY2U0Njk0MyJ9
+vmess://eyJzY3kiOiJhdXRvIiwicHMiOiIlRjAlOUYlODclQUIlRjAlOUYlODclQjclMjAlNDBWMlJBWU5HX0lQIiwicG9ydCI6IjExMCIsIm5ldCI6InRjcCIsImhvc3QiOiJUZWxlZ3JhbS1MZXZpa29fdjJyYXkiLCJhZGQiOiI5NC4xNTYuMTcwLjEwMiIsImlkIjoiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiIn0=
+vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&host=129.146.77.248&path=/cctv13.m3u8&security=none&type=ws#📀97@oneclickvpnkeys
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@149.88.23.207:18000?encryption=auto&security=none&type=tcp#@V2ray_confiig
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@149.88.23.207:18000?encryption=auto&security=none&type=tcp#📀75@oneclickvpnkeys
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=auto&security=none&type=tcp#📀83@oneclickvpnkeys
@@ -500,6 +503,3 @@ vmess://ewogICAgImFkZCI6ICIxMjAuMjQwLjU1LjEzNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0157
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.91.107.72:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.72-0027
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%A8%F0%9F%87%B3CN-121.46.230.138-0159
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%A8%F0%9F%87%B3CN-121.46.230.137-0160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#%F0%9F%87%BA%F0%9F%87%B8US-216.105.168.18-0161
-ss://YWVzLTI1Ni1nY206YWJjZDEyMzQ=@103.135.251.200:6800#%F0%9F%87%AD%F0%9F%87%B0HK-103.135.251.200-0024

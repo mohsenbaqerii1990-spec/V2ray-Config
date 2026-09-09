@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_confiig
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@configprxy 🌵
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@meliproxyy
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@v2ray313 کانالمون  🌵
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Tel-@ProxyMtAlpha🥈 6
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Tel-@ProxyMtAlpha🥚 5
@@ -500,6 +503,3 @@ vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none
 vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#[41168] - Telegram : @V2All
 vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#کانال ما
 vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#🇹🇷165935 | ⚡️Telegram = t.me/SOSkeyNET
-vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#🇹🇷TR-🚀@VPNine1
-vless://1205caca-020f-4b79-a002-e344cc81fb2c@plt.starferi.ir:8460?security=none&encryption=none&headerType=none&type=tcp#حجم ۲۵۰ گیگ
-vless://120ac4b3-4bfe-4081-b552-0754af32136e@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=Swedenman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#Proxy_mtm-42
