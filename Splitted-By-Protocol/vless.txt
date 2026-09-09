@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://4ce7fa65-37ee-48ef-b7a3-902caf592e81@193.148.253.186:49188?security=none&encryption=none&headerType=none&type=tcp#%40v2rayNG_Matsuri
+vless://e2f46341-0eea-4c34-9175-312db4d0cc57@89.124.251.218:20110?security=none&encryption=none&headerType=none&type=tcp#%40v2rayNG_Matsuri
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.58:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&security=reality&sni=soulful.host&type=tcp#%E2%9C%8581@oneclickvpnkeys
 vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@nl-xh02.tcp-reset-club.net:8443?encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&fp=&mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&security=reality&sid=e0&sni=s3.netavex.com&type=xhttp#%E2%9C%8564@oneclickvpnkeys
 vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#%40v2raybaaz
