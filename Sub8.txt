@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://602ba9cb-2071-4559-a0b6-47b6e7b56272@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=Swedenman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#VEGAAS_VPNMTN3
 vless://602ba9cb-2071-4559-a0b6-47b6e7b56272@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=polandb.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@VEGAAS_VPNMCI2
 vless://602ba9cb-2071-4559-a0b6-47b6e7b56272@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=ukboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@VEGAAS_VPNMCI1
 vless://602ba9cb-2071-4559-a0b6-47b6e7b56272@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=ukboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Telegram @mtmvpn
@@ -502,4 +503,3 @@ vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@yt.orpheous.ru:443?security=reality
 vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@yt.orpheous.ru:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=9e4eced6e98ed4d4#@leviconfigs🪐-13
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#🎡9@oneclickvpnkeys
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🎡25@oneclickvpnkeys

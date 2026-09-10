@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇩🇪]t.me/ConfigV2RayNG
 trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#vpnsal
 trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hex_proxy ⁸
 trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Channel id: @ConfigV2RayNG 🇩🇪
@@ -502,4 +503,3 @@ vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?encryption=none&
 vless://0f69298d-8e34-469c-843c-4202173752e6@free727722.th3store.ir:2053?security=&encryption=mlkem768x25519plus.native.0rtt.yCDMH5gOVxAZmoczoX4qOtQaoePT2YrxK0_Hte0G7Ew&host=play.google.com&headerType=http&type=tcp#👸@VEGAAS_VPN
 vless://0f69298d-8e34-469c-843c-4202173752e6@free727722.th3store.ir:2053?security=none&encryption=mlkem768x25519plus.native.0rtt.yCDMH5gOVxAZmoczoX4qOtQaoePT2YrxK0_Hte0G7Ew&host=play.google.com&headerType=http&type=tcp#@VEGAAS_VPN🇳🇱
 vless://0f69298d-8e34-469c-843c-4202173752e6@free727722.th3store.ir:2053?security=none&encryption=mlkem768x25519plus.native.0rtt.yCDMH5gOVxAZmoczoX4qOtQaoePT2YrxK0_Hte0G7Ew&host=play.google.com&headerType=http&type=tcp#@v2ray_phoenix
-vless://0f856f56-822f-49f6-b059-1dfb17466755@78.141.219.108:4083?security=none&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-14
