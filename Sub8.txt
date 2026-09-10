@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#MTMVPN
 vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#Proxy_mtm 🌟
 vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#Telegram @mtmvpn 9
@@ -503,3 +502,4 @@ vless://7b682205-0633-a497-df55-9504e7f91d58@69.46.46.109:443?mode=stream-up&pat
 vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#TEL;Father_vpn
 vless://7bafeb9d-06ba-4c43-94f5-b8666354d1c6@78.17.187.134:2027?path=/patch&security=reality&encryption=none&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&fp=chrome&type=xhttp&sni=fn.skysafe.online&sid=6ba7b8109dad11d1#@ICV2RAY
 vless://7bafeb9d-06ba-4c43-94f5-b8666354d1c6@80.96.112.163:443?encryption=none&security=reality&sni=rom.skysafe.online&fp=chrome&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&allowinsecure=0&type=xhttp&mode=auto&path=/patch#vpnsal
+vless://7bafeb9d-06ba-4c43-94f5-b8666354d1c6@80.96.112.163:443?encryption=none&security=reality&sni=rom.skysafe.online&fp=chrome&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&allowinsecure=0&type=xhttp&mode=auto&path=/patch#🇩🇪All¹² | @BigSmoke_Config

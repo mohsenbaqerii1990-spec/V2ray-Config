@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 | 7
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@hex_proxy ³
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@hex_proxy ⁷
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 | 3
@@ -503,3 +502,4 @@ vless://60c23b42-898e-4a51-b63c-2716b84726c8@5.75.207.73:29524?path=/&security=n
 vless://60c23b42-898e-4a51-b63c-2716b84726c8@5.75.207.73:29524?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.mAwHzKOkD-IZDsIGPPQCfctKpUgPcx2K_zEIzGEkxlE&type=ws#✅ t.me/bigAVPN ایران آزاد 👑
 vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?security=none&encryption=none&type=ws&host=y670.0h0.ccwu.cc&path=/gPvZ4oCcNDyuc3szX7xhuvpEm&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dhlparcel.nl&fp=chrome&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&sid=3dad96f8693ea653&type=tcp&headerType=none&host=/?TELEGRAM--TOOTFFARANGI#🇳🇱NL_2002_@Surfboardv2ray
+vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
