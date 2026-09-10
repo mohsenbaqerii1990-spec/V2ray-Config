@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4188_@Surfboardv2ray
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4213_@Surfboardv2ray
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4365_@Surfboardv2ray
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=chat.deepseek.com#🇩🇪 V2raySaman
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4367_@Surfboardv2ray
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083?mode=gun&security=none&encryption=none&authority=Telegram-Leviko_v2ray&type=grpc&serviceName=chat.deepseek.com#🇫🇮 V2raySaman
@@ -500,6 +503,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#%3E%3E%40V2rayNG3%3A%
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%3E%3E%40V2rayNG3%3A%3AJP
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#%3E%3E%40shadowproxy66%3A%3AKR
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%3E%3E%40shadowproxy66%3A%3AXX
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%3E%3E%40freeland8%3A%3AUS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%3E%3E%40freeland8%3A%3AUS
