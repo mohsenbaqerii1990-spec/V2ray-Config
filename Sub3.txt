@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@vmesskhodam
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@vpnbaz ☂️
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel : @Daily_Configs
@@ -503,3 +502,4 @@ vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048-MTM
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048-MTMVPN&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#TELEGRAM @mtmvpn-2
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#Telegram @mtmvpn 14
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#Telegram @mtmvpn 5
+vless://0f19432c-f64f-4312-bc70-8e58128cd258@neo.cutizeh.ir:8443?encryption=none&security=tls&sni=neo.cutizeh.ir&alpn=h2, http/1.1&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/blubank&extra={"xPaddingBytes":"100-1000"}#🇩🇪All⁴ | @BigSmoke_Config
