@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.152.249:22223?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&encryption=none&headerType=none&type=tcp#[ 🇫🇷 ] | @Cfox_SerVer
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.152.249:22223?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&encryption=none&type=tcp#[ 🇫🇷 ] | @Cfox_SerVer
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.152.249:22223?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.152.249:22224?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&encryption=none&headerType=none&type=tcp#[ 🇫🇷 ] | @Cfox_SerVer
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.152.249:22224?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
@@ -503,3 +501,5 @@ vless://fbf82f6d-c2fb-4ecf-84f0-39ac63b0dcae@play-g2.team-pluss.ir:2087?security
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#🇸🇪139845 | ⚡️Telegram = t.me/SOSkeyNET
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#🇧🇬139856 | ⚡️Telegram = t.me/SOSkeyNET
 vless://fc1ee51e-72ec-4af0-ab0f-540c9e22427b@31.76.79.118:2444?security=reality&encryption=none&pbk=JsSTmS0VKNaHF-_QKYS-_utnS-LJuPOBrWcMbVE2RDA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0809f782a29a2030#bisto4_service
+vless://fc1ee51e-72ec-4af0-ab0f-540c9e22427b@31.76.79.118:2444?security=reality&encryption=none&pbk=JsSTmS0VKNaHF-_QKYS-_utnS-LJuPOBrWcMbVE2RDA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0809f782a29a2030#AZARBAYJAB1🇳🇱
+vless://fc2f170a-5825-4c0e-9719-0ba4a99aa25a@199.232.78.159:443?path=/&security=tls&encryption=none&host=Swedenman.global.ssl.fastly.net.&type=ws&sni=ssl.fastly.com#@appsooner کانال تلگرام 🕊️
