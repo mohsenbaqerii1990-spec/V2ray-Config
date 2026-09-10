@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#@meliproxyy
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#@meliproxyy
 vless://4548e107-e274-48cd-894b-5168767e67be@207.241.172.254:4777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&sid=01115788253bc845&type=tcp&headerType=none#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
 vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.202.115:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=g2.steptofsvo.com&sid=6d6f13013d3e1d0c#Free x128 @Outline_Vpn
@@ -503,3 +502,4 @@ vless://5f829d2f-2f13-450c-81ac-e9832b8e47ec@144.31.1.201:8090?mode=gun&security
 vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?encryption=none&path=/fd5ba98a3970&security=none&type=ws#📀8@oneclickvpnkeys
 vless://5ff561f7-e1f1-4280-84bf-ac640b4d10d1@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@tootffarangi🍓-4
 vless://5ff8e256-cb7e-41fc-8ed2-14a46fd46e4e@djdjsj-production.up.railway.app:443?path=/ws/vless/5ff8e256-cb7e-41fc-8ed2-14a46fd46e4e?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=djdjsj-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=djdjsj-production.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://602ba9cb-2071-4559-a0b6-47b6e7b56272@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=Swedenman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#VEGAAS_VPNMTN3
