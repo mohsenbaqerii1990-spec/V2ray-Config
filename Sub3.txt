@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🫚 3
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_confiig
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@configprxy 🌵
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@fastkanfig
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@meliproxyy
@@ -501,5 +503,3 @@ vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&secur
 vless://1046683b-e4c6-4b5d-a32f-b19a56eade15@49.12.45.2:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&security=reality&encryption=none&pbk=I_9XlI6n-7ZTND49cztVVeQMPjstFEY6IzwhxOj8HH8&headerType=none&fp=chrome&spx=/GLPM2Sdn97K26fx&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=5f23c3d33634905e#[ 🇩🇪 ] | @Cfox_SerVer
 vless://1046683b-e4c6-4b5d-a32f-b19a56eade15@49.12.45.2:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=I_9XlI6n-7ZTND49cztVVeQMPjstFEY6IzwhxOj8HH8&sid=5f23c3d33634905e&spx=/HesarWeb#filembad-55
 vless://1046683b-e4c6-4b5d-a32f-b19a56eade15@49.12.45.2:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=I_9XlI6n-7ZTND49cztVVeQMPjstFEY6IzwhxOj8HH8&sid=5f23c3d33634905e&spx=/HesarWeb#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
-vless://1046683b-e4c6-4b5d-a32f-b19a56eade15@49.12.45.2:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=I_9XlI6n-7ZTND49cztVVeQMPjstFEY6IzwhxOj8HH8&sid=5f23c3d33634905e&spx=/GLPM2Sdn97K26fx&flow=xtls-rprx-vision#@meliproxyy
-vless://1046683b-e4c6-4b5d-a32f-b19a56eade15@49.12.45.2:443?security=reality&encryption=none&pbk=I_9XlI6n-7ZTND49cztVVeQMPjstFEY6IzwhxOj8HH8&headerType=none&fp=chrome&spx=/GLPM2Sdn97K26fx&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=5f23c3d33634905e#@V2ray_Alpha🫖 4

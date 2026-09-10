@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://XpnTeam-64@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-64@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-66@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#vpnsal
 vless://XpnTeam-66@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://XpnTeam-66@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@B2Hub
@@ -501,5 +503,3 @@ vless://b617bcf5-94be-4e33-840f-539738a1f4ae@104.16.22.21:2053?type=ws&encryptio
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?encryption=none&security=none&type=tcp&headerType=none#@configprxy
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All³ | BigSmoke_Config
 vless://b6621c85-2b69-42e0-8067-8823659bdcb5@darsadgir.ir:443?encryption=none&extra={"xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish"}&host=map.imisstheoldye.com&mode=auto&path=/GoOgLe&security=tls&sni=map.imisstheoldye.com&type=xhttp#🎡78@oneclickvpnkeys
-vless://b6621c85-2b69-42e0-8067-8823659bdcb5@darsadgir.ir:443?mode=auto&path=/GoOgLe&security=tls&encryption=none&extra={"xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish"}&insecure=0&host=map.imisstheoldye.com&type=xhttp&allowInsecure=0&sni=map.imisstheoldye.com#@tootffarangi🍓-7
-vless://b6621c85-2b69-42e0-8067-8823659bdcb5@darsadgir.ir:443?mode=auto&path=/GoOgLe&security=tls&encryption=none&extra={"xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish"}&insecure=0&host=map.imisstheoldye.com&type=xhttp&allowInsecure=0&sni=map.imisstheoldye.com#[🇨🇦]t.me/ConfigV2RayNG
