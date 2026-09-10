@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://95e8532b-cc69-42d4-9553-e3c23292b15b@85.192.56.3:443?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://96172b09-2ec8-418d-a539-7e9fb118caf8@91.228.227.172:443?encryption=none&security=none&type=tcp&headerType=none#🇹🇷 TR
 vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#Telegram:@v2rayng3
 vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#TEL;Father_vpn
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦 @GozargahVPN
@@ -503,3 +501,5 @@ vless://a5194487-9b9a-462f-a047-ac7580d80201@167.104.104.138:8443?encryption=non
 vless://a5710b23-aab9-4271-91d1-bc8033c09fdb@soskeynets.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪139826 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a5710b23-aab9-4271-91d1-bc8033c09fdb@soskeynets.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮139872 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a580f6bf-abf2-4732-86e9-42d48ce78b2d@tr1p.soundfiy.ir:1824?security=reality&encryption=none&pbk=JIv_D-Lpo1cosiCUgu-qzGSJwOCGciyXSZ8ucNn6aBo&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=8390ee7a5996648b#@appsooner کانال تلگرام 🕊️
+vless://a5b1d1ec-327c-f1c5-5856-b34600000000@172.64.80.1:443?path=/sync&security=tls&encryption=none&insecure=0&host=ez-541f9d.ezaccess1d3db24.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-541f9d.ezaccess1d3db24.workers.dev#🇩🇪 | 2
+vless://a5bb1af5-5e92-2403-9024-f49335990970@max.tanvexor.ir:443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=fWMKEV9hR-_beCPExZqE9VSRIihgX08UHeS_Iw1D20o&sid=bc553653&spx=/&allowinsecure=0&type=tcp&headerType=none#🇩🇪All¹³ | @BigSmoke_Config

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c2ab29fc-1f53-4505-96a9-e3f3888dd0ac@tus1.milkabebar.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=www.vercel.com&sid=c077229044b68285#✈️ @FreeConfigForYou
-vless://c2ab29fc-1f53-4505-96a9-e3f3888dd0ac@usas1.milkabebar.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=www.vercel.com&sid=1bfe954cb07fb70a#@v2ray313 کانالمون 😀
 vless://c2ab29fc-1f53-4505-96a9-e3f3888dd0ac@usas1.milkabebar.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=www.vercel.com&sid=1bfe954cb07fb70a#✈️ @FreeConfigForYou
 vless://c2b0f077-5ef5-462f-b70c-cefb718b1155@165.245.241.161:440?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#@ehsawn8-نامحدود
 vless://c2c94230-7075-4558-89f4-ddf74d7de107@45.76.87.125:14750/?type=ws&encryption=none&flow=&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=/@Marisa_kristi&security=tls&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome#@networld_vpn
@@ -503,3 +501,5 @@ vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality
 vless://d7e1be1d-967b-4f43-9014-ab68c414da72@185.204.170.125:333?security=none&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-14
 vless://d7e34f7f-0545-5a18-6901-0603cfde8614@69.46.46.103:443?path=/ws/d7e34f7f-0545-5a18-6901-0603cfde8614&security=tls&alpn=http/1.1&encryption=none&host=kar-production-4a48-hfgd.up.railway.app&fp=chrome&type=ws&sni=kar-production-4a48-hfgd.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@178.72.167.151:443?mode=auto&path=/eCuiEa7kedJ1UIGB3Gbgdt3XeUd&security=reality&alpn=h2&encryption=none&pbk=54p7hD_YYV5f2ATL7rTBk4NG_KhStO76-1_tSKmXah8&host=2gis.ru&fp=chrome&type=xhttp&sni=2gis.ru&sid=d45603#Proxy_mtm-38
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@178.72.167.151:443?mode=auto&path=/eCuiEa7kedJ1UIGB3Gbgdt3XeUd&security=reality&encryption=none&pbk=54p7hD_YYV5f2ATL7rTBk4NG_KhStO76-1_tSKmXah8&host=2gis.ru&fp=chrome&type=xhttp&sni=2gis.ru&sid=d45603#@hopev2ray💛
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@178.72.167.151:443?mode=auto&path=/eCuiEa7kedJ1UIGB3Gbgdt3XeUd&security=reality&encryption=none&pbk=54p7hD_YYV5f2ATL7rTBk4NG_KhStO76-1_tSKmXah8&host=2gis.ru&fp=chrome&type=xhttp&sni=2gis.ru&sid=d45603#‎@v2ray313 کانالمون 😤
