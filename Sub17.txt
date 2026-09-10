@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.141.5:3306#%F0%9F%87%BA%F0%9F%87%B8US-169.197.141.5-0227
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.236:802#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.236-0230
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.207:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-0232
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.213:7307#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.213-0233
