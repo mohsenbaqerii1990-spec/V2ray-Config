@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#Free%20x241%20%40Outline_Vpn
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#%40v2raybaaz%20%C2%B2
 ss://07042893-9818-4eff-89c3-d13339c45faa@188.114.98.112:80?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#[047359] - 🇨🇦 Canada | @freenettir
 ss://2022-blake3-aes-256-gcm:KYFtNXJrl3Jei35nSh9hMDqzlRdOjd6NlrtV6wyOVsw=:YBLEjXrK2Rh6XigucXQ4aqV/m70sjyErBcbtt1SFFds=@77.90.61.217:56670?type=tcp#Telegram-@vpnon4u
 ss://23240094-d544-6d31-94d5-2416b8ef9dc2@2.clubban.ir:2087?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=2.vizitur.ir#[047360] - 🌍 Unknown | @freenettir
