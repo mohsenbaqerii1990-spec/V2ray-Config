@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bb3bb4d7-be67-42c0-fbe3-4895387e4f74@104.16.61.8:2083?security=tls&sni=mhsngrty1.iraniancpi.uk&type=ws&host=mhsngrty1.iraniancpi.uk&path=/ws&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-vless://bb3bb4d7-be67-42c0-fbe3-4895387e4f74@104.16.61.8:2083?security=tls&sni=mhsngrty1.iraniancpi.uk&type=ws&host=mhsngrty1.iraniancpi.uk&path=/ws&alpn=http/1.1#🇨🇦168359 | ⚡️Telegram = t.me/SOSkeyNET
 vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.64.105:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#@Tanhanet
 vless://bb5c8872-3e39-41b0-98d6-fdf7b183c51f@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray
 vless://bb5c8872-3e39-41b0-98d6-fdf7b183c51f@152.89.253.143:2829?security=none&encryption=none&host=Microsoft.com&headerType=http&type=tcp#@v2ray313 کانالمون 😀
@@ -503,3 +501,5 @@ vless://cfa14880-381f-4524-bb41-02c96a7e8832@172.67.143.52:80?security=none&type
 vless://cfa14880-381f-4524-bb41-02c96a7e8832@172.67.143.52:80?security=none&type=ws&host=freedom1.hamrahmarzban.com#کانال ما
 vless://cfa14880-381f-4524-bb41-02c96a7e8832@172.67.143.52:80?security=none&type=ws&host=freedom1.hamrahmarzban.com#🇨🇦168448 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cfa14880-381f-4524-bb41-02c96a7e8832@172.67.143.52:80?security=none&type=ws&host=freedom1.hamrahmarzban.com#🚀@VPNine1
+vless://cfb6d9ad-7a14-4061-b159-8902fd73bb58@www.Speedtest.Net:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
+vless://cfe58967-e48a-499f-bbb1-db38bcaa173f@199.232.34.79:443?mode=auto&pcs=7910C7C866F38FFC5FE0904282D75EB8637EB6198B12E9EB68416830A7954BFF&path=/assets&security=tls&encryption=none&insecure=0&host=squeeze-turbojet-statistic-crescent-excavate-lens.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=speedtest.net#🇩🇪@FreakConfig
