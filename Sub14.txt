@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22222?encryption=none&security=none&type=tcp#🇫🇷139799 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22223?encryption=none&security=none&type=tcp#🇫🇷139800 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22224?encryption=none&security=none&type=tcp#🇫🇷139801 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.178.34:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.178.34:22222?encryption=none&security=none&type=tcp#V2ray_confiig
@@ -501,5 +503,3 @@ vless://fa80d79a-0410-4e1c-8bc1-1f855e794860@vnet.korluma.ir:2087?encryption=non
 vless://fa80d79a-0410-4e1c-8bc1-1f855e794860@vnet.korluma.ir:2087?encryption=none&security=reality&sni=play.google.com&pbk=-TYsz4fk-n5bQw9DW0fPxhXiwnXFq61rSFkSpjcLrVY&sid=313bef465a6de318&type=tcp&headerType=none#@proxy_kafee
 vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&sid=7af95330630a7327&type=tcp&headerType=none#🇫🇷 FR
 vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?security=reality&encryption=none&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=7af95330630a7327#@v2ray313 کانالمون ☹️
-vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?security=reality&encryption=none&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=7af95330630a7327#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
-vless://fae272a6-a184-4c91-83ed-771abdcff404@mn2.levikogjgfdd.ir:2053?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&sid=7af95330630a7327&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#🇫🇷 FR
