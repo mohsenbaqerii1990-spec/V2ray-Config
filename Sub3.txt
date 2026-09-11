@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@B2Hub
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@ConfigV2RayNG 💚🤍♥️
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@FarazV2ray
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@IRAN_V2RAY1 🌟
@@ -503,3 +502,4 @@ vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?TELEGRAM?ed
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?TELEGRAM?ed=512&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#Proxy_mtm 🌙
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@V2ray_confiig
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#Proxy_mtm 🌸

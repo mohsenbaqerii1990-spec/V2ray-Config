@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fae272a6-a184-4c91-83ed-771abdcff404@mn2.levikogjgfdd.ir:2053?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&sid=7af95330630a7327&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#🇫🇷 FR
 vless://fb2b019f-5b38-4623-9692-7b9c2f4a0417@69.46.46.97:443?path=/vl-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-c2858.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-c2858.up.railway.app#Tel:@Soliconf
 vless://fb2fbf7a-17a0-4ef9-b0ec-1e35b0707eb6@104.21.51.132:8080?path=/play&security=&encryption=mlkem768x25519plus.native.0rtt.NxUupdiNQtkbNwVt0xD5FhzqzI-SSyB3tlg5Km59onY&host=de-jkas.th3store.ir&type=httpupgrade#@v2ray313 کانالمون ❤️
 vless://fb9b7935-e1d8-4342-b26c-d71c439fa29d@185.110.189.172:443?encryption=mlkem768x25519plus.native.0rtt.-0MXXOstBc09cB1tSeGN1pwYBzVEiVW__njsxK2hd14&security=none&type=tcp#@Capoit
@@ -503,3 +502,4 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?encrypti
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.230:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#%3E%3E%40v2nodes%3A%3AUS
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@8.6.112.6:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@www.shopify.com:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fx3h2kf8xn.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fx3h2kf8xn.fx6hsv0.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

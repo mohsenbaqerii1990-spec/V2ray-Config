@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?security=none&encryption=none&host==Telegram : @V2rayNG_SPDNet - Telegram : @V2rayNG_SPDNet - Telegram : @V2rayNG_SPDNet -Telegram : @V2rayNG_SPDNet - Telegram : @V2rayNG_SPDNet - Telegram : @V2rayNG_SPDNet&headerType=none&type=tcp#🇹🇷 Join+Telegram: @V2rayNG_SPDNet
 vless://5d70ee97-dedd-2481-6ca9-5ada295e29a3@69.46.46.105:443?path=/ws/5d70ee97-dedd-2481-6ca9-5ada295e29a3&security=tls&alpn=http/1.1&encryption=none&host=velvet-otter-433a-production.up.railway.app&fp=chrome&type=ws&sni=velvet-otter-433a-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://5d8cf280-e0f4-4539-b35c-7ff90659c0d0@72.56.75.54:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app2.jarvesitw.ru&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&sid=c481d750&allowinsecure=0&type=tcp&headerType=none#@configprxy
 vless://5d8cf280-e0f4-4539-b35c-7ff90659c0d0@72.56.75.54:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app2.jarvesitw.ru&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&sid=c481d750&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁵ | BigSmoke_Config
@@ -503,3 +502,4 @@ vless://76a36564-7eae-455b-ad80-c5a24536b3d5@199.232.78.159:443?path=/&security=
 vless://76a36564-7eae-455b-ad80-c5a24536b3d5@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@FarazV2ray
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=/?BIA_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#@leviconfigs🪐-24
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=/?BIA_TELEGRAM@leviconfigs_leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#@leviconfigs🪐-1
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=/?TELEGRAM-Cnetvpn?ed=512&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#Telegram 🆔@cnetvpn
