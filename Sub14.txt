@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.178.34:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.178.34:22222?encryption=none&security=none&type=tcp#V2ray_confiig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.178.34:22222?security=none&encryption=none&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 🇸🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.178.34:22222?security=none&encryption=none&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp#@V2rayng_Fast 🇸🇪
@@ -503,3 +502,4 @@ vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?security=reality&
 vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?security=reality&encryption=none&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=7af95330630a7327#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://fae272a6-a184-4c91-83ed-771abdcff404@mn2.levikogjgfdd.ir:2053?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&sid=7af95330630a7327&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#🇫🇷 FR
 vless://fb2b019f-5b38-4623-9692-7b9c2f4a0417@69.46.46.97:443?path=/vl-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-c2858.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-c2858.up.railway.app#Tel:@Soliconf
+vless://fb2fbf7a-17a0-4ef9-b0ec-1e35b0707eb6@104.21.51.132:8080?path=/play&security=&encryption=mlkem768x25519plus.native.0rtt.NxUupdiNQtkbNwVt0xD5FhzqzI-SSyB3tlg5Km59onY&host=de-jkas.th3store.ir&type=httpupgrade#@v2ray313 کانالمون ❤️
