@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@ww6.levikogjgfdd.ir:443?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@v2ray313 کانالمون 😥
-vless://cfa14880-381f-4524-bb41-02c96a7e8832@172.67.143.52:80?security=none&type=ws&host=freedom1.hamrahmarzban.com#@Hope_Net-join-us-on-Telegram
-vless://cfa14880-381f-4524-bb41-02c96a7e8832@172.67.143.52:80?security=none&type=ws&host=freedom1.hamrahmarzban.com#کانال ما
 vless://cfa14880-381f-4524-bb41-02c96a7e8832@172.67.143.52:80?security=none&type=ws&host=freedom1.hamrahmarzban.com#🇨🇦168448 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cfa14880-381f-4524-bb41-02c96a7e8832@172.67.143.52:80?security=none&type=ws&host=freedom1.hamrahmarzban.com#🚀@VPNine1
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb58@www.Speedtest.Net:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
@@ -503,3 +500,6 @@ vless://e149f4db-ef8d-414b-9b5b-8757df2642ad@s1b.syslogd.ir:443?path=/pa-m-v2&se
 vless://e149f4db-ef8d-414b-9b5b-8757df2642ad@s1b.syslogd.ir:443?path=/pa-m-v2&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=prx.zirabserver.ir&fp=chrome&type=ws&allowInsecure=0&sni=f4d5c2729dd475d0.zirabserver.ir#🇨🇦168453 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e149f4db-ef8d-414b-9b5b-8757df2642ad@s1b.syslogd.ir:443?path=/pa-m-v2&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=prx.zirabserver.ir&fp=chrome&type=ws&allowInsecure=0&sni=f4d5c2729dd475d0.zirabserver.ir#🚀@VPNine1
 vless://e14abf99-8718-ca16-ce8a-4fe7d9ea50d5@69.46.46.31:443?path=/ws/e14abf99-8718-ca16-ce8a-4fe7d9ea50d5&security=tls&alpn=http/1.1&encryption=none&host=hidden-glacier-c2dd-production.up.railway.app&fp=chrome&type=ws&sni=hidden-glacier-c2dd-production.up.railway.app#1 🇳🇱 @V2ngNet
+vless://e1dde74e-3439-ac43-2007-0fa078a4756a@69.46.46.101:443?path=/ws/e1dde74e-3439-ac43-2007-0fa078a4756a&security=tls&alpn=http/1.1&encryption=none&host=willow-heron-f3a9-production.up.railway.app&fp=chrome&type=ws&sni=willow-heron-f3a9-production.up.railway.app#All Operators @MaSTeRSeRVeR1
+vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#🔵@chillguy_vpn
+vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&sid=99115a&type=tcp&headerType=none#@V2ray_confiig
