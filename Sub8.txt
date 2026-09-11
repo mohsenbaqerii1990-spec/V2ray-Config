@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn7.qemitra.ir:443?path=/happy-2026-winter&security=tls&encryption=none&type=ws#@v2ray_phoenix
-vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn9.qemitra.ir:443?path=/happy-2026-winter&security=tls&encryption=none&type=ws#@v2ray_phoenix
 vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=5a018643df03#@hex_proxy ⁶
 vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5a018643df03&sni=www.microsoft.com#🇫🇮 Join+Telegram:@Farah_VPN 🇫🇮
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.186.182:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪AZARBAYJAB1
@@ -503,3 +501,5 @@ vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.23.106:2053?path=/?u=ommkkob
 vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.26.230:2053?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#7
 vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.54.188:2096?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#6
 vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.18.33.162:2083?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#11
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.19.144.99:8443?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#8
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.19.32.166:443?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#[ 🇨🇦 ] | @Cfox_SerVer
