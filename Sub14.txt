@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#@meliproxyy
-vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#@proxy_kafee - 🫜3
 vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#@proxy_kafee - 🫜4
 vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#@proxy_kafee - 🫜5
 vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#@vmesskhodam
@@ -503,3 +501,5 @@ vless://f2900749-7cff-42b7-9566-dfb03840d374@herd.zavqeron.ir:2053?path=/de2-cdn
 vless://f2900749-7cff-42b7-9566-dfb03840d374@herd.zavqeron.ir:2053?path=/de2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#[43101] - Telegram : @V2All
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?encryption=none&security=tls&sni=zavqeron.ir&fp=chrome&alpn=h3,h2,http/1.1&type=ws&host=land.zavqeron.ir&path=/fi-cdn#Tel: @Daily_Configs
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?encryption=none&type=ws&host=land.zavqeron.ir&path=/fi-cdn&security=tls&fp=chrome&sni=zavqeron.ir&alpn=h3,h2,http/1.1#@V2RAYNG_IP
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=land.zavqeron.ir&fp=chrome&type=ws&sni=zavqeron.ir#@v2ray_phoenix
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=land.zavqeron.ir&fp=chrome&type=ws&sni=zavqeron.ir#[43133] - Telegram : @V2All
