@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2ray_Alpha🤪 3
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2ray_confiig
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2rayng_Fast
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti(7)🇫🇷¹
@@ -502,4 +503,3 @@ vless://0e6001f1-fe90-4e8c-9f4f-57071268af6e@digin.riziro.ir:8443?encryption=non
 vless://0e6001f1-fe90-4e8c-9f4f-57071268af6e@hollowcon.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digia.riziro.ir&mode=auto&path=/&pbk=Ve-mF0aFGxV4deOSEA8jDe3FdjxLddF7n4IchNKvcDc&security=reality&sid=c664c8be&sni=au2-images.shop.samsung.com&spx=/tGkMYNH4GUFk9m2&type=xhttp&x_padding_bytes=100-1000#🇳🇱hollowcon-T3@hollowcon
 vless://0e6de971-69e8-4536-b06d-8b6eae57021b@37.143.129.244:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5HArul2NDXfFUxijHj1xiPCfH-77zuuRxylT1vWIvUY&security=reality&sid=48fd192dc4e46bc0&sni=gateway.icloud.com&type=tcp#⛽91@oneclickvpnkeys
 vless://0ecf2aa4-0ae7-1a4f-5455-b116c864542d@it.kanzelo.ir:8443?encryption=none&flow=&headerType=http&host=play-apps-features.googleusercontent.com&type=tcp#🇨🇭171285 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0ecf2aa4-0ae7-1a4f-5455-b116c864542d@it.kanzelo.ir:8443?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#Telegram: @Daily_Configs
