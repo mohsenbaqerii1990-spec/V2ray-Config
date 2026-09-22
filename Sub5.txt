@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://23ddda0f-6333-493a-839d-f9c8e561f7e4@helvetica.pelmexo.ir:7911?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
-vless://2402a18b-77f3-4346-db46-4284cb037bb3@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.xelira.ir&fp=chrome&type=ws&sni=cdn.xelira.ir#@VpnCostumer+|+بیا+تو+وصل+باش+💙
-vless://24051e17-a1c9-4566-a331-789e6b681007@germanynewirancell.xdragonfroums.com:32210?security=none&encryption=none&headerType=none&type=tcp#@Net2ray ⭐️
 vless://24051e17-a1c9-4566-a331-789e6b681007@turkeynewvdflvvjfkdsjvlk3jvoijuvoisdfjvoi3ju2voisfjdoivodfsiv.nevoxa.ir:32210?encryption=none&security=none&type=tcp&headerType=none##🇩🇪All¹ | @BigSmoke_Config
 vless://24051e17-a1c9-4566-a331-789e6b681007@turkeynewvdflvvjfkdsjvlk3jvoijuvoisdfjvoi3ju2voisfjdoivodfsiv.nevoxa.ir:32210?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
 vless://24051e17-a1c9-4566-a331-789e6b681007@turkeynewvdflvvjfkdsjvlk3jvoijuvoisdfjvoi3ju2voisfjdoivodfsiv.nevoxa.ir:32210?security=none&encryption=none&headerType=none&type=tcp#@Net2ray 🌟
@@ -503,3 +500,6 @@ vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@185.20.137.118:443?security=reality
 vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@185.20.137.118:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#@V2_MOD_SHOP-🇫🇮
 vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@185.20.137.118:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#Tel-@ProxyMtAlpha🦌 9
 vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@185.20.137.118:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#[ 🇫🇮 ] | @Cfox_SerVer
+vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@206.1.97.61:443?security=reality&encryption=none&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&headerType=none&fp=chrome&type=tcp&sni=Miro.com&sid=d7397feef49deef9#@V2_MOD_SHOP-🇹🇷  𝐓𝐮𝐫𝐤𝐞𝐲
+vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@206.1.97.61:443?security=reality&encryption=none&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&headerType=none&fp=chrome&type=tcp&sni=Miro.com&sid=d7397feef49deef9#@V2_MOD_SHOP-🇹🇷 𝐓𝐑
+vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@206.1.97.61:443?security=reality&encryption=none&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&headerType=none&fp=chrome&type=tcp&sni=Miro.com&sid=d7397feef49deef9#@V2_MOD_SHOP-🇹🇷 𝐓𝐑 - 𝐓𝐮𝐫𝐤𝐞𝐲

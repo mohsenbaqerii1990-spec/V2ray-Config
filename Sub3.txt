@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@v2rayng3
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2ray_Alpha🥒 15
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@i10VPN6️⃣
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@i10VPN⁸
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@vasl_bashim
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
@@ -503,3 +500,6 @@ vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.17.111.93:443?encryption=none&f
 vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.17.167.194:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.17.211.153:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.17.232.112:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
+vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.131.38:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
+vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.160.210:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
+vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.187.203:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.131.38:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
-vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.160.210:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
-vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.187.203:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.18.211.65:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.19.19.39:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.24.254.202:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
@@ -503,3 +500,6 @@ vless://23ddda0f-6333-493a-839d-f9c8e561f7e4@comte.farxmode.ir:8080?security=rea
 vless://23ddda0f-6333-493a-839d-f9c8e561f7e4@comte.farxmode.ir:8080?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com#@V2ray_Alpha🐽 2
 vless://23ddda0f-6333-493a-839d-f9c8e561f7e4@comte.farxmode.ir:8080?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
 vless://23ddda0f-6333-493a-839d-f9c8e561f7e4@helvetica.pelmexo.ir:7911?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com#16--Tel-@V2rayAlpha
+vless://23ddda0f-6333-493a-839d-f9c8e561f7e4@helvetica.pelmexo.ir:7911?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
+vless://2402a18b-77f3-4346-db46-4284cb037bb3@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.xelira.ir&fp=chrome&type=ws&sni=cdn.xelira.ir#@VpnCostumer+|+بیا+تو+وصل+باش+💙
+vless://24051e17-a1c9-4566-a331-789e6b681007@germanynewirancell.xdragonfroums.com:32210?security=none&encryption=none&headerType=none&type=tcp#@Net2ray ⭐️
