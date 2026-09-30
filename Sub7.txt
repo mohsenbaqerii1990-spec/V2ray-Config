@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5e03bdbb-cb39-4c6e-8ee5-eb549b5e7a70@65.109.193.102:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#kurdconfig
 vless://5e03bdbb-cb39-4c6e-8ee5-eb549b5e7a70@65.109.193.102:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://5e0d4371-23c1-4f16-89db-99c9c055af94@ve9373773jsjdbshaz.hormozmobile10.ir:80?path=/bmi.ir&security=&encryption=mlkem768x25519plus.native.0rtt.Wg5TVfnlm0CabTFH0GXjIPTikGte0ijy4urzlGaNyj8&host=play-apps-features.googleusercontent.com&type=ws#@Tarkshodeh 🇧🇿
 vless://5e3f974b-06fc-4555-907a-6681391b7c17@186.246.19.79:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#Free x344 @Outline_Vpn
@@ -502,4 +503,3 @@ vless://7acf89aa-9283-48bd-81a1-de35edf8737d@91.107.155.220:56539?security=none&
 vless://7b11c7e2-cb50-4aad-8bc4-996fdde69b4d@45.134.38.8:10071?security=reality&encryption=none&pbk=vKwb09bRtduMwrkaiyGl8_W40BxT2dSGb-3xmD1JuWY&headerType=none&fp=chrome&type=tcp&sni=commondatastorage.googleapis.com&sid=bd2efbd84a3817aa#@irdusti(19)🇩🇪
 vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#10-IR--@V2rayAlpha
 vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#11-IR--@V2rayAlpha
-vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#@meliproxyy
